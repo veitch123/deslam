@@ -1,6 +1,32 @@
 {
- "instructions": "haiku456j099byihzsd",
- "model": "claude-haiku-4-5",
- "queue": null,
- "answers": []
+  "instructions": "haiku456j099byihzsd",
+  "model": "claude-haiku-4-5",
+  "queue": "2026-09-29T22:05:25.309Z",
+  "answers": [
+    {
+      "key": "ai:body of newborn baby found on shoreline in wales as police search for mother",
+      "category": "none",
+      "headline": ""
+    },
+    {
+      "key": "ai:could changing the pension triple lock pay for burnham's big social care plan?",
+      "category": "none",
+      "headline": ""
+    },
+    {
+      "key": "ai:five takeaways from andy burnham's labour conference speech",
+      "category": "none",
+      "headline": ""
+    },
+    {
+      "key": "ai:faisal islam: triple lock move is significant, but it's a gamble",
+      "category": "none",
+      "headline": ""
+    },
+    {
+      "key": "ai:burnham to fight next election on pledge to change voting system",
+      "category": "none",
+      "headline": ""
+    }
+  ]
 }
