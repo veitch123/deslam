@@ -1,0 +1,2507 @@
+{
+ "instructions": "haiku456j099byihzsd",
+ "model": "claude-haiku-4-5",
+ "piece": "queue/20260929T235320Z-10.json",
+ "answers": [
+  {
+   "key": "ai:srfti kolkata campus clash: of 3 firs filed, 2 against 'unknown students'",
+   "category": "conflict framing",
+   "headline": "SRFTI Kolkata campus disagreement: Of 3 FIRs filed, 2 against \u2018unknown students\u2019"
+  },
+  {
+   "key": "ai:godrej 2 ton 2 star, self clean technology, anti freeze protection, inverter tower ac (copper, ac 2.0t tr tic 24m2tg ga 4, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:iit madras professor says gate can be india's \"entry card\" to the ai revolution",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nigella lawson's 6-minute method for 'ridiculously light' syrup sponge",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:bloomberg surveillance tv: september 29th, 2026",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nasa spacecraft discovers moon crater bigger than roman colosseum",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:national coffee day: prices rise, but deals are brewing",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:if you're new to insulin or glp-1s, put this $9 travel case on your packing list",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\"she tried to add eyes to it so it looked less like a pair of t*ts\": i'm so, so, so sorry, but i simply cannot stop giggling at these 37 hilarious fails from last week",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:iran warns no regional oil is safe as irgc touts new weapons",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:trump is set to extend the qatar camp housing more than 1,000 afghans who helped the u.s. war effort",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:blue door open to everest slot after front-running win in heritage",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:how the chairman's train is redefining luxury rail travel",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'we got naked and covered ourselves in vaseline': katherine hubbard on photographing her ailing mother",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:puppy love! statue honouring brave dog named tsunami who helped rescue trapped victims after venezuela earthquake is unveiled",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:jerry jones blames cowboys coaching staff for week 3 loss to ravens",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ai 'kill chain': what happens when humans trust bad data at the worst possible moment",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\u0909\u091c\u094d\u091c\u0948\u0928 \u0938\u0947 \u0915\u094b\u091f\u093e 3 \u0918\u0902\u091f\u0947 \u092e\u0947\u0902, \u092e\u093e\u0932\u0935\u093e \u0938\u0947 \u0926\u093f\u0932\u094d\u0932\u0940-\u092e\u0941\u0902\u092c\u0908 \u0915\u093e \u0938\u092b\u0930 \u0939\u094b\u0917\u093e \u0906\u0938\u093e\u0928, mp \u0938\u0947 \u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u0915\u0947 \u092c\u0940\u091a \u092e\u0939\u093e\u0915\u0928\u0947\u0915\u094d\u091f\u093f\u0935\u093f\u091f\u0940",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:mcdonald's pushes ai tools that suggest big mac prices based on 'customer willingness to pay'",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:man city scandal: a by-the-numbers look at how the club was transformed by the abu dhabi takeover",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:howrah station area set for a facelift with skywalk, subways, and 13-storey hub",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:godrej 1.5 ton 3 star, 5 years comprehensive warranty, 5-in-1 convertible cooling, inverter split ac (copper, heavy-duty cooling at 52 deg celcius, ac 1.5t sic 18ttc3 wzq, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:bridging degree-job gap is about asking right questions: experts on ai-era skills",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:frozen spinach will taste much better if you do one simple task before cooking it",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:an airport debate lands in cleveland",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nasa launches its roman space telescope to explore the hidden universe",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:hayden panettiere's ex-fiance files petition over daughter's estate",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:bad news, mr. president: consumer confidence is in the toilet",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\"got the ick\": men are sharing the silliest reasons they've ever lost interest in women, and the responses are truly unhinged",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:shipwreck remains exposed by recent northeast storms",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:rich lister sells sydney home for about $75m as reserve bank hikes rates",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:erling haaland's new kit: dolce & gabbana velvet",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:structural decline: what happened to japan's iconic buildings? \u2013 in pictures",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:trump-voting couple moan about immigration crackdown as they face having to move 2,000 miles away... claiming they're too 'good' to be deported",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:same faces, new places: how college football's transfer qbs are making an impact",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:smart glasses have a privacy problem and meta may have just 'fixed' it",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:social security faces 22% cut, but lawmakers have at least 3 viable options for sparing retirees",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\u092e\u0939\u093f\u0932\u093e \u092c\u0948\u0902\u0915 \u092e\u0948\u0928\u0947\u091c\u0930 \u0915\u0940 \u092c\u0939\u093e\u0926\u0941\u0930\u0940, \u090f\u091f\u0940\u090f\u092e \u0932\u0942\u091f\u0928\u0947 \u0906\u090f \u092c\u0926\u092e\u093e\u0936\u094b\u0902 \u0915\u094b \u092a\u0915\u0921\u093c\u0935\u093e\u092f\u093e",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:why your debt keeps growing even after you've cut back on everything",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:more survivors and victims found after boat carrying 62 capsizes near puerto rico",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:man held for harassing woman at nightclub of five-star hotel in kolkata",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:whirlpool 1.5 ton 3 star, new star rated, magicool inverter split ac (magicool 15t 3s inv cnv s6k2pp0, copper, convertible 4-in-1 cooling mode, hd filter white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:who pays? taxpayer: sc questions inflated medicine prices at private hospitals",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'paranoid' celebrity traitors stars beg bbc to see edit so they 'don't come across badly'",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:data center opposition spawns a surge of first-time candidates",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:roman space telescope promises 300-megapixel views of the cosmos",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:dylan sprouse and barbara palvin welcome their 1st baby together",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:people are sharing the wildest things you can check out from libraries, and i'm actually speechless",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:schools are teaching kindergartners how to ride a bike in gym class",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:as it happened: rba hikes interest rates to 4.6 per cent in 15-year high; openai apologises for medicare data breach",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:no island of strangers: why i'm using art to unite a fractured nation",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:georgia toffolo's card gets declined at borough market after spending \u00a327.50 on lobster paella as she says husband james watt hasn't topped up the joint bank account",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:why athletics outfielder zack gelof is suing tigers for damages",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:why first monsoon drought in 11 years left india dry, and wet",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:sign in to access your portfolio",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u0915\u0947 \u0906\u0926\u093f\u0935\u093e\u0938\u0940 \u092c\u0947\u0932\u094d\u091f \u092e\u0947\u0902 bjp \u0915\u093e \u092e\u093e\u0938\u094d\u091f\u0930\u0938\u094d\u091f\u094d\u0930\u094b\u0915, \u0915\u0948\u0938\u0947 \u0906\u0916\u093f\u0930\u0940 \u0935\u0915\u094d\u0924 \u092e\u0947\u0902 \u092c\u093f\u0917\u093e\u0921\u093c\u093e bap \u0914\u0930 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u0915\u093e \u0916\u0947\u0932?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:smile attire: frances valentine debuts a new collab inspired by mary tyler moore's iconic tv characters",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:china grants a singer a rare exemption over censorship after an unapproved tribute song",
+   "category": "loaded language",
+   "headline": "China grants a singer a rare exemption over censorship after an unapproved tribute song"
+  },
+  {
+   "key": "ai:'village for sale': water crisis hits livelihoods in solapur's tulshi",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:samsung 1.5 ton 5 star bespoke ai inverter smart split ac (2026 model, wifi, energy saving, voice control, powerful cooling, copper, digital inverter, 4 way swing, 5 step convertible, ar60h18d15wnna)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:sc refuses to entertain plea seeking law to curb bullying, ragging in schools",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:avoid nhs queues with private medical cover from less than \u00a31 a day",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the best city shape for shorter commutes",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:dolly parton: an extraordinary life in pictures",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:rihanna shares rare glimpse of daughter rocki in adorable new photos",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the average american can't identify these country flags, so if you can get even 15/30, i'll be seriously impressed",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:l.a.'s unofficial statue of liberty is a fashion nova billboard off the 10 freeway",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'you've got to be pretty tough to be a drag queen out there': damien frost's immaculate queer portraits",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:it's actually the younger generation who'll feel most pain from the end of the triple lock: rachel rickard straus",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:charlie kirk's mother has emotional response to erika kirk speculation in rare interview",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:puja after 'paribartan': what is changing in west bengal's biggest festival",
+   "category": "insinuation",
+   "headline": "Puja after 'paribartan': What is changing in West Bengal\u2019s biggest festival"
+  },
+  {
+   "key": "ai:national energy services reunited corp.",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u092e\u0947\u0902 \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u0915\u0940 \u092a\u093f\u091a \u092a\u0930 \u092d\u093f\u0921\u093c\u0947 \u0928\u0947\u0924\u093e\u0913\u0902 \u0915\u0947 \u092c\u0947\u091f\u0947 ! rca \u091a\u0941\u0928\u093e\u0935 \u092e\u0947\u0902 \u0906\u091c \u0930\u0938\u0942\u0916 \u0914\u0930 \u0938\u093e\u0916 \u0915\u0940 \u0905\u0938\u0932\u0940 \u091c\u0902\u0917",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:alt-pop singer charlotte lawrence tunes into fall style",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:congress votes to end production of the penny after 234 years, sending a bill to trump",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:mired in land row, pune's baner-pashan link road work to resume after 12 years",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:samsung 0.95 ton 3 star bespoke ai inverter smart split ac (2026 model, wifi, energy saving, voice control, powerful cooling, copper, digital inverter, 4 way swing, convertible 5in1, ar50h12d1xhnna)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:virat kohli on fitness and focus: how a fit body helps the mind",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:state pensioners getting second \u00a3965 monthly payment on wednesday",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:inside trump's kennedy center renovation plan",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:summer music highlights of 2026",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:5 biggest 2026 vma moments, from taylor swift to madonna",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:i prepped 100 meals in 1 day - youtube",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:should i stay in my stagnant long-term relationship, or leave it to explore love with my crush?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:learn more about guardian labs content",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:british gas took \u00a33,483 from my account for a new boiler... when i'd already paid: sally sorts it",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:comedian nate bargatze reveals biggest failing as car owner in unlikely new role",
+   "category": "loaded language",
+   "headline": "Comedian Nate Bargatze says biggest failing as car owner in unlikely new role"
+  },
+  {
+   "key": "ai:\"natural\", \"multigrain\", \"no added sugar\" and more: food labels indians misunderstand the most",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:woolly mammoth to be resurrected with the help of ai, say scientists",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:sew fresh: meet 7 emerging designers stitching the future of fashion",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:timeline of the premier league vs. manchester city",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:17.1 mm of rain in pune, the first double-digit rainfall reading since august 2",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:godrej 1.5 ton 3 star, 5 years comprehensive warranty, ai powered, 5-in-1 convertible cooling, inverter split ac (copper, model, heavy duty cooling at 52 \u00b0c, ac 1.5t tr hic 18y3tg wa 3s, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:rabies vaccine before a dog bite: which children actually need it?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:state pensioners urged to do 1 important check after bombshell burnham announcement",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:foley bolsters nba vegas team bid in push to top walmart heir",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:photos show celebrations at obama presidential center",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:jimmy kimmel live! heads to brooklyn",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\"i am begging for context:\" 32 absolutely hilarious things people posted online that they 10000000% should have deleted but thank god they never did",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:accessories are the spice of personal style. here are our favorites this month",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:loved clothes live longer",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:fascinating 1950s us time capsule is opened nearly 80 years after it was buried... and its pristine contents are fascinating",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:81-year-old refuses to stop working as wife battles cancer, then strangers try to help",
+   "category": "conflict framing",
+   "headline": "81-year-old refuses to stop working as wife battles cancer, then strangers try to help"
+  },
+  {
+   "key": "ai:10 foods that reveal how india's communities adapted to local climates",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:openai cancels release of latest model 'gpt-6.1 astra' over safety concerns",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:speakeasy society: nyc's hush-hush bars blend prohibition-era mystique with clever cocktails",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:us targets iran's military supply chain as the status of diplomatic talks remains uncertain",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:bjp's 4,000 km anti-drug yatra to end with amit shah's jalandhar show tomorrow",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:lloyd 1 ton 3 star inverter split ac, 2026 new star rated (6 in 1 convertible, cools up to 54\u00b0c, dg mode, ice clean, smart 4 way swing, turbo cool, installation check, white, gls12i3aggsr)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:is army chief dhiraj seth dancing with a major's wife? this video is ai-edited",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:man utd discover jj gabriel u-turn two weeks after asking to leave",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:mckinsey rebukes partner who questioned challenges facing women ceos",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:extended interview: patrick clancy",
+   "category": "clickbait",
+   "headline": "Extended interview: Patrick Clancy"
+  },
+  {
+   "key": "ai:winners of the 2026 zwo astronomy photographer of the year",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:24 wholesome internet posts that'll give your brain a much-needed break from all the internet doom",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:art and hollywood convened in little tokyo for the moca gala",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'wash only when you need to': expert tips for caring for your favourite clothes",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:mystery as mother and son both die after collapsing in georgia yard",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:sylvester stallone shares harrowing new details about abusive childhood",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:dangerous foods that are surprisingly risky to harvest",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:after lpu protests, police step up campus outreach in amritsar, ludhiana",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:chef's kiss: lifestyle legend martha stewart debuts her new lip treatment",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:iraq begins importing gasoline via syrian port to bypass the closed strait of hormuz",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:once chandigarh's biggest slum colony, now set to be a city forest with elevated trails, bird-watching spaces",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:voltas 1 ton 3 star,new star rated, inverter split ac (copper, convertible 5-in-1 cooling mode, 2-way air swing, anti-dust filter with anti microbial coating, auto clean (123inv cam, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:brazil team's traditional welcome in australia falsely shared as indian",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:bake off's nigella lawson has just two words to say on paul hollywood 'feud'",
+   "category": "conflict framing",
+   "headline": "Bake Off's Nigella Lawson has just two words to say on Paul Hollywood 'feud'"
+  },
+  {
+   "key": "ai:ai may force 11 million workers into new jobs, mckinsey says",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:winter holiday flight prices at 10-year high",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:in memoriam: notable people who died in 2026",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:people are freaking out over the \"stuart little\" kid's appearance in \"primetime\" because his scene is absolutely unhinged",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:this l.a. stylist created a chic bohemian bungalow for herself and her three-legged cat",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the fashion comebacks that prove it's worth hanging on to your clothes",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:doggy paddle! playful pooches make a big splash",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:meet 'the devil': actor who plays satan, judas iscariot shares power of comedy in uncertain political times",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:foods shared by india and the middle east that existed long before modern borders",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:5 new sites added to india's unesco tentative list for world heritage",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'ted lasso' season 4, episode 6 recap: children by the millions scream for alice chilton when she comes around",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:a's player zack gelof sues tigers for damages after right knee slammed into comerica park fence",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'dhurandhar' to 'main vaapas aaunga': why chandigarh is drafting a film policy",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:haier 1.5 ton 5 star twin inverter split ac (turbo cooling, energy saving & self-clean, 5 in 1 convertible, copper, 2-way swing, cools in 10 sec at 54\u00b0c, 2026 model, white)-hsa52vp-g5nb-i",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:iit-b prof silences rajdeep sardesai on tv? this interview is fake",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:raf plot bombshell as it emerges fairford suspects may have been on 'dry run'",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:senate passes legislation to limit college player transfers",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:holiday airfares hit highest level in a decade",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:middle east conflict: slideshow",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\"great british baking show\" host alison hammond is being widely praised for the simple five-word comment she made after a seriously awkward misunderstanding with a northern irish contestant",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:a compact adu built on a dramatic ridgeline 'floats' over l.a. and its midcentury neighbor",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:jonathan anderson mixes austen romance with chic streetware in dior's paris show",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:del boy's three-wheeled van from only fools and horses is for sale and could be yours... for \u00a340,000",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:fed raises rates for first time in years: what it means for your wallet",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the dishes people make when welcoming a new baby around the world",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:employee earning \u20b91 lakh a month struggles to save beyond \u20b920,000, internet reacts",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'supergirl' ending explained: how the dc movie (now on hbo max!) differs from book 'woman of tomorrow'",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nigerian billionaire eyes us investors ahead of groundbreaking for $16b kenya refinery",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'i'm now shivalik 2.0': former mumbai indians cricketer after rape fir quashed",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:godrej 1.5 ton 5 star| 5 years comprehensive warranty| turbo mode, window ac (copper, anti corrosive blue fin, ac 1.5t tr wic 18f5tg wa, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:un \u0915\u093f\u0924\u093e\u092c\u094b\u0902 \u092e\u0947\u0902 \u0938\u0941\u092a\u0930\u092a\u093e\u0935\u0930, \u0939\u0915\u0940\u0915\u0924 \u092e\u0947\u0902 \u0932\u093e\u091a\u093e\u0930! \u0908\u0930\u093e\u0928 \u0928\u0947 '\u0936\u094b\u0932\u0947' \u0915\u0947 \u0920\u093e\u0915\u0941\u0930 \u0938\u0947 \u0915\u0938\u093e \u0924\u0902\u091c",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:incredible waterpark is 28c all year named 'uk's best' \u2014 18 slides and wave pools",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:manchester city ceo says sorting probe will take much more time",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:students stop runaway school bus",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:best photos from fifa world cup 2026",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:if you say yes to most of these 22 things, you have the soul of a pensioner",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:is it safe to eat from your garden after the boyle heights warehouse fire?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'just look at this monstrosity!' inside the bilious shed wars",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:reducing the $2t federal deficit could lower inflation, interest rates for americans: crfb",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:sc flags systemic failure: delhi police file 398-page chargesheet; bus lapses under sc glare",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:mumbai passenger shares joy of rapido journey with female driver: 'one of my safest rides'",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:play our newest games!",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:czech government faces no-confidence vote over budget deficit and pm's conflict of interest",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'please help...': after surat woman's viral video, stranded kedarnath pilgrims airlifted",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:voltas 1 ton 3 star, new star rated, inverter split ac (copper, convertible 6-in-1 cooling modes, ai enabled, 4-way swing, sleep mode, auto clean (123inv vertis ai zest gold, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\u092e\u0941\u0902\u092c\u0908 \u092e\u0947\u0902 \u092e\u093e\u0924\u0902\u0917 \u0938\u092e\u093e\u091c \u0915\u093e \u092c\u0921\u093c\u093e \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928, sc \u0906\u0930\u0915\u094d\u0937\u0923 \u092e\u0947\u0902 \u0915\u094b\u091f\u0947 \u0915\u0940 \u092e\u093e\u0902\u0917 \u0915\u094b \u0932\u0947\u0915\u0930 \u0938\u0921\u093c\u0915 \u092a\u0930 \u0909\u0924\u0930\u0947 \u0939\u091c\u093e\u0930\u094b\u0902 \u0932\u094b\u0917",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:5 common cruise mistakes including 2 that passengers make on the first day",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ruchir sharma evaluates india on the rules of economic success",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:what to know about california's new ultra-processed foods label law",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:there are four levels of clumsy \u2013 let's find out which one you are",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:they're raffling off their $2-million home for $7 to travel the world: 'if not now, when?'",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:is tech the secret to a more analogue life? how gadgets, apps and tips could actually reduce your screen time",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:banks warn ai shopping agents could increase risk of scams, fraud and data privacy breaches",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'congress jitao party': devendra fadnavis alleges cjp being used to build narrative against institutions",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nigerian man aims to break indian teen's 127-hour guinness record by dancing non-stop for 7 days",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:daily word search: use your noggin to find the hidden words",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:morocco's king appoints the country's first woman prime minister",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'clearly a love affair, but...': gujarat man gets 20 years in jail in pocso case",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:godrej 1.5 ton 3 star inverter split smart ac (2026 model, hic 18z3tg va/wa iot4, copper condenser, 4-way swing, wi-fi voice & app control, i-sense technology, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\u092e\u094b\u0930\u0915\u094d\u0915\u094b \u0915\u0940 \u092a\u0939\u0932\u0940 \u092e\u0939\u093f\u0932\u093e pm \u092c\u0928\u0940\u0902 \u092b\u093e\u0924\u093f\u092e\u093e \u092e\u0902\u0938\u0942\u0930\u0940, \u091c\u093e\u0928\u0947\u0902 \u0915\u094c\u0928 \u0939\u0948\u0902 \u0914\u0930 \u0915\u0948\u0938\u093e \u0930\u0939\u093e \u0909\u0928\u0915\u093e \u0938\u093f\u092f\u093e\u0938\u0940 \u0938\u092b\u0930",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:petrol and diesel drivers urged to fill up before thursday",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:what the tin can reveals about trump's tariffs",
+   "category": "loaded language",
+   "headline": "What the Tin Can Says About Trump\u2019s Tariffs"
+  },
+  {
+   "key": "ai:'most stressful winter': el nino-fueled coastal erosion in socal likely to get worse",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:from crushes to childhood trauma: what's ok to keep from your partner?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:20 years and $3.7 million later, a historic spanish-style wallace neff home returns to glory",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:get cosy: a stylish scarf, a comfy mattress topper and other buys you loved in september",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:americans' average 401(k) balance reaches record high, fidelity data shows",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ai-generated or temple tradition? varanasi police reject viral lat bhairav dance video",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:pregnancy 'brain fog' is real, study finds, and scientists may know why",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:elderly woman's eviction sets off huge public outcry in madrid",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the macarthur foundation's 'genius' fellows: the full 2026 class list",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'no mat-matantar' in ec: gujarat cm bhupendra patel backs poll panel, alleges congress bid to weaken its credibility",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:samsung 1.5 ton 5 star bespoke ai inverter smart split ac (2026 model, wifi, energy saving, voice control, powerful cooling, copper, digital inverter, 4 way swing, 5 step convertible, ar50h18d15hnna)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\u091c\u092e\u094d\u092e\u0942-\u0915\u0936\u094d\u092e\u0940\u0930 \u0915\u0947 \u092c\u0921\u0917\u093e\u092e \u092e\u0947\u0902 \u092e\u0941\u0920\u092d\u0947\u0921\u093c, \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u0940 \u0932\u0936\u094d\u0915\u0930 \u0915\u092e\u093e\u0902\u0921\u0930 \u092e\u0942\u0938\u093e \u0922\u0947\u0930, \u0911\u092a\u0930\u0947\u0936\u0928 \u091c\u093e\u0930\u0940",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:andy burnham confirms \u00a32 bus cap start date",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ai is rewiring south korea's careers, dating and culture",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:how to reduce microplastics in your morning routine",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:if you score 0 on this general knowledge pub quiz maybe you should take a nap",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:akriila brings her unique alt-pop vision from chile to the world",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'i may have turned into a sausage by the time you read this': the best casserole dishes for stews and pasta sauces \u2013 tested",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:apple's $250m siri settlement: how to claim up to $95",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:evening showers cause waterlogging: imd issues 7pm nowcast warning; andheri subway shut",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:astronaut anil menon shares video of space station doing gymnastics above earth",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:arvell reese was everywhere in giants win over titans | blue rush",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:this year's macarthur 'geniuses' include a musician, painter and economist all confronting history",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:divya mittal, up officer who resigned from ias, announces entry into politics",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:godrej 2 ton 2 star inverter cassette ac, new launch, 1 year comprehensive warranty with 5-in-1 convertible cooling, 360\u00b0 cooling, anti freeze protection (ac 2.0t tr cic 24m2tg wa 4)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\u092a\u093e\u0928 \u092e\u0938\u093e\u0932\u093e \u0910\u0921 \u0935\u093f\u0935\u093e\u0926: \u0936\u093e\u0939\u0930\u0941\u0916-\u091f\u093e\u0907\u0917\u0930-\u0905\u091c\u092f \u0928\u0947 \u0926\u093f\u092f\u093e \u091c\u0935\u093e\u092c! fda \u0928\u094b\u091f\u093f\u0938 \u0915\u0947 \u092c\u093e\u0926 \u0915\u094d\u092f\u093e \u0939\u094b\u0917\u093e?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:every liverpool player to receive premier league medal if man city stripped of titles",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:latin america's strong currency problem",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:scientists hope deeper-rooted soybeans can withstand climate extremes and store more carbon",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:these 16 friendship icks will test how tolerant you really are",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'obsession' star inde navarrette doesn't wish for her wins \u2014 she works for them",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'wonderful, full-fat indulgence': the best (and worst) supermarket lemon cheesecake, tasted and rated",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the next connected device could be the shirt you're wearing",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:passenger drinks beer in disabled coach in mumbai local, throws bottle on tracks; video goes viral",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nasa astronaut jessica meir captures patagonia icefields from space, calls it \"earth art\"",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:lindsay clancy holdout juror speaks out! | the low down",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:andy burnham pledges a radical shake-up for britain in a high-risk political speech",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:two congress leaders held after protest outside cec's agra home, booked for murder attempt",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:lloyd 1.5 ton 3 star inverter split ac, 2026 new star rated (6 in 1 convertible, cools up to 54\u00b0c, turbo cool, installation check, clean filter indication, 100% copper, white (gls18i3aggsc)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:cwc \u092e\u0947\u0902 \u0928\u0940\u0924\u0940\u0936 \u092a\u0930 \u092e\u0924\u092d\u0947\u0926! \u0938\u094b\u0928\u093f\u092f\u093e \u092c\u094b\u0932\u0940\u0902- \u0905\u091a\u094d\u091b\u093e \u0939\u0941\u0906 nda \u092e\u0947\u0902 \u091a\u0932\u0947 \u0917\u090f, \u0926\u093f\u0917\u094d\u0935\u093f\u091c\u092f \u0928\u0947 \u0915\u0939\u093e- \u0938\u093e\u0925 \u0930\u0939\u0924\u0947 \u0924\u094b...",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:how india built and broke the world's biggest options market",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:is the world safer from ai risk after the trump-xi summit?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\"the nurse just shrugged and said, 'you'll figure it out'\"\u2013 parents are sharing the harsh realities of having kids",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:dual citizenship requests are up at the mexican consulate in l.a. here's why and how to apply",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:on the rocks? scotch distilleries pause production as unsold 'whisky loch' grows",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:malicious browser extensions can hijack ai assistants",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:mumbai cjp protest row: group confronts members at shivaji park ahead of october 2 agitation",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:from rural india to the un: the global crusade to end child marriage",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:xavier becerra's excruciating interview sees him stumble over basic questions, gets name wrong in painful watch",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:mamdani releases plan to combat antisemitism amid concerns over his criticism of israel",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:up man accused in pakistan spy case acquitted after 22 years",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:panasonic 1.5 ton 3 star inverter split ac (dustbuster tech,smart auto cool,higher airflow,55\u00b0c oper.,copper cond.,8in1 convertible 2-way,powerful mode,pm0.1 filter,cs/cu-su18bky3t,2026 model,white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the hedge fund veteran betting big on the abundance agenda",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nvidia releases software to stop ai security incidents",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:i try a *lot* of beauty products, and these are the 21 that genuinely stood out to me this month",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:trump elogia su sitio web america.gov, pero su ia oficial contradice muchas de sus afirmaciones",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:angel delight croissants?! the autumn food trends hotlist",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:sylvester stallone says he'd be in 'big trouble' trying to make his career in today's hollywood",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:october belongs to india's festivals: durga puja, birth of river kaveri, anthurium festival, coconut carnival, and other iconic celebrations to look forward to this month",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the conversation india is starting to have about childhood",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:monster hurricane barrels toward us with '34 trillion gallons of rainfall' \u2014 and what it means for california",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:bjp rigged evms for chandra shekhar aazad's win in 2024 lok sabha polls: mayawati",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:lg 1.5 ton 3 star, smart inverter split ac (100% copper condenser, ai convertible 6-in-1, faster cooling & energy saving, diet mode+, hd filter with anti-virus protection,him clean, as-q18jnxe,white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:india recruits its diaspora into the campaign for the rupee",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:tiktok settles alabama lawsuit for at least $100m, will implement safety features",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'looksmaxxing' and 'copium' among 100s of new words added to major dictionary",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ir\u00e1n afirma que guerra de trump ha fracasado y otros acontecimientos en oriente medio",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:autumn food stars: what to cook, plant and pick now",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:josh duhamel credits controversial routine for feeling better than in his 30s",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:8 incredible indian villages where the road is as beautiful as the destination",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:bhagat singh to punjab's water: aap widens its political campaign",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:california universities could scrap english test for international students",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:cop on the roof, suv on the run: how tobacco chase unfolded in tamil nadu",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:voltas 1.42 ton 3 star, new star rated, inverter split ac (copper, convertible 5-in-1 cooling mode, 2-way air swing, anti-dust filter with anti microbial coating, 183inv cav, 2026 model, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:rete ovarii: the female body part ignored for decades may be key for ovary health",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:en la onu, los l\u00edderes mundiales se dijeron: \"estamos juntos en esto\". pero, \u00bfc\u00f3mo funciona eso?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the pet i'll never forget: dennis the terrier \u2013 who once farted on jilly cooper's sofa",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:denny's targets 500 restaurant upgrades as diner chain invests in ai, new technology: 'project grand slam'",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:psychology says some people cry after reaching their dream destination: here's how months of anticipation, freedom, homesickness and the emotional bond with a place can make finally arriving surprisingly overwhelming",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:m kharge calls poll panel chief a 'puppet', lists 5 demands at congress meet",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:lirr rider satisfaction takes a dip after mta's fare hike and ticket changes",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:vijay breaks bread with school kids as tamil nadu expands free breakfast scheme",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:panasonic 2.0 ton 3 star new star rated premium wifi inverter smart split ac (dustbuster tech,matter enabled,ai, higher airflow, copper cond.,8in1 convertible,4-way,pm0.1 filter,cs/cu-su24bky3w,white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:adding a tinned vegetable to my banana bread made it fudgier and longer-lasting",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:l.a. timeless: archive classics",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'whose job is it to empty the dishwasher?' experts on the conversations every couple needs to have",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:buc-ee's closes in on first oklahoma location after co-founder touts business-friendly states",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:from hotel wi-fi to hidden cameras: 7 simple ways to check if your hotel room is safe",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:top court to hear plea against decisions by poll body chief gyanesh kumar next week",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:dodgers star's latest bling comes with jaw-dropping price tag",
+   "category": "priming",
+   "headline": "Dodgers star\u2019s latest bling comes with jaw-dropping price tag"
+  },
+  {
+   "key": "ai:girl in 'sexual abuse video' linked to granite baron veeramani finally traced",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:panasonic 1.5 ton 5 star premium wi-fi inverter smart split ac (matter/miraie, ai, dustbuster, 55\u00b0c oper., copper condenser, 8in1 convertible, 4-way, pm0.1 filter, cs/cu-nu18bky5wx, 2026 model, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:10 superrrrrr awkward moments from the 2026 vmas",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:l.a.'s 16 hardest staircases, ranked by which walks are worth the climb",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:two helicopter pilots flew down low to wave to my three-year-old son \u2013 he was beside himself with joy",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:disney cuts hundreds of jobs across multiple departments: report",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:from kolkata to nagaland: 6 indian celebrations worth travelling for",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:now, maharashtra poll officer demands more powers for local staff in sir",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:jj redick loses trusted coach who helped lakers find success",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:revanth reddy's remark comparing shiva, ram remark triggers bjp backlash",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:panasonic 1.0 ton 5 star premium wi-fi inverter smart split ac (matter/miraie, ai, dustbuster, 55\u00b0c oper., copper condenser, 8in1 convertible, 4-way, pm0.1 filter, cs/cu-nu12bky5w, 2026 model, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:19 weirdly refreshing photos of celebrities that remind us what \"normal\" bodies actually look like",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:events, offers and promotions",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:every rightwing person should have a woke friend and vice versa",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'wizards of waverly place' star david henrie says his faith cost him agents, money and friends in hollywood",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:september rain alert: indian states seeing showers and what it means for travel plans",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:rahul gandhi flags 727 voter exclusions in delhi. what poll body said",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:young defenseman happy for chance to rectify his rangers reputation \u2014 even with future uncertain",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'blasting music at 2 am is not bhakti': allu sirish objects to loud music at hyderabad temple",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:daikin 1.5 ton 4 star inverter split ac (copper | pm2.5 filter| dew clean | hepta sense | triple display | stabilizer inside | ftkp50xv) white",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\"i would like you to hear from the woman you're defending\": the mom from the viral giants game has finally told her side of the story, and the internet may have gotten this very wrong",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:l.a.'s can't-miss food festival is back for two nights only",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:what you need to know about your first home scheme for first-time buyers",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:pope leo visits site of miracle cures, meets people whose unexplained healings stunned doctors",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:passenger gets rs. 31,500 from the bus firm fined for deficient services; gets to travel in non ac and dropped off 10 km short of his destination",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\"since jayalalithaa's death...\": eps vs tvk turns bypoll battle personal",
+   "category": "conflict framing",
+   "headline": "\"Since Jayalalithaa's Death...\": EPS vs TVK Turns Bypoll Battle Personal"
+  },
+  {
+   "key": "ai:openai, google, anthropic agree to attend ai hearing in nyc after subpoena threats",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:is ysrcp going to ally with left for local body polls? meeting triggers speculation",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ifb 1.5 ton 5 star,new star rated,ai powered inverter split ac,hybrid mode, 8in1 flexi mode,heavy duty compressor, 4 way swing, self clean, dual gold fins,100% copper tubes,ci205gn32rgm3, white",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\"this could be two different people\": people can't believe how much taylor swift has changed after seeing this viral comparison of her at the 2024 vs. 2026 vmas",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the rise & fall of a usc dynasty. listen now",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:lv= insurance is ignoring us while our house literally falls apart",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:madison beer gushes over 'incredible' justin herbert, wag culture is headed to college & the nascar swear jar",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:india's wildlife holidays are moving beyond safari sightings to richer, more immersive experiences",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:supreme court's deadline to poll body to settle trinamool poll symbol issue",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:california town shuts down for incredible rodeo on the beach as thousands pack the sand",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:father in kitchen, girls playing drums: andhra pradesh's textbook bid to end gender stereotypes",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:lloyd 1.5 ton 5 star inverter split ac, 2026 new star rated (6 in 1 convertible, cools up to 54\u00b0c, dg mode, ice clean, smart 4 way swing, turbo cool, installation check, white, gls18i5agggw)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:23 screenshots of entitled people not realizing how incredibly out of touch they are",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:l.a. icons. real stories. season 2 out now",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:should you lock into a fixed-rate savings account paying 5.25%?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ross chastain calls ryan blaney's fight with carson hocevar at bristol motor speedway 'nascar 101'",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'court must protect liberty of accused if trial may be delayed', says supreme court",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:venezuelans rally for nobel laureate opposition leader's return, fresh polls",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:homeless man makes a camp, complete with shopping cart, atop a bus shelter in upscale la neighborhood",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:changing transit modes, hired carriers: how bengaluru cops trace drug networks",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:panasonic smart choice 2.0 ton 4 star new star rated premium wifi inverter smart split ac (dustbuster tech,ai,higher airflow, copper cond., 8in1 convertible,4-way,pm0.1 filter,cs/cu-nu24bky4w,white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:literally just 45 really, really, really funny posts from this past week",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:a podcast exploring our rise from the ashes. listen now",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'12 weeks and so disgusted by my dog': what happens when you're pregnant and can't stand your pet?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:momma bear teaches her cub the fine art of ripping open a truck bed cover in a parking lot",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:india bloc meet: 'united' opposition to step up attack on ec, bjp - what's on agenda",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ahead of midterms, team trump airs 2024 ad using taxpayer funds",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:california city considers midnight alcohol ban to fight crime \u2013 triggering backlash from bar owners",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:from rs 4 cr to rs 1,444 cr: kumaraswamy links shivakumar wealth to project fraud",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:godrej 1.5 ton 3 star (5 years comprehensive warranty) 5-in-1 convertible cooling inverter split ac (copper, model, heavy duty cooling at 52 \u00b0c, ac 1.5t ei 18a3t pya ivbl iot, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\"i hate it now\": rich people are revealing the so-called \"luxuries\" that are secretly wayyyy more trouble than they're worth, and these are fascinating rich people problems",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:don't miss a chance to win big!",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:does glp-1 use result in significant hair loss?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:travel + outdoors",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:mp cabinet approves 20% horizontal reservation for former agniveers in uniformed services",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:amritpal singh's waris punjab de a new challenge for akali dal ahead of polls",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:when does 'the drop: a snowfall saga' episode 4 come out? time, livestream",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:must reduce dependence on energy imports, says pmo's shaktikanta das",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:midea 1.36 ton 3 star inverter split ac, mai18sd3r36w0/mai18sd3r36w1",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\"it's basically a secret language now\": people their 30s and 40s are sharing their most unpopular opinion",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:new season. new host. listen now",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:a brain surgeon dropped part of my skull on the floor",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:skydivers watch plane vanish from sight, make split-second decision to jump",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:with eye on new zealand tour, bcci to issue ranji trophy diktat",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:pressure mounts on chief poll officer as opposition plans concerted action",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the 'largest gilmore girls fan celebration ever' is coming to warner bros. this winter \u2014 with a major star set to appear",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:india's coal stocks at power plants slide 24% amid unusual demand surge",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:voltas 243v vectra caj 2 ton 3 star inverter split ac |4-in-1 adjustable mode|energy efficient| anti dust filter with anti-microbial coating| sleep mode | copper condenser coil | white",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:men are confessing the unexpected ways their lives changed after a divorce, and some of their regrets are gut-wrenching",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the hit video series is now a podcast. listen now",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:are girls more social from birth?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:school tied to history's greatest ruler reveals clues about his life before he rose to power",
+   "category": "loaded language",
+   "headline": "School tied to history's greatest ruler says clues about his life before he rose to power"
+  },
+  {
+   "key": "ai:asian games: neeru dhanda, women's 4x400m relay shine as 8-medal haul takes india past 50",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:what do last-minute tickets cost to see the strokes in queens on friday?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:tata trusts proposes strategic reorganisation to avoid listing",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:panasonic 1.0 ton 3 star,new star rated,premium wifi inverter smart split ac(dustbuster tech,matter enabled, ai, higher airflow, copper cond.,8-1 convertible, 2-way,pm0.1 filter,cs/cu-su12bky3w,white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:31 clever, clever, clever people",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:explore latino culture and identity. join the conversation",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:with turbulence all around, armani plays it safe and easy in milan",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:sudden cruise itinerary change leaves some travelers upset, others celebrating 'gigantic win'",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:asian games medal tally: how two gold medals lifted india back into the top 10",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:which huge star just announced a 2027 las vegas sphere residency?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:eye on festive demand as manufacturing drives august industrial output 8% higher",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ifb 1.5 ton 3 star,new star rated,ai powered inverter split ac,hybrid mode, 8in1 flexi mode, heavy duty compressor, 4 way swing, self clean, dual gold fins,100% copper tubes,ci193gn22rgm3, white",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:doctors are sharing the dumbest patient they ever encountered, and i am concerned for the future of humanity",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:play for free today",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'it's problematic': concern as weight-loss jab maker sponsors vogue world event",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:midair scare forces packed passenger jet into emergency landing, travelers hospitalized",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:asian games: india's full schedule on september 30; medal events, and timings",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:france sees us tech fines as piggy bank for eu spending, minister reveals",
+   "category": "loaded language",
+   "headline": "France sees US tech fines as piggy bank for EU spending, minister says"
+  },
+  {
+   "key": "ai:safety, profitability to be key priorities for air india, ceo-designate tewolde gebremariam",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ifb 1.5 ton 3 star, new star rated,ai powered inverter split ac,inbuilt wifi, hybrid mode, 8-in-1 flexi mode, heavy duty compressor, long air throw, self clean, 100% copper,ci183ss22sgm3, white",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\"we just clicked immediately\": 18 celebrity couples that ooze \"healthy relationship vibes,\" and i truly hope they never, ever break up",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:rep your city. wear the times",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:camo's back: noughties pop's military style is on the march again",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:koe wetzel goes viral with stripped-down 'when i'm gone' performance that has fans buzzing",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:parveen hooda's redemption hour: from a lost medal to a shot at boxing gold",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:four new in-n-outs 'opening soon' across california \u2014 here's where",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:feeling lost? every bookshop needs a cat might be just the comfort read for you",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:hitachi 1.5 ton 3 star, new star rated, inverter split ac(copper, wi-fi, smart view display, 4 way swing,ras.d318pcd2bm, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:these 17 signs are so awkwardly funny, they made me question everything i thought i knew about humor",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:48 hours in yerevan: pink architecture, ancient manuscripts and the modern rhythm of a city older than rome",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:dolce & gabbana mixes it up as pressure mounts for turnaround",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'snl' host michael che mocks macklemore's 'free palestine tour' after ed sheeran drops rapper",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:gully to glory: ramandeep singh's journey from chandigarh to team india via kkr",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:why not all extended car warranties are scams \u2014 and what you need to know",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:hanuman chalisa: the prayer that needs no temple",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:carrier 1.5 ton 5 star, new star rated, flexicool inverter split ac (copper, convertible 6-in-1 with smart energy display, insta cool, auto clean and pm 2.5 filter, ester edge gxi-cai18ee5r36f0, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:people are sharing the \"secret\" signs that a woman is far-right, and they got incredibly specific",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:trieste trades the usual italian playbook for habsburg grandeur, roman ruins and european coffee culture",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:saunas, cinnamon buns and coastal scenery on the new rail route from malm\u00f6 to oslo",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:food + drink",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:al fursan-led consortium acquires kerala blasters fc from magnum group",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:california's famous giant artichoke restaurant closing after 25-year run, as it lists for $1.8m",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:your call is important to us. please text instead",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:godrej 1.5 ton 3 star, 5 years comprehensive warranty, ai powered, 5-in-1 convertible cooling, 4 way air swing, wood finish, inverter split ac (copper, ac 1.5t sic 18vtc3 wyb tk, teak wood)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:people who dated or married millionaires and billionaires are revealing what it's really like, and it's truly bonkers",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:there's a new vanguard of american fine dining this fall (without the coastal waitlists)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'the champagne of pale ales': my search for the perfect k\u00f6lsch beer in cologne",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:forgotten coffee brands americans grew up with \u2014 and what happened to them",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:4x400m women's relay gives india first athletics gold at asian games",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:sister saves her brother's life by donating kidney after his rare diagnosis",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:a naked sydney sweeney is not the end of feminism",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:blue star 1 ton 2 star, new star rated, fixed speed split ac (copper, comfort sleep, turbo cool, blue fins, self diagnosis, fa212txu, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:14 absolutely mind-blowing and very dirty historical sex facts that prove how wildly weird sex was back in the day",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:how desert doghouse became the ultimate joshua tree escape for creatives & brands",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:15 great cottages and cabins for an autumn escape in the uk",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:lobster roll war erupts in new england over controversial ingredient in 'die-hard' divide",
+   "category": "conflict framing",
+   "headline": "Lobster roll war occurs in New England over controversial ingredient in 'die-hard' divide"
+  },
+  {
+   "key": "ai:gulveer completes medal hat-trick at asian games; secures bronze in 5,000m",
+   "category": "clickbait",
+   "headline": "Gulveer completes medal hat-trick at Asian Games; secures bronze in 5,000m"
+  },
+  {
+   "key": "ai:what is a 'backyard ultra'? the endurance race with no finish line that can last for days and hundreds of miles",
+   "category": "insinuation",
+   "headline": "What is a \u2018backyard ultra\u2019? The endurance race with no finish line that can last for days and hundreds of miles"
+  },
+  {
+   "key": "ai:how openai plans to make training ai models safer in three key ways",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:blue star 1.5 ton 3 star, new star rated, window ac (copper, 2 way swing, multi sensors, blue fins, self diagnosis, wfa318gxu, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:emily blunt, chris pratt, and natasha lyonne all warned us about this one \"actor\" \u2014 and her latest on-air mishap has everyone mad again",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:wte miami announces panel topics and featured speakers for 4th annual global travel trade show and summit",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:15 great small hotels, inns and restaurants with rooms for an autumn stay in the uk",
+   "category": "loaded language",
+   "headline": "15 great small hotels, inns and restaurants with rooms for an autumn stay in the UK"
+  },
+  {
+   "key": "ai:restaurants lock up customers' phones as devices become the 'new cigarettes'",
+   "category": "loaded language",
+   "headline": "Restaurants lock up customers' phones as devices become the 'new cigarettes'"
+  },
+  {
+   "key": "ai:pooja singh bags asian games bronze in women's high jump, ends 24-year wait",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:how to help slow muscle loss as you age with 4 simple habits: fitness expert",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'user should always be in control': meta's vp of ai products vishal shah on muse",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:blue star 1.5 ton 5 star, new star rated, inverter split ac (copper,4-way swing, digiq hepta sensor, blue fins,turbo cool, self clean technology (ia518zxu, white))",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:hollywood's most hated actors, according to the people who actually had to work with them",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:prcp and conversant form joint venture to acquire pacific view mall in ventura",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the pest i'll never forget: i turned the toaster upside down. a mouse fell out",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:popular pantry product can't legally be called peanut butter \u2014 here's why",
+   "category": "clickbait",
+   "headline": "Popular pantry product can't legally be called peanut butter \u2014 here's why"
+  },
+  {
+   "key": "ai:neeru dhanda: from tin cans and a borrowed gun to wc history and asian games gold",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:could a tooth supplement increase your workout stamina? people's results are shocking",
+   "category": "priming",
+   "headline": "Could a tooth supplement increase your workout stamina? People\u2019s results are shocking"
+  },
+  {
+   "key": "ai:bose returns to wired earphones after 11 years with new $99 anc pair",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:hitachi smart choice 1 ton 3 star, new star rated, inverter split ac (copper, 4 way swing, ice clean, eev precision- higher performance cooling, ras.g312pcdibs, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:this wildly unsettling candid picture of trump and melania is going viral",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:cim group completes 2535 alsace apartment community in west adams",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:houseplant hacks: should you water plants less in winter?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:new mexico dam nears failure as 25+ states face dangerous flood threat fueled by pacific tropical systems",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ipl: mohit sharma set to join csk as bowling coach",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:is the dyson airwrap worth the money? its early prime day sale price might make you buy it",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:uber ceo on work-life balance: 'don't come here if you want to coast'",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:hitachi smart choice 2 ton 3 star, new star rated, inverter split ac (copper, 4 way swing, ice clean, eev precision- higher performance cooling, anti bacterial filter, ras.g322pcdibs, white)",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:38 truly, positively, tremendously, stupendously, ridiculously, unbelievably, unfathomably hilarious things women posted on the internet this week",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:anxiety had me hiding from the world \u2013 then two magic questions set me free",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:timeline: when will dangerous, tropically enhanced flooding reach the southwest, southern plains and midwest?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'if he thinks about 100 centuries': rahane on if kohli can reach the milestone",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:your step counter is doing the bare minimum \u2014 this garmin is 39% off and tracks way more",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:youtuber passenger paramvir alleges racism in las vegas, shares encounter",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:#malavikamohanan stuns in a chic black skirt & white top, effortlessly elegant on a night out!",
+   "category": "fluff",
+   "headline": "#MalavikaMohanan wears a chic black skirt & white top, effortlessly elegant on a night out!"
+  },
+  {
+   "key": "ai:now that fast-food chains have outpaced the national inflation rate, this viral list of 25 ridiculously overpriced items in today's economy has people on the verge of a breakdown, and it hurts",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the hunk shortage: where are england's handsomest men hiding?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:tropical storm hanna churns in atlantic as the year without a hurricane continues amid impending super el ni\u00f1o",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ilt20 season 5 player auction: babar, hasaranga lead pool; uae stars could gain edge",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nobody wants $10 starbucks coffee: this top espresso machine saves you nearly $2,000 on lattes a year",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:uk eases immigration for erasmus+ visitors from october 8: what changes for indian students",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:#pratibharanta lights up the city with her natural charm as she's spotted out and about.",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:trump shared a heavily edited photo on truth social, but people found the original and it's absolutely embarrassing",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:prison letters: the teenager writing letters to jailed climate activists \u2013 documentary",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nolo forecast to remain a powerful hurricane after dumping one final round of soaking rain on hawaii",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'nothing has changed': rohit sharma opens up on his special bond with virat kohli",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:inside the notorious hollywood hills 'squatter mansion' hitting the market for $4.4 million",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:today news headlines for school assembly, september 30",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:parineeti chopra spotted at mumbai airport, keeping it effortlessly stylish as always",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:more than 80 million people saw this viral clip of a mom at a giants game, and had a whole lot to say about it",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:you may have missed",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:chazz palminteri reveals why he turned down $1 million while broke | the craig carton show",
+   "category": "loaded language",
+   "headline": "Chazz Palminteri Says Why He Turned Down $1 MILLION While Broke | The Craig Carton Show"
+  },
+  {
+   "key": "ai:an se-young completes badminton's golden sweep with asian games win over yamaguchi",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:tyler perry lists $57m beverly hills mansion where prince harry and meghan markle hid after fleeing the palace",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the music they choose: are teenagers really choosing it?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:sussanne khan makes a stylish airport appearance as she heads to her next destination",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:\"they're basically death traps for certain people\": medical professionals are sharing common behaviors that are actually surprisingly dangerous",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:why is israel so afraid of the film naza? we spoke to its directors",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:patrick mcenroe asks congress to protect american college athletes | tomi lahren is fearless",
+   "category": "clickbait",
+   "headline": "Patrick McEnroe Asks Congress to Protect American College Athletes | Tomi Lahren is Fearless"
+  },
+  {
+   "key": "ai:'there's no problem': virat kohli addresses rumours, camaraderie with shubman gill",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:luxury la condo towers at risk of losing utilities after developer stops paying bills",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:how patriarchy controls young women in indian homes",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:papped! alia bhatt keeps it chic as she heads to her next destination.",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:rita wilson posted a topless pic showing off a huge back tattoo, and it needs to be seen to be believed",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:61m tonnes of rubble: gaza aid workers face delicate task of clearing ruins concealing up to 10,000 bodies",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nick saban exposes himself on espn with mississippi state kamario taylor comments | don't @ me w/ dan dakich",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'she can go sub-54': after breaking pt usha's record, vithya's coach sets new target",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:rare lake placid '70s time capsule' hits market for first time in half a century \u2014 complete with groovy living room spa",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:children and technology: why ai needs literacy, not a blanket ban",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:shura khan enjoys quality time with family at a bandra caf\u00e9",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:people are sharing \"open secrets\" in hollywood that would shock the general public, and turns out everything i thought i knew about movies was a lie",
+   "category": "priming",
+   "headline": "People Are Sharing \"Open Secrets\" In Hollywood That Would Shock The General Public, And Turns Out Everything I Thought I Knew About Movies Was A Lie"
+  },
+  {
+   "key": "ai:tell us: have you had the shingles vaccine in the hope of reducing your dementia risk?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the ingraham angle - monday, september 28",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:alix earle's rumored fernando mendoza romance gets messy with tom brady connection",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:trader joe's, welch's slapped with lawsuits over ingredients lurking in 'sugar-free' foods",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:cbse date sheet 2027 live updates: class 10, 12 exam dates likely by this week",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:mom-to-be karishma tanna radiates pregnancy glow with husband",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:i am deeply disturbed but i physically cannot stop looking at these truly unhinged things people found in their parents' and grandparents' homes",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:tell us: have you been affected by the incident at raf fairford?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:stefon diggs felony strangulation trial begins with nfl receiver denying everything",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:patrick mahomes' $320 million investment rises after chiefs star matches tom brady's nfl record",
+   "category": "clickbait",
+   "headline": "Patrick Mahomes\u2019 $320 million investment rises after Chiefs star matches Tom Brady\u2019s NFL record"
+  },
+  {
+   "key": "ai:california takes over yelp's best new us restaurants \u2014 with la landing #2",
+   "category": "loaded language",
+   "headline": "California takes over Yelp\u2019s best new US restaurants \u2014 with LA landing #2"
+  },
+  {
+   "key": "ai:tamil nadu launches one gram gold ring scheme for newborns at government hospitals",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:holiday calling! rahul vaidya steps out for a family trip",
+   "category": "fluff",
+   "headline": "Holiday Calling! Rahul Vaidya Steps Out for a Family Trip"
+  },
+  {
+   "key": "ai:21 mental disorders professionals say are the toughest to treat, and the reasons are heartbreaking",
+   "category": "priming",
+   "headline": "21 Mental Disorders Professionals Say Are The Toughest To Treat, And The Reasons Are Concerning"
+  },
+  {
+   "key": "ai:tell us: have you recently been assaulted on great britain's railways?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:canadian broadcaster reportedly pulled after recording anti-israel protest outside service",
+   "category": "none",
+   "headline": ""
+  }
+ ]
+}
