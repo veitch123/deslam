@@ -1,0 +1,107 @@
+{
+  "instructions": "haikutrialjames",
+  "model": "claude-haiku-4-5",
+  "piece": "queue/20260930T213500Z-99.json",
+  "answers": [
+    {
+      "key": "trial00",
+      "category": "fluff",
+      "headline": "Esther Rantzen appears in final pictures with family"
+    },
+    {
+      "key": "trial01",
+      "category": "escalation",
+      "headline": "Plane came close to crashing after pilot stabbed captain in attempted hijacking"
+    },
+    {
+      "key": "trial02",
+      "category": "insinuation",
+      "headline": "Someone is having regular sex with their male best mate"
+    },
+    {
+      "key": "trial03",
+      "category": "none",
+      "headline": ""
+    },
+    {
+      "key": "trial04",
+      "category": "none",
+      "headline": ""
+    },
+    {
+      "key": "trial05",
+      "category": "clickbait",
+      "headline": "Here is how to boost your pay by £13k"
+    },
+    {
+      "key": "trial06",
+      "category": "none",
+      "headline": ""
+    },
+    {
+      "key": "trial07",
+      "category": "escalation",
+      "headline": "Captain who helped prevent a hijacking attempt pictured after co-pilot incident"
+    },
+    {
+      "key": "trial08",
+      "category": "escalation",
+      "headline": "Flydubai plane descended 17,000 feet after co-pilot stabbed captain in attempted hijacking"
+    },
+    {
+      "key": "trial09",
+      "category": "loaded language",
+      "headline": "How Man City's case differs from Chelsea's over breaches"
+    },
+    {
+      "key": "trial10",
+      "category": "loaded language",
+      "headline": "Prime Minister would be concerned to lose Man City billionaire owners after guilty verdict"
+    },
+    {
+      "key": "trial11",
+      "category": "none",
+      "headline": ""
+    },
+    {
+      "key": "trial12",
+      "category": "conflict framing",
+      "headline": "Arsenal and Spurs could both seek to sign £80m-rated Kroupi as he nears return"
+    },
+    {
+      "key": "trial13",
+      "category": "none",
+      "headline": ""
+    },
+    {
+      "key": "trial14",
+      "category": "none",
+      "headline": ""
+    },
+    {
+      "key": "trial15",
+      "category": "escalation",
+      "headline": "A new rule preventing benefit cheats from driving is coming into force tomorrow"
+    },
+    {
+      "key": "trial16",
+      "category": "clickbait",
+      "headline": "Here is how to lose 15 pounds in 8 weeks"
+    },
+    {
+      "key": "trial17",
+      "category": "clickbait",
+      "headline": "Here are warning signs that show a builder is unreliable"
+    },
+    {
+      "key": "trial18",
+      "category": "pseudo-consensus",
+      "headline": "Simba's body pillow is on sale"
+    },
+    {
+      "key": "trial19",
+      "category": "none",
+      "headline": ""
+    }
+  ]
+}
