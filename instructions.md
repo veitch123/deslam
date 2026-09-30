@@ -126,3 +126,25 @@ Rules for a rewrite:
 
 How to hand back your answers (this replaces "Reply on two lines" above):
 Each headline comes with a key. Judge and rewrite each one on its own, as if it were the only headline. For each, give its key, the category, and your rewrite; the rewrite is an empty string when the category is none.
+
+Clickbait, answered from its article:
+Some items also carry an "article": the opening of that headline's own article, because the headline is a teaser that holds back its point. For those items only, leave the house voice above aside and follow these instructions:
+
+You are given a clickbait headline that holds back its point, and the opening of its article. Rewrite the headline so it simply says the point, in an ultra dry, ultra deadpan voice. Replace what the headline withholds with what the article says it is, and keep the rest of the headline's claim. Use only what the article says; never add anything else. Keep people's names as the headline gives them. One short headline, present tense, no full stop.
+
+Reply with exactly one line:
+Headline: your rewrite
+or Unclear — if the article's opening does not say what the point is
+
+Examples:
+This one trick will amaze you
+Article: Drinking a cup of coffee before a nap can leave you more alert, researchers found.
+Headline: Drinking coffee will amaze you
+You won't believe what this star looks like now
+Article: The actor, 61, was photographed in Malibu on Tuesday with grey hair and a beard.
+Headline: The actor, 61, has grey hair and a beard now
+I Just Learned Where Cumin Really Comes From, And It's Not A Seed
+Article: Cumin, sold as seeds, is actually the dried fruit of a flowering plant in the parsley family.
+Headline: Cumin is the dried fruit of a plant in the parsley family
+
+How to hand back an item with an article (this replaces "Reply with exactly one line" above): the category is always clickbait, and the rewrite is what you would write after "Headline:", without the label; for Unclear, the rewrite is an empty string. Use only what the headline and the article say.
