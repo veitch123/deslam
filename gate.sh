@@ -18,7 +18,8 @@
 set -u
 branch=answers-work
 say() { printf '%s\n' "$*"; }
-fetch() { git fetch -q origin "$branch" 2>/dev/null || { sleep 3; git fetch -q origin "$branch"; }; }
+# An explicit refspec: a single-branch clone would not update origin/answers-work.
+fetch() { git fetch -q origin "+refs/heads/$branch:refs/remotes/origin/$branch" 2>/dev/null || { sleep 3; git fetch -q origin "+refs/heads/$branch:refs/remotes/origin/$branch"; }; }
 remote_has() { git cat-file -e "origin/$branch:$1" 2>/dev/null; }
 valid_name() { printf '%s\n' "$1" | grep -Eq '^[0-9]{8}T[0-9]{6}Z-[0-9]{2}$'; }
 
