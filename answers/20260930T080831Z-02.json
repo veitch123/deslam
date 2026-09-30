@@ -1,0 +1,732 @@
+{
+ "instructions": "haiku456j099byihzsd",
+ "model": "claude-haiku-4-5",
+ "piece": "queue/20260930T080831Z-02.json",
+ "answers": [
+  {
+   "key": "ai:m62 traffic recap: rush hour chaos after crash 'partially blocks' major motorway",
+   "category": "escalation",
+   "headline": "Rush hour traffic on M62 after crash partially blocks motorway"
+  },
+  {
+   "key": "ai:strictly judge motsi mabuse criticises fans for 'tearing apart' presenters in cruel backlash",
+   "category": "loaded language",
+   "headline": "Strictly judge Motsi Mabuse criticises fans for criticising presenters"
+  },
+  {
+   "key": "ai:what do professional cyclists think about artificial intelligence?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:presley gerber reportedly filmed inside sober living house before death",
+   "category": "insinuation",
+   "headline": "Presley Gerber was filmed inside sober living house before his death"
+  },
+  {
+   "key": "ai:david shoebridge wants the greens to 'seize this moment'. is his more combative style the answer?",
+   "category": "loaded language",
+   "headline": "David Shoebridge wants the Greens to seize this moment"
+  },
+  {
+   "key": "ai:apple pay lands in india: check if you're eligible before you tap to pay",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:israel-bound flight diverted to saudi arabia after brawl between pilots, israeli official says",
+   "category": "conflict framing",
+   "headline": "Israel-bound flight diverted to Saudi Arabia after dispute between pilots, Israeli official says"
+  },
+  {
+   "key": "ai:'who was deleted?' kharge raises alarm over 13.3 crore voters removed from electoral rolls",
+   "category": "escalation",
+   "headline": "Kharge says 13.3 crore voters have been removed from electoral rolls"
+  },
+  {
+   "key": "ai:india bloc meeting live: india parties must stand together and seek 'complete transparency' in electoral roll revision, kharge says in opening remarks",
+   "category": "pseudo-consensus",
+   "headline": "INDIA parties meet to discuss electoral roll revision, Kharge seeks transparency"
+  },
+  {
+   "key": "ai:stocks rise as us data and micron pose key tests: markets wrap",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:gold rate today: 24k vs 22k vs 20k prices",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:jean batten: the superstar aviator who twice chose seclusion",
+   "category": "loaded language",
+   "headline": "Jean Batten: Aviator who twice chose seclusion"
+  },
+  {
+   "key": "ai:tyson fury vs anthony joshua press conference: date, time and free live stream as british icons face off in london",
+   "category": "conflict framing",
+   "headline": "Tyson Fury vs Anthony Joshua press conference: Date, time and live stream"
+  },
+  {
+   "key": "ai:thunderbirds was far more than puppets on strings – it was a strikingly optimistic view of humanity",
+   "category": "loaded language",
+   "headline": "Thunderbirds was far more than puppets on strings – it was optimistic about humanity"
+  },
+  {
+   "key": "ai:man city charges live: punishment latest, board to told to resign, ferran soriano video",
+   "category": "loaded language",
+   "headline": "Man City faces charges: punishment latest, board resignation calls, Ferran Soriano video"
+  },
+  {
+   "key": "ai:candace cameron bure gives update on preemie grandson born at just 3 lbs",
+   "category": "fluff",
+   "headline": "Candace Cameron Bure gives update on grandson born prematurely at 3 pounds"
+  },
+  {
+   "key": "ai:us supreme court denies christa pike's last-ditch bid to halt execution - bbc",
+   "category": "loaded language",
+   "headline": "US Supreme Court denies Christa Pike's bid to halt execution"
+  },
+  {
+   "key": "ai:veteran white politician nicknamed 'grandmother' shakes up johannesburg mayor race",
+   "category": "loaded language",
+   "headline": "Veteran white politician nicknamed 'grandmother' runs in Johannesburg mayor race"
+  },
+  {
+   "key": "ai:karan johar confirms koffee with karan to end, announces its last season: '22 years later...'",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'clarify if rape took place': court raps punjab cops over lpu violence, asks about reddit post",
+   "category": "loaded language",
+   "headline": "Court criticises Punjab police over LPU violence, asks about Reddit post"
+  },
+  {
+   "key": "ai:mahua moitra's plea in sc alleging eviction from circuit house to be heard on october 1",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:eruption of indonesia's krakatau volcano creates islands",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:aap won't take part in india bloc's meeting on ec",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:m60 traffic live updates as queues build up following two crashes",
+   "category": "escalation",
+   "headline": "M60 traffic updates as queues build up after two crashes"
+  },
+  {
+   "key": "ai:energy bills to soar to highest level in four years from january, top experts warn",
+   "category": "escalation",
+   "headline": "Energy bills will reach their highest level in four years from January, experts say"
+  },
+  {
+   "key": "ai:woman has both legs amputated 'after surgeon mixes up left and right' as surgery goes 'catastrophically wrong'",
+   "category": "escalation",
+   "headline": "Woman has both legs amputated after surgeon mixes up left and right during surgery"
+  },
+  {
+   "key": "ai:more flights at manchester airport may be better than heathrow third runway, says andy burnham",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:labour party conference live: rejoining the eu is on the table, says burnham - the telegraph",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:singapore's temasek to open riyadh, abu dhabi offices in middle east expansion",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:husband fights bank over late wife's savings; win 10k",
+   "category": "clickbait",
+   "headline": "Husband fights bank over late wife's savings and wins 10000 pounds"
+  },
+  {
+   "key": "ai:police descend on middleton after dozens 'hurl fireworks at traffic' with new powers immediately in place",
+   "category": "escalation",
+   "headline": "Police respond to Middleton after dozens throw fireworks at traffic with new powers in place"
+  },
+  {
+   "key": "ai:m6 closed over 'broken down machinery' as commuters stuck in six miles of traffic & hour-long delays",
+   "category": "escalation",
+   "headline": "M6 closed over broken down machinery as commuters stuck in six miles of traffic with hour-long delays"
+  },
+  {
+   "key": "ai:lando norris' rumoured girlfriend alix earle reveals she's never read a book - leaving fans horrified",
+   "category": "fluff",
+   "headline": "Lando Norris's girlfriend Alix Earle says she has never read a book"
+  },
+  {
+   "key": "ai:chantel jeffries hot shots to slay her 34th birthday",
+   "category": "fluff",
+   "headline": "Chantel Jeffries celebrates her 34th birthday"
+  },
+  {
+   "key": "ai:gerresheimer's quarterly sales recovery boosts shares",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:european defence and security leaders gather in brussels for euronews summit",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:jsw cement to merge with listed arm shiva cement",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:andy burnham could go 'all the way' to rejoining eu — follow live",
+   "category": "loaded language",
+   "headline": "Andy Burnham could go all the way to rejoining EU"
+  },
+  {
+   "key": "ai:energy bills predicted to surge 16% to almost £2,000 in the depths of winter",
+   "category": "escalation",
+   "headline": "Energy bills predicted to increase 16 percent to almost 2000 pounds in winter"
+  },
+  {
+   "key": "ai:qld treasurer washes hands of responsibility for rate hike",
+   "category": "loaded language",
+   "headline": "Queensland treasurer declines responsibility for rate increase"
+  },
+  {
+   "key": "ai:apple pay launched in india: step-by-step guide on how to use on iphone, ipad and apple watch",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:china promete responder si la ue adopta medidas dirigidas contra el comercio chino",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:india vs west indies 2nd odi live score: auqib nabi to make debut",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:punjab grappling with serious drug problem due to poor governance of 'aapda' government: amit shah",
+   "category": "loaded language",
+   "headline": "Punjab has a serious drug problem due to governance of Aapda government, says Amit Shah"
+  },
+  {
+   "key": "ai:martin lewis gives 'simple rule' telling anyone with savings where to put them",
+   "category": "clickbait",
+   "headline": "Martin Lewis gives a simple rule about where to put savings"
+  },
+  {
+   "key": "ai:guess who this fancy girl turned into!",
+   "category": "clickbait",
+   "headline": "A fancy girl has changed appearance"
+  },
+  {
+   "key": "ai:virgin mary wore a hijab, council staff taught - the telegraph",
+   "category": "insinuation",
+   "headline": "Council staff taught that Virgin Mary wore a hijab"
+  },
+  {
+   "key": "ai:india's overseas oil and gas output falls over 12% in 5 years",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:gm battery material supplier vianode explores partnership or sale",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:rbc says 30-year treasury yield at 6% is possible",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:tata 'trust' rift deepens as insider opens new front",
+   "category": "conflict framing",
+   "headline": "Tata trust disagreement deepens as an insider speaks out"
+  },
+  {
+   "key": "ai:full list of holidaymakers exempt from new ees biometric checks",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the dally m awards 2026: red carpet arrivals",
+   "category": "fluff",
+   "headline": "The Dally M awards 2026 red carpet arrivals"
+  },
+  {
+   "key": "ai:hijack fears triggered on plane from dubai after 'pilots fight in cockpit' - metro.co.uk",
+   "category": "escalation",
+   "headline": "Plane from Dubai lands after pilots fight in cockpit"
+  },
+  {
+   "key": "ai:japan's 100+ club: can indi­ans fol­low suit?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:helleniq extends motor fuel discounts through mid-october",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:in ambani home bomb scare case, two bombay hc benches refuse to hear nia's appeal against waze's bail",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:lotto powerball: numbers revealed for $12m jackpot",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:cristiano ronaldo set for showdown talks with manager and head of portuguese fa today after 41-year-old's furious reaction to being an unused sub for first time in 18 years",
+   "category": "conflict framing",
+   "headline": "Cristiano Ronaldo to meet with manager and head of Portuguese FA after not playing as an unused substitute for the first time in 18 years"
+  },
+  {
+   "key": "ai:mum 'at breaking point' as council won't pay for daughter, 6, to get to school",
+   "category": "loaded language",
+   "headline": "Mother describes situation as difficult as council will not pay for daughter's school transport"
+  },
+  {
+   "key": "ai:'you make me want to throw up': republicans attack ex-special counsel jack smith at senate hearing - the guardian",
+   "category": "loaded language",
+   "headline": "Republicans criticise ex-special counsel Jack Smith at Senate hearing"
+  },
+  {
+   "key": "ai:bmw targets margin recovery with cuts and local production",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:maintaining child is not sole responsibility of parent they live with: allahabad high court",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:video: 'this guy is a monster': trump's unusual introduction for google ceo sundar pichai - watch the exact moment",
+   "category": "clickbait",
+   "headline": "Trump gives an unusual introduction for Google CEO Sundar Pichai"
+  },
+  {
+   "key": "ai:urgent new update for nationwide and virgin money customers as 'costs rise again'",
+   "category": "escalation",
+   "headline": "Nationwide and Virgin Money customers face costs rising again"
+  },
+  {
+   "key": "ai:britische wirtschaft hängt andere g7-staaten beim wachstum ab",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:inquiry committee into gulmarg gondola mishap recommends extra rescue wheel, training for guides as first responders",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:scholarships honour 18-year-old singer; 10 recipients became mariachi teachers",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:isha rikhi apologises to fans for disappointing them after bigg boss 20 eviction: 'last few weeks were not easy for me'",
+   "category": "fluff",
+   "headline": "Isha Rikhi apologises to fans after Bigg Boss 20 eviction"
+  },
+  {
+   "key": "ai:francia, inflazione preliminare sale al 3,4% a settembre",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:who is justice surya kant, the 53rd chief justice of india?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:bengal bypolls to test congress-tmc dynamics",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:tom cruise's digger is branded 'the biggest risk of his career' as 'love it or hate it' film divides critics with polarising reviews ranging from 'a masterpiece' and 'insufferable'",
+   "category": "pseudo-consensus",
+   "headline": "Tom Cruise's Digger receives mixed reviews from critics"
+  },
+  {
+   "key": "ai:energy bills in great britain forecast to jump by £276 a year from january - the guardian",
+   "category": "escalation",
+   "headline": "Energy bills in Great Britain forecast to increase by 276 pounds a year from January"
+  },
+  {
+   "key": "ai:deutsche arbeitslosenzahl sinkt auf 2,99 millionen - \"herbstbelebung schwunglos\"",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:2021 antilia bomb scare case: court grants bail to ex-policeman sachin vaze, asks him to stay outside mumbai region",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:tammy hembrow hints she's pregnant as fans question her over 'baby bump' - after sparking engagement rumours with toyboy partner grayson te moana",
+   "category": "insinuation",
+   "headline": "Tammy Hembrow hints she is pregnant as fans question her about weight gain and engagement rumours with partner Grayson Te Moana"
+  },
+  {
+   "key": "ai:uk could rejoin eu, burnham confirms - as pm says totally undoing brexit is 'option' that he will 'consider'",
+   "category": "loaded language",
+   "headline": "UK could rejoin EU, Burnham confirms, as PM considers undoing Brexit"
+  },
+  {
+   "key": "ai:'richly rewarding': why netflix's a different world is the only tv reboot worth watching this year",
+   "category": "loaded language",
+   "headline": "Netflix's A Different World is a TV reboot"
+  },
+  {
+   "key": "ai:burnham opens up energy network in challenge to national grid - the telegraph",
+   "category": "loaded language",
+   "headline": "Burnham opens energy network and challenges National Grid"
+  },
+  {
+   "key": "ai:'this is your chance', judit polgar told me: savitha shri",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:german unemployment rises much more than expected in september",
+   "category": "loaded language",
+   "headline": "German unemployment rises more than expected in September"
+  },
+  {
+   "key": "ai:2 cisf officers booked for alleged corruption at bccl unit in dhanbad",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:what is the mamallan reservoir project in tamil nadu and why is it being opposed? | explained",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ram rajya enters new ncert class 9 book",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'i've never watched a whole episode of peep show': matt king on surviving a stroke and reviving super hans",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'michael phelps of jumbos': e-5 stuns forest officials, swims nearly 10km",
+   "category": "loaded language",
+   "headline": "E-5 elephant swims nearly 10 kilometres, surprises forest officials"
+  },
+  {
+   "key": "ai:fuel costs force tough choices for south east firms - bbc",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:fake apple tech support call centre that duped us residents busted in delhi",
+   "category": "escalation",
+   "headline": "Fake Apple tech support call centre that deceived US residents discovered in Delhi"
+  },
+  {
+   "key": "ai:verso prima perdita mensile da 6 mesi, pesano rendimenti bond",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:fssai suspends seven seas hospitality licence over foul odour, fungal growth, filth",
+   "category": "escalation",
+   "headline": "FSSAI suspends Seven Seas Hospitality licence over odour, fungal growth and dirt"
+  },
+  {
+   "key": "ai:germania, vendite al dettaglio aumentano meno del previsto ad agosto",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nandigram bypoll: congress candidate facing 19-year-old murder, rioting cases to be produced in court",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:air india's ₹10,000 cr ask puts tata halo to test",
+   "category": "loaded language",
+   "headline": "Air India requests 10000 crore rupees, puts Tata's reputation to the test"
+  },
+  {
+   "key": "ai:'more harm than good': burnham reopens brexit question, puts eu rejoin back on table",
+   "category": "loaded language",
+   "headline": "Burnham reopens Brexit question and puts EU rejoin back on table"
+  },
+  {
+   "key": "ai:meet lalit prabhakar: marathi actor playing ajmal kasab in rajkummar rao's prahaar- the ujjwal nikam story",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:juventus affonda dopo conti deludenti e nuovo aumento di capitale",
+   "category": "escalation",
+   "headline": "Juventus struggles after disappointing financial results and capital increase"
+  },
+  {
+   "key": "ai:6-member sit to probe kolkata film institute violence; first report tomorrow",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:southwest monsoon 2026 ends in telangana with 17% deficient rainfall, 38% lower than 2025",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:kashmir's wedding feast faces a generational shift",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:peaky blinders actress charlene mckenna, 42, gives birth to a baby girl and reveals her name in sweet photos after secret pregnancy",
+   "category": "fluff",
+   "headline": "Peaky Blinders actress Charlene McKenna gives birth to a daughter and reveals her name"
+  },
+  {
+   "key": "ai:gay jpmorgan employee sues bank, says boss harassed him and forced him to resign",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:tullow oil loses $196.5 million ghana tax dispute; shares tank",
+   "category": "escalation",
+   "headline": "Tullow Oil loses 196.5 million dollars in Ghana tax dispute and share price falls"
+  },
+  {
+   "key": "ai:india vs pakistan is the toxic rivalry cricket cannot do without",
+   "category": "loaded language",
+   "headline": "India vs Pakistan is a rivalry cricket has"
+  },
+  {
+   "key": "ai:'real masterminds': sanjay raut blames eknath shinde camp for thane leader's murder",
+   "category": "loaded language",
+   "headline": "Sanjay Raut blames Eknath Shinde camp for Thane leader's murder"
+  },
+  {
+   "key": "ai:china añade el arancel del 55% a la carne de vacuno brasileña al alcanzarse la cuota de importación",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:asian games 2026 live: india edges past china 238-237 for third straight compound archery gold",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'we could have had good fun a few decades ago': christine baranski and richard e grant on sex scenes, parties and theatre",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:karishma tanna returns to gym two months after son ved's birth, shares postpartum workout: spin bike, dumbbells and more",
+   "category": "fluff",
+   "headline": "Karishma Tanna returns to the gym two months after her son is born"
+  },
+  {
+   "key": "ai:zambia starts talks with visiting imf mission on new loan programme",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ftse 100 live: gilts lead a broad rally across european bonds",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:reanimated ai greta garbo stars again ... in a ball-bearing advert - the guardian",
+   "category": "escalation",
+   "headline": "Reanimated artificial intelligence Greta Garbo appears in a ball-bearing advert"
+  },
+  {
+   "key": "ai:koffee with karan season 9: karan johar announces end of his iconic talk show that 'nearly put an end to careers'",
+   "category": "loaded language",
+   "headline": "Karan Johar announces end of his talk show"
+  },
+  {
+   "key": "ai:violence against women in south africa is national shame, president says",
+   "category": "loaded language",
+   "headline": "Violence against women in South Africa is a shame, president says"
+  },
+  {
+   "key": "ai:emma willis urged to host strictly with husband matt after josh widdicombe backlash - london evening standard",
+   "category": "conflict framing",
+   "headline": "Emma Willis is urged to host Strictly with husband Matt after Josh Widdicombe"
+  },
+  {
+   "key": "ai:cockpit fight between pilots, not hijacking: israel-bound flydubai plane carrying 180 lands in saudi arabia after scare",
+   "category": "escalation",
+   "headline": "Cockpit fight between pilots: Israel-bound FlydubAI plane carrying 180 lands in Saudi Arabia after scare"
+  },
+  {
+   "key": "ai:order to include jd(s) mlc suraj revanna as accused in 2019 case quashed",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:near misses at sydney airport 20% above national average, regulator finds",
+   "category": "escalation",
+   "headline": "Near misses at Sydney airport are 20 percent above national average, regulator finds"
+  },
+  {
+   "key": "ai:'virat kohli will realise in a few years why he didn't play test cricket longer': kapil dev won't ask him to return",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:russia extends diesel export ban until end of october",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:zohran mamdani just spilled exactly what was on his mind during that viral trump moment",
+   "category": "clickbait",
+   "headline": "Zohran Mamdani says what was on his mind during a moment with Trump"
+  },
+  {
+   "key": "ai:ferrari say team has 'made its choices' and there's no vacancy for christian horner - the guardian",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:from land of smiles to gurugram: i dined with chef bongkot sabpong at spectra for 6-course meal and this is how it went",
+   "category": "fluff",
+   "headline": "Chef Bongkot Sabpong serves 6-course meal at Spectra restaurant"
+  },
+  {
+   "key": "ai:ölpreisschock treibt inflationsrate in frankreich auf 3,4 prozent",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:concerned citizens urge cji to uphold liberty of umar khalid and sharjeel imam",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:eeuu estudiará límites arancelarios en el acuerdo comercial sobre la investigación del exceso de capacidad",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:indonesian governor orders halt on data-centre project by singapore's bdx due to lack of permits",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:delhi hc seeks jail authorities' response on sharjeel imam's plea to access e-record to complete phd",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:sex, drugs and floral fabrics: celia birtwell relives her wild times – and wilder outfits – with ossie clark",
+   "category": "fluff",
+   "headline": "Celia Birtwell discusses her time with Ossie Clark"
+  },
+  {
+   "key": "ai:french preliminary inflation up at 3.4% in september",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nmr spectroscopy from its origins to hyperpolarisation and beyond - chemistry world",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:gold fields aims to woo northern star investors after miner's rebuff",
+   "category": "loaded language",
+   "headline": "Gold Fields aims to attract Northern Star investors after miner declines"
+  },
+  {
+   "key": "ai:european shares set for first monthly loss in six as bond yields weigh",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:uk automotive software provider pinewood's first-half profit rises on seez contribution",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:iran receives us feedback on seven-day trust-building plan",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:doordash to create 3,000 jobs in india",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:doordash to create 3,000 jobs at global tech centre in india",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:south african rand edges up ahead of month-end economic data",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:el ibex 35 espera al pce de eeuu para cerrar su peor mes desde marzo",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nhl roundup: panthers score late in ot to ruin hurricanes' banner night",
+   "category": "loaded language",
+   "headline": "NHL roundup: Panthers score in overtime against Hurricanes"
+  },
+  {
+   "key": "ai:nigeria's dangote says refinery ipo demand 'enormous' as kenya project advances",
+   "category": "loaded language",
+   "headline": "Nigeria's Dangote says refinery IPO has large demand as Kenya project advances"
+  },
+  {
+   "key": "ai:corea del norte desmiente la explosión en la zona desmilitarizada y la onu ve violación del armisticio",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:la actividad industrial china crece en septiembre ante el auge de la ia",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:mercedes-backed momenta targets dubai and europe for robotaxi expansion",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:tories would keep the triple lock as it is, says party chairman",
+   "category": "none",
+   "headline": ""
+  }
+ ]
+}
