@@ -1,5 +1,5 @@
 {
- "madeAt": "2026-10-01T12:05:01.661Z",
+ "madeAt": "2026-10-01T12:10:47.060Z",
  "heuristicsSha256": "eb22ffba0a018ce8b2380e3b494e695b3abebf283269d88329a6f14607dd4bc8",
  "soft": [
   "reordered",
@@ -1140,7 +1140,7 @@
    "runs": [
     "haiku-P1-r2"
    ],
-   "repairOf": null,
+   "repairOf": "d009:949f2800",
    "G0": {
     "ok": true,
     "reason": null
@@ -3246,7 +3246,7 @@
    "runs": [
     "opus-P1-r1"
    ],
-   "repairOf": null,
+   "repairOf": "d027:839039ee",
    "G0": {
     "ok": true,
     "reason": null
@@ -5286,7 +5286,7 @@
     "sonnet-P0-r1",
     "sonnet-P2-r1"
    ],
-   "repairOf": null,
+   "repairOf": "d042:6460de8d",
    "G0": {
     "ok": false,
     "reason": "brokenSentence"
@@ -7691,7 +7691,7 @@
     "haiku-P1-r2",
     "sonnet-P0-r2"
    ],
-   "repairOf": null,
+   "repairOf": "d058:e4aba4fe",
    "G0": {
     "ok": true,
     "reason": null
@@ -8180,7 +8180,7 @@
    "runs": [
     "live"
    ],
-   "repairOf": null,
+   "repairOf": "d061:29bd3940",
    "G0": {
     "ok": false,
     "reason": "addedPronoun:their"
@@ -8490,7 +8490,7 @@
    "runs": [
     "haiku-P2-r1"
    ],
-   "repairOf": null,
+   "repairOf": "d064:0b85ac60",
    "G0": {
     "ok": true,
     "reason": null
@@ -9120,7 +9120,7 @@
     "sonnet-P2-r1",
     "sonnet-P2-r2"
    ],
-   "repairOf": null,
+   "repairOf": "d068:e10b9930",
    "G0": {
     "ok": false,
     "reason": "brokenSentence"
@@ -10389,7 +10389,7 @@
    "runs": [
     "sonnet-P2-r1"
    ],
-   "repairOf": null,
+   "repairOf": "d080:2d0503a3",
    "G0": {
     "ok": false,
     "reason": "addedAttribution"
@@ -10854,7 +10854,7 @@
     "opus-P1-r1",
     "sonnet-P0-r2"
    ],
-   "repairOf": null,
+   "repairOf": "d083:5e613eac",
    "G0": {
     "ok": true,
     "reason": null
@@ -10942,7 +10942,7 @@
    "runs": [
     "haiku-P0-r1"
    ],
-   "repairOf": null,
+   "repairOf": "d084:e8c58199",
    "G0": {
     "ok": true,
     "reason": null
@@ -11368,7 +11368,7 @@
    "runs": [
     "haiku-P0-r1"
    ],
-   "repairOf": null,
+   "repairOf": "d089:44a7aa0e",
    "G0": {
     "ok": true,
     "reason": null
@@ -13635,7 +13635,7 @@
     "haiku-P2-r2",
     "sonnet-P0-r1"
    ],
-   "repairOf": null,
+   "repairOf": "d101:a505c43c",
    "G0": {
     "ok": false,
     "reason": "unquoted"
@@ -19849,7 +19849,7 @@
    "runs": [
     "sonnet-P0-r1"
    ],
-   "repairOf": null,
+   "repairOf": "d147:8b1c95d1",
    "G0": {
     "ok": false,
     "reason": "addedAttribution"
@@ -20061,6 +20061,1656 @@
    "G2": {
     "ok": true,
     "reason": null
+   }
+  },
+  "d006:80330bf0": {
+   "cid": "d006:80330bf0",
+   "item": "d006",
+   "headline": "Mum left four children including baby and toddler home alone to go on cruise",
+   "rewrite": "Mum left four children at home to go on a cruise",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d006:2d8df5cd",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d008:e06827f1": {
+   "cid": "d008:e06827f1",
+   "item": "d008",
+   "headline": "BREAKING NEWS Iran says Andy Burnham is 'barking up the wrong tree' by claiming country was involved in RAF Fairford 'terror plot'",
+   "rewrite": "Iran says Burnham is wrong about the country's involvement in RAF Fairford incident",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d008:feb2b137",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d009:ad351085": {
+   "cid": "d009:ad351085",
+   "item": "d009",
+   "headline": "Beijing Looms Large Over American AI Politics",
+   "rewrite": "Beijing is a significant factor in American AI politics",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d009:4c279f56",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d009:7716e1c6": {
+   "cid": "d009:7716e1c6",
+   "item": "d009",
+   "headline": "Beijing Looms Large Over American AI Politics",
+   "rewrite": "Beijing is significant in American AI politics",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d009:10e53f0e",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d009:113709d8": {
+   "cid": "d009:113709d8",
+   "item": "d009",
+   "headline": "Beijing Looms Large Over American AI Politics",
+   "rewrite": "Beijing's influence on American AI politics is significant",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d009:7b7ab27c",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d009:91f3fccc": {
+   "cid": "d009:91f3fccc",
+   "item": "d009",
+   "headline": "Beijing Looms Large Over American AI Politics",
+   "rewrite": "Beijing plays a large role in American AI politics",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d009:17c5f805",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d009:dd53a72d": {
+   "cid": "d009:dd53a72d",
+   "item": "d009",
+   "headline": "Beijing Looms Large Over American AI Politics",
+   "rewrite": "Beijing has a large role in American AI politics",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d009:c909160a",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d015:4e1f0946": {
+   "cid": "d015:4e1f0946",
+   "item": "d015",
+   "headline": "Mum says a school worker called her a 'nutter' and accused her dog's breed of 'killing babies'",
+   "rewrite": "School worker called a mother a nutter and accused her dog's breed of killing babies",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d015:778237d5",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d019:847316b3": {
+   "cid": "d019:847316b3",
+   "item": "d019",
+   "headline": "BREAKING NEWS Christa Pike execution is halted indefinitely just one hour before killer was due to be put to death after 'serious concerns' were raised",
+   "rewrite": "Christa Pike's execution halted indefinitely after concerns raised",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d019:ec758260",
+   "G0": {
+    "ok": false,
+    "reason": "softenedFact:serious"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "softenedFact:serious"
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d024:a172bd46": {
+   "cid": "d024:a172bd46",
+   "item": "d024",
+   "headline": "$10 for a gallon of gas has red Alaska thinking about a Democratic senator",
+   "rewrite": "High fuel prices in Alaska make voters think about a Democratic senator",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d024:8ba9e11d",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d033:5c96ea91": {
+   "cid": "d033:5c96ea91",
+   "item": "d033",
+   "headline": "Kim fearful in Emmerdale as DS Ramsden drops bombshell over Jimmy's death",
+   "rewrite": "Kim is worried in Emmerdale after news about Jimmy's death",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d033:65a76136",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d033:94d3a729": {
+   "cid": "d033:94d3a729",
+   "item": "d033",
+   "headline": "Kim fearful in Emmerdale as DS Ramsden drops bombshell over Jimmy's death",
+   "rewrite": "In Emmerdale, Kim is afraid as DS Ramsden reveals information about Jimmy's death",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d033:551c88b8",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d033:b7f4540a": {
+   "cid": "d033:b7f4540a",
+   "item": "d033",
+   "headline": "Kim fearful in Emmerdale as DS Ramsden drops bombshell over Jimmy's death",
+   "rewrite": "Kim is worried in Emmerdale after information emerges about Jimmy's death",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d033:9d537aa0",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d033:30cd6c28": {
+   "cid": "d033:30cd6c28",
+   "item": "d033",
+   "headline": "Kim fearful in Emmerdale as DS Ramsden drops bombshell over Jimmy's death",
+   "rewrite": "In Emmerdale, Kim is worried after news emerges about Jimmy's death",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d033:06d6b7ae",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d037:45548455": {
+   "cid": "d037:45548455",
+   "item": "d037",
+   "headline": "Burnham just did something daringly different – Australia should pay attention",
+   "rewrite": "Burnham did something different Australia should pay attention to",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d037:f9cd6273",
+   "G0": {
+    "ok": false,
+    "reason": "brokenSentence"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "brokenSentence"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "brokenSentence"
+   }
+  },
+  "d037:e42e9977": {
+   "cid": "d037:e42e9977",
+   "item": "d037",
+   "headline": "Burnham just did something daringly different – Australia should pay attention",
+   "rewrite": "Burnham did something different worth Australia's attention",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d037:8fe1c0b0",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d037:d5ed0416": {
+   "cid": "d037:d5ed0416",
+   "item": "d037",
+   "headline": "Burnham just did something daringly different – Australia should pay attention",
+   "rewrite": "Burnham did something different and Australia should pay attention",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d037:2862a84a",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d039:f04ee484": {
+   "cid": "d039:f04ee484",
+   "item": "d039",
+   "headline": "NHS trust admits 'failing families' over stillbirths",
+   "rewrite": "NHS trust admits failing families over stillbirths",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d039:e7b62b3e",
+   "G0": {
+    "ok": false,
+    "reason": "unchanged"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "unchanged"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "unchanged"
+   }
+  },
+  "d039:f8872bce": {
+   "cid": "d039:f8872bce",
+   "item": "d039",
+   "headline": "NHS trust admits 'failing families' over stillbirths",
+   "rewrite": "NHS trust admits it failed families over stillbirths",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d039:72e10a14",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d042:0dd1397e": {
+   "cid": "d042:0dd1397e",
+   "item": "d042",
+   "headline": "Texas Gov. Abbott declares disaster as diesel prices soar to average $5.86 a gallon",
+   "rewrite": "Texas Gov. Abbott declares a disaster as diesel prices rise to an average of $5.86 a gallon",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d042:db9cc63d",
+   "G0": {
+    "ok": false,
+    "reason": "brokenSentence"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "brokenSentence"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "brokenSentence"
+   }
+  },
+  "d047:660f3bf2": {
+   "cid": "d047:660f3bf2",
+   "item": "d047",
+   "headline": "Now We’re All Starting to Talk Like AI Chatbots Too",
+   "rewrite": "We're all starting to talk like AI chatbots",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d047:fe72e095",
+   "G0": {
+    "ok": false,
+    "reason": "addedFraming"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "addedFraming"
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d054:2ca9b711": {
+   "cid": "d054:2ca9b711",
+   "item": "d054",
+   "headline": "Israeli plumber who controlled plunging jet learned to fly from TV SHOW",
+   "rewrite": "An Israeli plumber who controlled a plunging jet learned to fly from a TV show",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d054:fa859e55",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d058:1d304b94": {
+   "cid": "d058:1d304b94",
+   "item": "d058",
+   "headline": "Why DWTS’ Jenna Dewan Thinks She’s Judged More Harshly",
+   "rewrite": "DWTS' Jenna Dewan thinks she is judged more harshly",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d058:74f0e930",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d058:6ff08a55": {
+   "cid": "d058:6ff08a55",
+   "item": "d058",
+   "headline": "Why DWTS’ Jenna Dewan Thinks She’s Judged More Harshly",
+   "rewrite": "Jenna Dewan thinks she is judged more harshly on DWTS",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d058:2d304c50",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d062:44d5e75c": {
+   "cid": "d062:44d5e75c",
+   "item": "d062",
+   "headline": "Barbara Palvin gives birth, welcomes first baby with Dylan Sprouse",
+   "rewrite": "Barbara Palvin gives birth, welcomes first baby with Dylan Sprouse",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d062:80659b74",
+   "G0": {
+    "ok": false,
+    "reason": "unchanged"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "unchanged"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "unchanged"
+   }
+  },
+  "d063:ca077750": {
+   "cid": "d063:ca077750",
+   "item": "d063",
+   "headline": "IND vs SL SF: India on the brink of a big win as Sri Lanka eight down in 170 chase",
+   "rewrite": "IND vs SL: India close to victory as Sri Lanka are eight down chasing 170",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d063:205389dc",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d073:829666a4": {
+   "cid": "d073:829666a4",
+   "item": "d073",
+   "headline": "AI grid crisis: Will data centers leave us living by candlelight?",
+   "rewrite": "Whether data centers could affect our electricity supply",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d073:691b80b4",
+   "G0": {
+    "ok": false,
+    "reason": "droppedSubject"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "droppedSubject"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "droppedSubject"
+   }
+  },
+  "d073:72e5a6d9": {
+   "cid": "d073:72e5a6d9",
+   "item": "d073",
+   "headline": "AI grid crisis: Will data centers leave us living by candlelight?",
+   "rewrite": "Whether data centers could affect electricity supply",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d073:1d0a18b3",
+   "G0": {
+    "ok": false,
+    "reason": "droppedSubject"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "droppedSubject"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "droppedSubject"
+   }
+  },
+  "d073:03dc9a50": {
+   "cid": "d073:03dc9a50",
+   "item": "d073",
+   "headline": "AI grid crisis: Will data centers leave us living by candlelight?",
+   "rewrite": "Data centers could cause electricity supply problems",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d073:3ca3d795",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d081:124ca114": {
+   "cid": "d081:124ca114",
+   "item": "d081",
+   "headline": "Men Who Regret Marrying Their Wives Are Confessing The Moment They Realized They Made A Mistake",
+   "rewrite": "Men confess they regret marrying their wives",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d081:a8147e90",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d081:d8d1e822": {
+   "cid": "d081:d8d1e822",
+   "item": "d081",
+   "headline": "Men Who Regret Marrying Their Wives Are Confessing The Moment They Realized They Made A Mistake",
+   "rewrite": "Men confess when they realized they regret marrying their wives",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d081:f457ef97",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d081:0506c88c": {
+   "cid": "d081:0506c88c",
+   "item": "d081",
+   "headline": "Men Who Regret Marrying Their Wives Are Confessing The Moment They Realized They Made A Mistake",
+   "rewrite": "Men who regret marrying their wives confess when they realized",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d081:1e9379a1",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d081:24ec84c5": {
+   "cid": "d081:24ec84c5",
+   "item": "d081",
+   "headline": "Men Who Regret Marrying Their Wives Are Confessing The Moment They Realized They Made A Mistake",
+   "rewrite": "Men confess when they realized marrying their wives was a mistake",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d081:7905b746",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d081:8fcb12d4": {
+   "cid": "d081:8fcb12d4",
+   "item": "d081",
+   "headline": "Men Who Regret Marrying Their Wives Are Confessing The Moment They Realized They Made A Mistake",
+   "rewrite": "Men who regret marrying their wives confess when they realised",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d081:6020ae3e",
+   "G0": {
+    "ok": false,
+    "reason": "spellingChanged:realised"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "spellingChanged:realised"
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d081:c84e2ca5": {
+   "cid": "d081:c84e2ca5",
+   "item": "d081",
+   "headline": "Men Who Regret Marrying Their Wives Are Confessing The Moment They Realized They Made A Mistake",
+   "rewrite": "Men who regret marrying their wives confess",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d081:be6be798",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d081:03995bb1": {
+   "cid": "d081:03995bb1",
+   "item": "d081",
+   "headline": "Men Who Regret Marrying Their Wives Are Confessing The Moment They Realized They Made A Mistake",
+   "rewrite": "Men who regret marrying their wives confess they made a mistake",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d081:587577c8",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d081:eceb0466": {
+   "cid": "d081:eceb0466",
+   "item": "d081",
+   "headline": "Men Who Regret Marrying Their Wives Are Confessing The Moment They Realized They Made A Mistake",
+   "rewrite": "Men who regret marrying their wives confess when they realised it was a mistake",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d081:2358580c",
+   "G0": {
+    "ok": false,
+    "reason": "spellingChanged:realised"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "spellingChanged:realised"
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d088:4cb8ed8e": {
+   "cid": "d088:4cb8ed8e",
+   "item": "d088",
+   "headline": "DUP MP plays down Drumcree deal ahead of further talks",
+   "rewrite": "DUP MP plays down Drumcree deal ahead of further talks",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d088:66e4ccd7",
+   "G0": {
+    "ok": false,
+    "reason": "unchanged"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "unchanged"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "unchanged"
+   }
+  },
+  "d089:5b692abd": {
+   "cid": "d089:5b692abd",
+   "item": "d089",
+   "headline": "Kristi Noem’s Estranged Husband Is Ready to ‘Truthfully Share His Perspective’ amid Their Divorce After Decades",
+   "rewrite": "Kristi Noem's estranged husband is ready to discuss their divorce",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d089:9cc2c1a0",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d089:b6151cc7": {
+   "cid": "d089:b6151cc7",
+   "item": "d089",
+   "headline": "Kristi Noem’s Estranged Husband Is Ready to ‘Truthfully Share His Perspective’ amid Their Divorce After Decades",
+   "rewrite": "Kristi Noem's estranged husband is ready to give his side of their divorce",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d089:b9ea4065",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d089:2b9463fe": {
+   "cid": "d089:2b9463fe",
+   "item": "d089",
+   "headline": "Kristi Noem’s Estranged Husband Is Ready to ‘Truthfully Share His Perspective’ amid Their Divorce After Decades",
+   "rewrite": "Kristi Noem's estranged husband is ready to share his side amid their divorce",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d089:4d22a838",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d089:a18f05f8": {
+   "cid": "d089:a18f05f8",
+   "item": "d089",
+   "headline": "Kristi Noem’s Estranged Husband Is Ready to ‘Truthfully Share His Perspective’ amid Their Divorce After Decades",
+   "rewrite": "Kristi Noem's estranged husband is ready to share his perspective on their divorce",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d089:a2e52154",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d089:165ee04e": {
+   "cid": "d089:165ee04e",
+   "item": "d089",
+   "headline": "Kristi Noem’s Estranged Husband Is Ready to ‘Truthfully Share His Perspective’ amid Their Divorce After Decades",
+   "rewrite": "Kristi Noem's estranged husband is ready to share his perspective amid their divorce after decades",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d089:ca20bc6d",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d097:4d2f1342": {
+   "cid": "d097:4d2f1342",
+   "item": "d097",
+   "headline": "New weight jab 'burns flab with half the side-effects' of Mounjaro and Wegovy",
+   "rewrite": "New weight drug has half the side effects of Mounjaro and Wegovy",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d097:0fc4aa64",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d097:b1e34df4": {
+   "cid": "d097:b1e34df4",
+   "item": "d097",
+   "headline": "New weight jab 'burns flab with half the side-effects' of Mounjaro and Wegovy",
+   "rewrite": "New weight loss medication has fewer side effects than Mounjaro and Wegovy",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d097:c554eb9c",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d097:d0729e37": {
+   "cid": "d097:d0729e37",
+   "item": "d097",
+   "headline": "New weight jab 'burns flab with half the side-effects' of Mounjaro and Wegovy",
+   "rewrite": "New weight loss injection has fewer side effects than Mounjaro and Wegovy",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d097:07617ad9",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d097:ad227749": {
+   "cid": "d097:ad227749",
+   "item": "d097",
+   "headline": "New weight jab 'burns flab with half the side-effects' of Mounjaro and Wegovy",
+   "rewrite": "New weight loss injection claims to burn flab with half the side effects of Mounjaro and Wegovy",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d097:42491f5e",
+   "G0": {
+    "ok": false,
+    "reason": "addedAttribution"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "addedAttribution"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "addedAttribution"
+   }
+  },
+  "d097:461339e3": {
+   "cid": "d097:461339e3",
+   "item": "d097",
+   "headline": "New weight jab 'burns flab with half the side-effects' of Mounjaro and Wegovy",
+   "rewrite": "New weight loss injection has half the side-effects of Mounjaro and Wegovy",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d097:efa3e6d1",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d097:55ec8ce1": {
+   "cid": "d097:55ec8ce1",
+   "item": "d097",
+   "headline": "New weight jab 'burns flab with half the side-effects' of Mounjaro and Wegovy",
+   "rewrite": "New weight jab has half the side-effects of Mounjaro and Wegovy",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d097:9e509b04",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d097:c4adc9cf": {
+   "cid": "d097:c4adc9cf",
+   "item": "d097",
+   "headline": "New weight jab 'burns flab with half the side-effects' of Mounjaro and Wegovy",
+   "rewrite": "A new weight-loss jab causes fewer side-effects than Mounjaro and Wegovy",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d097:64f4b3b4",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d097:f8ff6047": {
+   "cid": "d097:f8ff6047",
+   "item": "d097",
+   "headline": "New weight jab 'burns flab with half the side-effects' of Mounjaro and Wegovy",
+   "rewrite": "A new weight jab burns fat with half the side-effects of Mounjaro and Wegovy",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d097:73da2f18",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d103:3ede4b9d": {
+   "cid": "d103:3ede4b9d",
+   "item": "d103",
+   "headline": "John Ternus’ vision for Apple is coming into view, and we like what we see",
+   "rewrite": "Apple executive's strategy assessed",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d103:4ef4b0ca",
+   "G0": {
+    "ok": false,
+    "reason": "unrelated"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "unrelated"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "unrelated"
+   }
+  },
+  "d105:7436d279": {
+   "cid": "d105:7436d279",
+   "item": "d105",
+   "headline": "‘There’s no problem’: Virat Kohli addresses rumours, camaraderie with Shubman Gill",
+   "rewrite": "Virat Kohli says 'There's no problem' with Shubman Gill",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d105:fe2aae67",
+   "G0": {
+    "ok": false,
+    "reason": "quotationChanged"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "addedAttribution"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "addedAttribution"
+   }
+  },
+  "d112:cd38ebf0": {
+   "cid": "d112:cd38ebf0",
+   "item": "d112",
+   "headline": "Grand Designs viewers share 'frustration' over Channel 4 show comment",
+   "rewrite": "Some Grand Designs viewers share frustration with a Channel 4 show comment",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d112:3479f4c5",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d112:4763f9f5": {
+   "cid": "d112:4763f9f5",
+   "item": "d112",
+   "headline": "Grand Designs viewers share 'frustration' over Channel 4 show comment",
+   "rewrite": "Some Grand Designs viewers share frustration over a comment on the show",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d112:794c3795",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d123:5a44507d": {
+   "cid": "d123:5a44507d",
+   "item": "d123",
+   "headline": "AI Goes to Religion to Become a Good Boy. Will It Learn? Is It Knocking on the Right Door?",
+   "rewrite": "AI seeks religious guidance for ethics",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d123:b659a3f6",
+   "G0": {
+    "ok": false,
+    "reason": "dropped:It"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "dropped:It"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "dropped:It"
+   }
+  },
+  "d123:4bcf4edc": {
+   "cid": "d123:4bcf4edc",
+   "item": "d123",
+   "headline": "AI Goes to Religion to Become a Good Boy. Will It Learn? Is It Knocking on the Right Door?",
+   "rewrite": "AI learns from religious guidance",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d123:6eaf143d",
+   "G0": {
+    "ok": false,
+    "reason": "dropped:It"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "dropped:It"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "dropped:It"
+   }
+  },
+  "d123:de846be1": {
+   "cid": "d123:de846be1",
+   "item": "d123",
+   "headline": "AI Goes to Religion to Become a Good Boy. Will It Learn? Is It Knocking on the Right Door?",
+   "rewrite": "Will AI learn from religion?",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d123:0b4a9da5",
+   "G0": {
+    "ok": false,
+    "reason": "dropped:It"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "dropped:It"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "dropped:It"
+   }
+  },
+  "d123:2d013ec5": {
+   "cid": "d123:2d013ec5",
+   "item": "d123",
+   "headline": "AI Goes to Religion to Become a Good Boy. Will It Learn? Is It Knocking on the Right Door?",
+   "rewrite": "AI turns to religion to learn how to behave",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d123:8b61bf32",
+   "G0": {
+    "ok": false,
+    "reason": "dropped:It"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "dropped:It"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "dropped:It"
+   }
+  },
+  "d123:91f9832e": {
+   "cid": "d123:91f9832e",
+   "item": "d123",
+   "headline": "AI Goes to Religion to Become a Good Boy. Will It Learn? Is It Knocking on the Right Door?",
+   "rewrite": "AI turns to religion for guidance",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d123:e8e9d253",
+   "G0": {
+    "ok": false,
+    "reason": "dropped:It"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "dropped:It"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "dropped:It"
+   }
+  },
+  "d123:3ad776d3": {
+   "cid": "d123:3ad776d3",
+   "item": "d123",
+   "headline": "AI Goes to Religion to Become a Good Boy. Will It Learn? Is It Knocking on the Right Door?",
+   "rewrite": "AI turns to religion",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d123:1cce003d",
+   "G0": {
+    "ok": false,
+    "reason": "dropped:It"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "dropped:It"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "dropped:It"
+   }
+  },
+  "d127:9bca576a": {
+   "cid": "d127:9bca576a",
+   "item": "d127",
+   "headline": "How RAF Fairford was left exposed to 'Iran-linked terror plot'",
+   "rewrite": "RAF Fairford exposed to alleged Iran-linked terror plot",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d127:65030abb",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d127:7176a36e": {
+   "cid": "d127:7176a36e",
+   "item": "d127",
+   "headline": "How RAF Fairford was left exposed to 'Iran-linked terror plot'",
+   "rewrite": "RAF Fairford exposed to alleged Iran-linked threat",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d127:f3771f05",
+   "G0": {
+    "ok": false,
+    "reason": "addedFact:threat"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "addedFact:threat"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "addedFact:threat"
+   }
+  },
+  "d130:105d3533": {
+   "cid": "d130:105d3533",
+   "item": "d130",
+   "headline": "Pottery Barn, West Elm, Amazon, and Wayfair Have Little-Known Online Outlets with Home Deals for Up to 80% Off",
+   "rewrite": "Pottery Barn and other outlets offer home deals up to 80% off",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d130:b2867521",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d135:b4bf263d": {
+   "cid": "d135:b4bf263d",
+   "item": "d135",
+   "headline": "'Posh hotel' pillow with £9 off and people 'sleep like baby on soft cloud'",
+   "rewrite": "Pillow with £9 off that people say helps them sleep like a baby",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d135:d4651809",
+   "G0": {
+    "ok": false,
+    "reason": "addedAttribution"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "addedAttribution"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "addedAttribution"
+   }
+  },
+  "d135:a21be8f2": {
+   "cid": "d135:a21be8f2",
+   "item": "d135",
+   "headline": "'Posh hotel' pillow with £9 off and people 'sleep like baby on soft cloud'",
+   "rewrite": "A pillow with £9 off that some people say helps them sleep like a baby",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d135:c7fec92e",
+   "G0": {
+    "ok": false,
+    "reason": "addedAttribution"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "addedAttribution"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "addedAttribution"
+   }
+  },
+  "d135:718da8dd": {
+   "cid": "d135:718da8dd",
+   "item": "d135",
+   "headline": "'Posh hotel' pillow with £9 off and people 'sleep like baby on soft cloud'",
+   "rewrite": "A pillow with £9 off that some buyers say helps them sleep like a baby",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d135:18e5178d",
+   "G0": {
+    "ok": false,
+    "reason": "addedPronoun:them"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "addedPronoun:them"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "addedAttribution"
+   }
+  },
+  "d135:53771cc1": {
+   "cid": "d135:53771cc1",
+   "item": "d135",
+   "headline": "'Posh hotel' pillow with £9 off and people 'sleep like baby on soft cloud'",
+   "rewrite": "A pillow with £9 off that people say helps them sleep like a baby",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d135:253a7130",
+   "G0": {
+    "ok": false,
+    "reason": "addedAttribution"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "addedAttribution"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "addedAttribution"
+   }
+  },
+  "d137:9c92d037": {
+   "cid": "d137:9c92d037",
+   "item": "d137",
+   "headline": "Late Charlie Kirk's Mother Addresses Allegations She's Feuding With Erika Kirk",
+   "rewrite": "Charlie Kirk's mother responds to feuding allegations",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d137:360753e1",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d139:7ce22552": {
+   "cid": "d139:7ce22552",
+   "item": "d139",
+   "headline": "Which Autumn Soup Should You Slurp Up ASAP? Pick European Destinations To Find Out",
+   "rewrite": "Take a quiz now to discover which autumn soup matches your taste",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d139:bdb15e12",
+   "G0": {
+    "ok": false,
+    "reason": "dropped:ASAP"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "dropped:ASAP"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "dropped:ASAP"
+   }
+  },
+  "d139:2d87bf5c": {
+   "cid": "d139:2d87bf5c",
+   "item": "d139",
+   "headline": "Which Autumn Soup Should You Slurp Up ASAP? Pick European Destinations To Find Out",
+   "rewrite": "Match autumn soups with European destinations",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d139:6fa69af6",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d139:47ad9b16": {
+   "cid": "d139:47ad9b16",
+   "item": "d139",
+   "headline": "Which Autumn Soup Should You Slurp Up ASAP? Pick European Destinations To Find Out",
+   "rewrite": "Take our autumn soup quiz now",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d139:7f0e78ff",
+   "G0": {
+    "ok": false,
+    "reason": "dropped:ASAP"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "dropped:ASAP"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "dropped:ASAP"
+   }
+  },
+  "d139:dc8eb819": {
+   "cid": "d139:dc8eb819",
+   "item": "d139",
+   "headline": "Which Autumn Soup Should You Slurp Up ASAP? Pick European Destinations To Find Out",
+   "rewrite": "Here are autumn soups to try now",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d139:3ba7fb78",
+   "G0": {
+    "ok": false,
+    "reason": "dropped:ASAP"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "dropped:ASAP"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "dropped:ASAP"
+   }
+  },
+  "d143:b6466c17": {
+   "cid": "d143:b6466c17",
+   "item": "d143",
+   "headline": "Sports betting apps entice fans as gambling exacts a growing financial toll",
+   "rewrite": "Sports betting apps entice fans despite growing financial costs",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d143:c7911a23",
+   "G0": {
+    "ok": true,
+    "reason": null
+   },
+   "G1": {
+    "ok": true,
+    "reason": null
+   },
+   "G2": {
+    "ok": true,
+    "reason": null
+   }
+  },
+  "d147:a2fd01da": {
+   "cid": "d147:a2fd01da",
+   "item": "d147",
+   "headline": "Off-duty Brit pilot ‘helped rescue FlyDubai plane after 'pilot stabbed colleague'",
+   "rewrite": "Off-duty British pilot said to have helped rescue FlyDubai plane after pilot stabbed colleague",
+   "runs": [
+    "repair:claude-haiku-4-5"
+   ],
+   "repairOf": "d147:ffabdee4",
+   "G0": {
+    "ok": false,
+    "reason": "addedAttribution"
+   },
+   "G1": {
+    "ok": false,
+    "reason": "addedAttribution"
+   },
+   "G2": {
+    "ok": false,
+    "reason": "addedAttribution"
    }
   }
  }
