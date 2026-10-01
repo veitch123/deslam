@@ -23,7 +23,9 @@ const path = require("node:path");
 const { spawn, spawnSync } = require("node:child_process");
 
 const CHUNK = 50;
-const WORKERS = 5;
+// Three calls at a time (1 October: 17 sessions at five each met the
+// server's request limit; each recovered, but more slowly).
+const WORKERS = 3;
 const CATEGORIES = ["none", "loaded language", "conflict framing", "pseudo-consensus", "solicited outrage", "escalation", "priming", "fluff", "insinuation", "claim laundering", "clickbait"];
 const SYSTEM = "You are a careful sub-editor. Follow the instructions in the message exactly and return only the JSON requested.";
 const SCHEMA = { type: "object", required: ["answers"], additionalProperties: false, properties: { answers: { type: "array", items: { type: "object", additionalProperties: false,
@@ -49,8 +51,12 @@ function call({ model, message, timeoutMs = 15 * 60e3 }) {
       let json;
       try { json = JSON.parse(out); } catch { return reject(new Error(`not JSON from the CLI: ${out.slice(0, 200)} ${err.slice(0, 200)}`)); }
       if (json.is_error) return reject(new Error(`CLI error: ${String(json.result).slice(0, 200)}`));
-      const used = json.modelUsage ? Object.values(json.modelUsage)[0] : null;
-      resolve({ data: json.structured_output ?? null, model: used?.canonicalModel ?? model, usage: json.usage ?? {}, cost: json.total_cost_usd ?? 0, ms: Date.now() - started });
+      // Inside a cloud session the CLI also makes a small helper call with
+      // another model; the one that wrote the answer is the one with the
+      // most output tokens. Every model used is kept for the record.
+      const usage = Object.entries(json.modelUsage ?? {}).map(([name, u]) => ({ model: u.canonicalModel ?? name, output: u.outputTokens ?? 0, cost: u.costUSD ?? 0 }));
+      const main = usage.slice().sort((a, b) => b.output - a.output)[0];
+      resolve({ data: json.structured_output ?? null, model: main?.model ?? model, models: usage, usage: json.usage ?? {}, cost: json.total_cost_usd ?? 0, ms: Date.now() - started });
     });
     child.stdin.end(message);
   });
@@ -66,8 +72,14 @@ async function answerChunk(model, instructions, items, stats, label) {
   for (let attempt = 1; attempt <= 3; attempt += 1) {
     let result;
     try { result = await call({ model, message: messageFor(instructions, items) }); }
-    catch (error) { stats.errors.push(`${label} try ${attempt}: ${error.message.slice(0, 160)}`); continue; }
+    catch (error) {
+      stats.errors.push(`${label} try ${attempt}: ${error.message.slice(0, 160)}`);
+      // Back off before trying again: 20 s, then 60 s, with a little jitter.
+      if (attempt < 3) await new Promise((resolve) => setTimeout(resolve, (attempt === 1 ? 20e3 : 60e3) + Math.random() * 10e3));
+      continue;
+    }
     stats.calls += 1; stats.cost += result.cost; stats.ms += result.ms; stats.model = result.model;
+    for (const used of result.models) { const m = stats.models[used.model] ??= { calls: 0, output: 0, cost: 0 }; m.calls += 1; m.output += used.output; m.cost = +(m.cost + used.cost).toFixed(4); }
     for (const [field, value] of Object.entries(result.usage)) if (typeof value === "number") stats.tokens[field] = (stats.tokens[field] ?? 0) + value;
     const answers = Array.isArray(result.data?.answers) ? result.data.answers : [];
     const byKey = new Map(answers.filter((a) => a && typeof a.key === "string").map((a) => [a.key, a]));
@@ -92,7 +104,7 @@ async function main() {
   const model = typeof piece.model === "string" && piece.model ? piece.model : "claude-sonnet-5";
   const items = piece.items;
   say(`answer.js: ${items.length} headlines in ${name}, model ${model}, ${CHUNK} a call, ${WORKERS} calls at a time`);
-  const stats = { calls: 0, cost: 0, ms: 0, tokens: {}, errors: [], model, started: new Date().toISOString() };
+  const stats = { calls: 0, cost: 0, ms: 0, tokens: {}, errors: [], model, models: {}, started: new Date().toISOString() };
   const chunks = [];
   for (let at = 0; at < items.length; at += CHUNK) chunks.push(items.slice(at, at + CHUNK));
   const results = new Map();
