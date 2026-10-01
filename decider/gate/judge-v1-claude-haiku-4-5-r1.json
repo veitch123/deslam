@@ -1,0 +1,5865 @@
+{
+ "madeAt": "2026-10-01T12:23:55.600Z",
+ "judge": "v1",
+ "model": "claude-haiku-4-5",
+ "run": 1,
+ "cost": 1.73067,
+ "verdicts": {
+  "d001:9e21c8f5": {
+   "id": "d001:9e21c8f5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes sensational adjective 'stylish' but keeps the key fact about escape from crowds"
+  },
+  "d001:61637cf4": {
+   "id": "d001:61637cf4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds new detail 'accommodation' not in original"
+  },
+  "d001:7ff728f6": {
+   "id": "d001:7ff728f6",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the key fact entirely—fails to mention the escape from crowds"
+  },
+  "d001:e54e0176": {
+   "id": "d001:e54e0176",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Sentence fragment with no main verb"
+  },
+  "d001:cbbc85fb": {
+   "id": "d001:cbbc85fb",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Conveys the same story despite 'avoids' being slightly awkward"
+  },
+  "d001:6ff6a8b9": {
+   "id": "d001:6ff6a8b9",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Incomplete sentence structure"
+  },
+  "d001:2cb42134": {
+   "id": "d001:2cb42134",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds new detail 'rooms' beyond what headline specifies"
+  },
+  "d001:a8c93347": {
+   "id": "d001:a8c93347",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes 'stylish' and directly states the key fact"
+  },
+  "d001:5877c911": {
+   "id": "d001:5877c911",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes sensational adjective while preserving the core story"
+  },
+  "d001:8afed4aa": {
+   "id": "d001:8afed4aa",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Sentence fragment without main verb"
+  },
+  "d001:adbca1bd": {
+   "id": "d001:adbca1bd",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds meta-framing 'a report on' that changes the story"
+  },
+  "d001:d1395c49": {
+   "id": "d001:d1395c49",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Sentence fragment and drops 'the island's' modifier"
+  },
+  "d002:da56e5b4": {
+   "id": "d002:da56e5b4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the emotional aspect ('sea of tears'); too vague about what situation"
+  },
+  "d002:d4dd01aa": {
+   "id": "d002:d4dd01aa",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'people we've spoken to'—new claim about sourcing not in original"
+  },
+  "d002:d2e09c5d": {
+   "id": "d002:d2e09c5d",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the first half entirely—emotional/distress aspect is key"
+  },
+  "d002:2c3586de": {
+   "id": "d002:2c3586de",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves both key elements: distress and the three-year timeline"
+  },
+  "d002:efbaca53": {
+   "id": "d002:efbaca53",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clearly conveys both the inability to act and emotional impact"
+  },
+  "d002:bd4642fb": {
+   "id": "d002:bd4642fb",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Translates 'sea of tears' to 'upset'; preserves both facts"
+  },
+  "d002:6697b41f": {
+   "id": "d002:6697b41f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Both key elements present in simplified form"
+  },
+  "d003:0178173c": {
+   "id": "d003:0178173c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes attribution tag (acceptable); keeps all facts"
+  },
+  "d003:90f1b80b": {
+   "id": "d003:90f1b80b",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains attribution in different form; doesn't shout in caps"
+  },
+  "d004:2244a5b3": {
+   "id": "d004:2244a5b3",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Softens 'pogrom' to 'violence'—loses specificity of serious incident"
+  },
+  "d004:a53d54da": {
+   "id": "d004:a53d54da",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Weakens 'condemns' to 'criticises' and loses specific term 'pogrom'"
+  },
+  "d004:337a07c2": {
+   "id": "d004:337a07c2",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes 'pogrom' entirely—loses what is being condemned"
+  },
+  "d004:f6909e55": {
+   "id": "d004:f6909e55",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Weakens both the verb ('condemns'→'criticises') and specific term ('pogrom'→'attack')"
+  },
+  "d004:f0be145a": {
+   "id": "d004:f0be145a",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Weakens key terms: 'condemns' to 'criticises' and 'pogrom' to 'attack'"
+  },
+  "d005:3d8a240a": {
+   "id": "d005:3d8a240a",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes weapon details ('gunman', 'machete-wielding')—loses key facts"
+  },
+  "d005:eddfaf03": {
+   "id": "d005:eddfaf03",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes inflammatory quotes and 'Wild West' framing; preserves all facts"
+  },
+  "d005:a71824ca": {
+   "id": "d005:a71824ca",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague—'incident involving a gun and machete' obscures the action"
+  },
+  "d005:d2bc2584": {
+   "id": "d005:d2bc2584",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the action of firing at someone; just says both weapons present"
+  },
+  "d005:e15ed132": {
+   "id": "d005:e15ed132",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Extremely vague; loses context about shoppers and the action"
+  },
+  "d005:e8931e5b": {
+   "id": "d005:e8931e5b",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'allegedly' hedging not present in original"
+  },
+  "d005:c695ab8b": {
+   "id": "d005:c695ab8b",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes 'shoppers flee'—loses crucial fact about public reaction"
+  },
+  "d005:23fb3915": {
+   "id": "d005:23fb3915",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'allegedly' and removes weapon specificity"
+  },
+  "d005:2d7b4e68": {
+   "id": "d005:2d7b4e68",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "'Reportedly' clarifies source without hedging; key facts preserved"
+  },
+  "d005:ff62c517": {
+   "id": "d005:ff62c517",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes sensationalism; 'leave' conveys same action; preserves facts"
+  },
+  "d005:a8dfb07f": {
+   "id": "d005:a8dfb07f",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "'After reports of' clarifies reported nature; all key facts present"
+  },
+  "d005:d5b815af": {
+   "id": "d005:d5b815af",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'allegedly' which hedges meaning not present in original"
+  },
+  "d005:38216f72": {
+   "id": "d005:38216f72",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "'Run' vs 'flee' is minor; removes 'Wild West' sensationalism"
+  },
+  "d006:2d8df5cd": {
+   "id": "d006:2d8df5cd",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes 'baby and toddler' details—loses critical context about children's ages"
+  },
+  "d008:bc8b2a45": {
+   "id": "d008:bc8b2a45",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'terror plot' by changing to vague 'incident'"
+  },
+  "d008:feb2b137": {
+   "id": "d008:feb2b137",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Retains 'BREAKING NEWS' sensationalism and loses 'terror plot'"
+  },
+  "d008:7a2e2117": {
+   "id": "d008:7a2e2117",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'terror plot' detail—key to what is being disputed"
+  },
+  "d008:72a4a04c": {
+   "id": "d008:72a4a04c",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'terror plot' by generalizing to 'incident'"
+  },
+  "d008:9d416371": {
+   "id": "d008:9d416371",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes 'BREAKING NEWS' sensationalism while keeping quoted phrases and key terms"
+  },
+  "d008:949122ac": {
+   "id": "d008:949122ac",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes 'BREAKING NEWS'; preserves all key content and quoted terms"
+  },
+  "d009:be7e1999": {
+   "id": "d009:be7e1999",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Sentence fragment without main verb—broken English"
+  },
+  "d009:f3f9b861": {
+   "id": "d009:f3f9b861",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Complete sentence; removes sensational verb; keeps key fact"
+  },
+  "d009:76bf965b": {
+   "id": "d009:76bf965b",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Complete sentence with clear verb; preserves key concept"
+  },
+  "d009:20fc8d2e": {
+   "id": "d009:20fc8d2e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Sentence fragment without main verb"
+  },
+  "d009:42ff7b8d": {
+   "id": "d009:42ff7b8d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Looms large' replaced with plain 'influence', same story"
+  },
+  "d009:949f2800": {
+   "id": "d009:949f2800",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Beijing→China is generalization; acceptable but slight change"
+  },
+  "d009:a31193db": {
+   "id": "d009:a31193db",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Plain language replacement, same meaning"
+  },
+  "d009:c20841c5": {
+   "id": "d009:c20841c5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Looms large' = 'big factor', plain language version"
+  },
+  "d009:4c279f56": {
+   "id": "d009:4c279f56",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Beijing→China acceptable but slight; captures same story"
+  },
+  "d009:10e53f0e": {
+   "id": "d009:10e53f0e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Plain language version of headline"
+  },
+  "d009:7b7ab27c": {
+   "id": "d009:7b7ab27c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Restructured but contains same facts"
+  },
+  "d009:17c5f805": {
+   "id": "d009:17c5f805",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Plain language replacement"
+  },
+  "d009:c909160a": {
+   "id": "d009:c909160a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Plain language version"
+  },
+  "d009:12693269": {
+   "id": "d009:12693269",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'We believe', turns fact into claimed opinion"
+  },
+  "d011:6e46861d": {
+   "id": "d011:6e46861d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clarifies alleged plot without losing key fact"
+  },
+  "d012:e7188271": {
+   "id": "d012:e7188271",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Cricket terminology conveys same story"
+  },
+  "d013:7a0a8f52": {
+   "id": "d013:7a0a8f52",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops 'big career change', the main story"
+  },
+  "d013:ce673ae3": {
+   "id": "d013:ce673ae3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Includes both career change and 30-year timeframe"
+  },
+  "d013:b38fc330": {
+   "id": "d013:b38fc330",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses '30 years after show aired' timing"
+  },
+  "d013:2d8d0614": {
+   "id": "d013:2d8d0614",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Omits '30 years after show aired'"
+  },
+  "d013:c7d7de97": {
+   "id": "d013:c7d7de97",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses '30 years after show aired' context"
+  },
+  "d013:b8f404f7": {
+   "id": "d013:b8f404f7",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Omits '30 years' timing"
+  },
+  "d013:264ce413": {
+   "id": "d013:264ce413",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Includes both career change and 30-year timing"
+  },
+  "d013:0fcb5a52": {
+   "id": "d013:0fcb5a52",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops '30 years' timeframe"
+  },
+  "d013:6f3c5b6e": {
+   "id": "d013:6f3c5b6e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Has both facts, clear structure"
+  },
+  "d013:da64e486": {
+   "id": "d013:da64e486",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Includes career change and 30-year timing"
+  },
+  "d013:68ad2f57": {
+   "id": "d013:68ad2f57",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Contains both key facts"
+  },
+  "d013:01e97ef2": {
+   "id": "d013:01e97ef2",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'looks like' focus on appearance not in original"
+  },
+  "d013:34e5aa34": {
+   "id": "d013:34e5aa34",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Has both career change and 30-year facts"
+  },
+  "d014:790ba420": {
+   "id": "d014:790ba420",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Plain version, same story"
+  },
+  "d015:778237d5": {
+   "id": "d015:778237d5",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; loses specific accusations and insults"
+  },
+  "d016:772852cf": {
+   "id": "d016:772852cf",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops 'Hundreds', a key numerical detail"
+  },
+  "d016:04dd9143": {
+   "id": "d016:04dd9143",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps 'Hundreds', conveys layoff story"
+  },
+  "d016:55793af6": {
+   "id": "d016:55793af6",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Job losses' and 'layoffs' convey same meaning"
+  },
+  "d016:1d314aa1": {
+   "id": "d016:1d314aa1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes emotional tone, keeps facts"
+  },
+  "d016:48068948": {
+   "id": "d016:48068948",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Same meaning as original"
+  },
+  "d016:d3c3495a": {
+   "id": "d016:d3c3495a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Face losing jobs' = 'face layoffs'"
+  },
+  "d016:38a89134": {
+   "id": "d016:38a89134",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes emotional framing, keeps facts"
+  },
+  "d017:0a970abc": {
+   "id": "d017:0a970abc",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops 'tries to crash', a key fact about pilot intent"
+  },
+  "d017:6ac4f3e4": {
+   "id": "d017:6ac4f3e4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Descends rapidly' = 'plummets', includes crash attempt"
+  },
+  "d017:a2326b41": {
+   "id": "d017:a2326b41",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Plain language, includes crash attempt"
+  },
+  "d017:98d05f5d": {
+   "id": "d017:98d05f5d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Same facts, slightly abbreviated"
+  },
+  "d017:d56929a5": {
+   "id": "d017:d56929a5",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "All facts present but past tense changes narrative perspective"
+  },
+  "d018:86bde5a5": {
+   "id": "d018:86bde5a5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Strips sensational framing, keeps core story"
+  },
+  "d018:294397f6": {
+   "id": "d018:294397f6",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes 'killing is wellness' to 'hunting is wellness'"
+  },
+  "d018:0820f840": {
+   "id": "d018:0820f840",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures core claim clearly"
+  },
+  "d018:6356e6fa": {
+   "id": "d018:6356e6fa",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes to health benefit claim, not 'killing as wellness trend'"
+  },
+  "d018:b54042fa": {
+   "id": "d018:b54042fa",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Same claim, plain language"
+  },
+  "d018:a3b1a62a": {
+   "id": "d018:a3b1a62a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Same quote, restructured"
+  },
+  "d018:2eeed070": {
+   "id": "d018:2eeed070",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Strips 'Meet' framing, keeps core"
+  },
+  "d018:fde9aec7": {
+   "id": "d018:fde9aec7",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps 'gun-loving' descriptor and core story"
+  },
+  "d018:d08ab31b": {
+   "id": "d018:d08ab31b",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clarifies 'killing animals', same claim"
+  },
+  "d018:a8f98fca": {
+   "id": "d018:a8f98fca",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Adds 'Some' qualifier, keeps core claim"
+  },
+  "d018:0c080767": {
+   "id": "d018:0c080767",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Restructures framing, preserves quote"
+  },
+  "d019:5e8605bb": {
+   "id": "d019:5e8605bb",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes 'indefinitely', a key fact about the halt's duration"
+  },
+  "d019:47369040": {
+   "id": "d019:47369040",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the dramatic timing detail ('one hour before') which is the newsworthy element"
+  },
+  "d019:3ca63d8c": {
+   "id": "d019:3ca63d8c",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes both 'indefinitely' and the reason concerns were raised"
+  },
+  "d019:ec758260": {
+   "id": "d019:ec758260",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Still contains 'BREAKING NEWS' in capitals, which violates the no-shouting rule"
+  },
+  "d019:c85b14b4": {
+   "id": "d019:c85b14b4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures key facts: execution halted, indefinitely, due to concerns raised"
+  },
+  "d019:db0b746a": {
+   "id": "d019:db0b746a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all key information, just slightly condensed"
+  },
+  "d019:ff409711": {
+   "id": "d019:ff409711",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all key facts without adding anything new"
+  },
+  "d019:1fdc3c05": {
+   "id": "d019:1fdc3c05",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains all details including 'serious concerns' in quotes"
+  },
+  "d019:3daf3e89": {
+   "id": "d019:3daf3e89",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Essentially preserves the headline minus sensational 'BREAKING NEWS' and 'killer' label"
+  },
+  "d022:16e61880": {
+   "id": "d022:16e61880",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the specific allegations ('cannibals' and 'like the devil') which are the main story"
+  },
+  "d022:90976792": {
+   "id": "d022:90976792",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'allegedly' which introduces hedging not present in the original's factual reporting"
+  },
+  "d023:a5c84f8f": {
+   "id": "d023:a5c84f8f",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Reverses the story: says they fired someone, but headline says they didn't make it past day one"
+  },
+  "d023:4088a14c": {
+   "id": "d023:4088a14c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures the essence: 39 people didn't last their first day of work"
+  },
+  "d023:6e5293a6": {
+   "id": "d023:6e5293a6",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Same meaning as above with minor wording change"
+  },
+  "d023:aaa23241": {
+   "id": "d023:aaa23241",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Didn't last' is a standard phrase capturing the key fact"
+  },
+  "d023:6b736cfa": {
+   "id": "d023:6b736cfa",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Appropriate narrative framing consistent with the headline's structure"
+  },
+  "d023:209898e3": {
+   "id": "d023:209898e3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Direct, clear preservation of the key fact"
+  },
+  "d023:2828e814": {
+   "id": "d023:2828e814",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Very close to original with only minor narrative framing added"
+  },
+  "d023:cf519d8c": {
+   "id": "d023:cf519d8c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes emphasis but preserves all key information"
+  },
+  "d023:38b47063": {
+   "id": "d023:38b47063",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Minor word changes preserve the essential meaning"
+  },
+  "d023:2ab5158d": {
+   "id": "d023:2ab5158d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Appropriate narrative clarification about stories/accounts implied in original"
+  },
+  "d023:3242567d": {
+   "id": "d023:3242567d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Narrative framing that clarifies the story structure"
+  },
+  "d023:54f92b16": {
+   "id": "d023:54f92b16",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Similar narrative framing, preserves all facts"
+  },
+  "d024:8ba9e11d": {
+   "id": "d024:8ba9e11d",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; loses the specific $10 price point and the connection to Democratic senator"
+  },
+  "d024:32cb4a19": {
+   "id": "d024:32cb4a19",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all key details: price, location, political figure, and the causal connection"
+  },
+  "d024:850a0ef7": {
+   "id": "d024:850a0ef7",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the specific $10 price point which is central to the story"
+  },
+  "d024:3bfc6813": {
+   "id": "d024:3bfc6813",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the political angle entirely; just reports the price"
+  },
+  "d024:178f10f4": {
+   "id": "d024:178f10f4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'changing voting preferences' which interprets 'thinking about' more specifically than stated"
+  },
+  "d024:ed8b6ce8": {
+   "id": "d024:ed8b6ce8",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the specific $10 price point which is key"
+  },
+  "d024:d9b554ae": {
+   "id": "d024:d9b554ae",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Weakens the causal link by using 'amid discussion' instead of the direct connection"
+  },
+  "d024:ba7b068a": {
+   "id": "d024:ba7b068a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all key facts: price, location, and political consideration"
+  },
+  "d024:a048ce21": {
+   "id": "d024:a048ce21",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Maintains all details including 'red Alaska' description"
+  },
+  "d024:78a0acdf": {
+   "id": "d024:78a0acdf",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the specific $10 price point"
+  },
+  "d024:a1596726": {
+   "id": "d024:a1596726",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves price, location, voters, and political element"
+  },
+  "d024:03225657": {
+   "id": "d024:03225657",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Maintains all key facts in clear language"
+  },
+  "d024:38882846": {
+   "id": "d024:38882846",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the specific $10 price point and changes 'thinking' to 'talking'"
+  },
+  "d024:f92a1a3e": {
+   "id": "d024:f92a1a3e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the specific $10 price point"
+  },
+  "d026:2db763e5": {
+   "id": "d026:2db763e5",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Captures the key contradiction (policy reversal) though loses referendum detail"
+  },
+  "d026:2d1b1636": {
+   "id": "d026:2d1b1636",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Includes both main pledges (EU and referendum) and shows the reversal"
+  },
+  "d026:80c42e20": {
+   "id": "d026:80c42e20",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the crucial contradiction context that months ago he said he wouldn't do this"
+  },
+  "d026:ddaa27c1": {
+   "id": "d026:ddaa27c1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves the main story and contradiction, though loses referendum mention"
+  },
+  "d026:fa7d410f": {
+   "id": "d026:fa7d410f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Includes both pledges and clearly shows the reversal of earlier stance"
+  },
+  "d026:b524e544": {
+   "id": "d026:b524e544",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures main story and contradiction, loses secondary referendum detail"
+  },
+  "d026:ee68f0d1": {
+   "id": "d026:ee68f0d1",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes the temporal context showing contradiction, just lists current positions"
+  },
+  "d027:9dbff554": {
+   "id": "d027:9dbff554",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'overcharged' which is the key justification for sending checks"
+  },
+  "d027:0e386a53": {
+   "id": "d027:0e386a53",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all key facts including 'overcharged'"
+  },
+  "d027:839039ee": {
+   "id": "d027:839039ee",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Makes explicit the attribution implicit in quotes; clarifies rather than adds facts"
+  },
+  "d029:2830405a": {
+   "id": "d029:2830405a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Reasonable paraphrase of 'yearning for' as 'appeals to'"
+  },
+  "d029:506b2a02": {
+   "id": "d029:506b2a02",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the 'yearning for/popular trend' angle, just states they're reading it"
+  },
+  "d029:6ec68845": {
+   "id": "d029:6ec68845",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Similar to d029:2830405a, captures the core meaning"
+  },
+  "d029:3db08a8c": {
+   "id": "d029:3db08a8c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys same story, appropriately tones down hype from yearning to appeals."
+  },
+  "d029:b2a77772": {
+   "id": "d029:b2a77772",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Popularity conveys appeal but has slightly different tone than yearning."
+  },
+  "d029:fc5b41ea": {
+   "id": "d029:fc5b41ea",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Plainly states same fact as headline with less emotion."
+  },
+  "d029:2e41f278": {
+   "id": "d029:2e41f278",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Broken English: missing article before new generation."
+  },
+  "d029:4c791cfa": {
+   "id": "d029:4c791cfa",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Allowed to speak as newspaper; preserves core meaning."
+  },
+  "d029:06282434": {
+   "id": "d029:06282434",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes from the new generation to some young people, losing broad appeal claim."
+  },
+  "d029:57498262": {
+   "id": "d029:57498262",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Some younger readers weakens from generational to subset claim."
+  },
+  "d029:1dde03f1": {
+   "id": "d029:1dde03f1",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds A report on why which explains causation not in the headline."
+  },
+  "d029:6c72d2bd": {
+   "id": "d029:6c72d2bd",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "We believe framing is allowed; preserves the core fact."
+  },
+  "d030:80933de3": {
+   "id": "d030:80933de3",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses trade barbs, reducing to just debate without critical exchange."
+  },
+  "d030:0c1c69bb": {
+   "id": "d030:0c1c69bb",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops the key fact that they traded barbs/criticized each other."
+  },
+  "d030:3599ea00": {
+   "id": "d030:3599ea00",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Disagreed is softer than trade barbs; could imply civil disagreement."
+  },
+  "d030:b1bac804": {
+   "id": "d030:b1bac804",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Criticize each other directly translates trade barbs meaning."
+  },
+  "d030:8054fcf0": {
+   "id": "d030:8054fcf0",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Exchange sharp comments is direct equivalent of trade barbs."
+  },
+  "d030:a1259c00": {
+   "id": "d030:a1259c00",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Argue captures conflict but loses sharp criticism nuance of trade barbs."
+  },
+  "d030:28735649": {
+   "id": "d030:28735649",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Criticised each other preserves the barbing meaning."
+  },
+  "d030:edb1a290": {
+   "id": "d030:edb1a290",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Criticise each other is equivalent to trade barbs."
+  },
+  "d030:fc498b9a": {
+   "id": "d030:fc498b9a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves the mutual criticism meaning of trade barbs."
+  },
+  "d030:57db519c": {
+   "id": "d030:57db519c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Governors debate equals gubernatorial debate; preserves barbing."
+  },
+  "d033:65a76136": {
+   "id": "d033:65a76136",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; generalizes to character and death, losing specific names."
+  },
+  "d033:db57a3a5": {
+   "id": "d033:db57a3a5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Reveals information plainly translates drops bombshell; keeps all names and facts."
+  },
+  "d033:b962dbbb": {
+   "id": "d033:b962dbbb",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves Kim afraid about Jimmys death; key facts remain."
+  },
+  "d033:8b2d4beb": {
+   "id": "d033:8b2d4beb",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses fearful emotion, replacing with neutral receives news."
+  },
+  "d033:643d8511": {
+   "id": "d033:643d8511",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses fearful; hears news does not convey emotional reaction."
+  },
+  "d033:b0885c03": {
+   "id": "d033:b0885c03",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Faces new information softens Kims fear and loses bombshell significance."
+  },
+  "d033:1e8ea14c": {
+   "id": "d033:1e8ea14c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Worries about translates fearful; revelation translates bombshell."
+  },
+  "d033:551c88b8": {
+   "id": "d033:551c88b8",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses fearful; doesnt convey Kims emotional state."
+  },
+  "d033:4e1918fa": {
+   "id": "d033:4e1918fa",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds editorial judgment we consider unexpected not in headline."
+  },
+  "d033:2a5239d5": {
+   "id": "d033:2a5239d5",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds we consider to be unexpected editorial judgment and awkward phrasing."
+  },
+  "d033:d19bebbd": {
+   "id": "d033:d19bebbd",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Worried parallels fearful; gives new information parallels bombshell."
+  },
+  "d033:9d537aa0": {
+   "id": "d033:9d537aa0",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Says something new is somewhat vague but conveys revelation in context."
+  },
+  "d033:06d6b7ae": {
+   "id": "d033:06d6b7ae",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Says something about loses bombshell significance."
+  },
+  "d033:613073e6": {
+   "id": "d033:613073e6",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Worried and shares news preserve fearful and bombshell meanings."
+  },
+  "d034:bb64ee18": {
+   "id": "d034:bb64ee18",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; incident with man tells reader nothing specific happened."
+  },
+  "d034:188a5847": {
+   "id": "d034:188a5847",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves slapping and corruption context; main news is intact."
+  },
+  "d034:832695ad": {
+   "id": "d034:832695ad",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses justifies action which is explicit in headline."
+  },
+  "d034:c54c9dc0": {
+   "id": "d034:c54c9dc0",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all key facts: slapping, corruption questions, defense."
+  },
+  "d034:32345985": {
+   "id": "d034:32345985",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "All elements preserved: slaps, corruption questions, defends action."
+  },
+  "d034:d1aeae60": {
+   "id": "d034:d1aeae60",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "All facts intact: slaps over corruption and justifies."
+  },
+  "d034:5cc6ba39": {
+   "id": "d034:5cc6ba39",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves slapping, corruption context, and defense of action."
+  },
+  "d034:f74225e3": {
+   "id": "d034:f74225e3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "All key elements present: slaps, corruption questions, defends."
+  },
+  "d034:ed356d98": {
+   "id": "d034:ed356d98",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Complete preservation of slapping, corruption, and defense facts."
+  },
+  "d035:3ec3d563": {
+   "id": "d035:3ec3d563",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Drops flavor text run-fest; keeps core facts about player and score."
+  },
+  "d035:68aa5402": {
+   "id": "d035:68aa5402",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Led instead of powers is equivalent; preserves stat pack reference."
+  },
+  "d035:1034b1ec": {
+   "id": "d035:1034b1ec",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes run-fest but keeps score facts and stat pack."
+  },
+  "d035:3bd997bc": {
+   "id": "d035:3bd997bc",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Plainly states player score and location; key facts present."
+  },
+  "d036:cbc3abd0": {
+   "id": "d036:cbc3abd0",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Posts a photo is equivalent to gives close-up; facts about tattoo preserved."
+  },
+  "d036:a7cd0884": {
+   "id": "d036:a7cd0884",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses gives fans close-up action; just states she has it."
+  },
+  "d036:33a0bcd7": {
+   "id": "d036:33a0bcd7",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Shares and 3 kids preserve both the sharing action and number."
+  },
+  "d036:0e34b269": {
+   "id": "d036:0e34b269",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Shows preserves sharing action; three kids preserves the number."
+  },
+  "d036:4c73ec7e": {
+   "id": "d036:4c73ec7e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys same story with simplification from 'gives fans...honoring' to 'shows...of'—the core facts (tattoo of Patrick and 3 kids) are preserved."
+  },
+  "d036:8bf01d95": {
+   "id": "d036:8bf01d95",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Loses 'arm' detail but core fact (tattoo of Patrick and 3 kids) survives; location is secondary to what the tattoo depicts."
+  },
+  "d036:ea4a61ea": {
+   "id": "d036:ea4a61ea",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes 'close-up' from 'gives fans a close-up of'—that specific detail about showing a close-up is central to the action described."
+  },
+  "d037:7eb019f5": {
+   "id": "d037:7eb019f5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes hype ('just', 'daringly') but preserves the core facts: Burnham did something different and Australia should pay attention."
+  },
+  "d037:6f21ebe2": {
+   "id": "d037:6f21ebe2",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague—replaces 'daringly different' with 'action' and softens the call to attention to 'may be relevant'."
+  },
+  "d037:f9cd6273": {
+   "id": "d037:f9cd6273",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'political' which is not established in the original headline; also loses the 'Australia should pay attention' part."
+  },
+  "d037:e3e69cf5": {
+   "id": "d037:e3e69cf5",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the key claim that Australia should pay attention; just says Burnham takes a different approach."
+  },
+  "d037:74e1bf66": {
+   "id": "d037:74e1bf66",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'political' which is not in the original; loses 'Australia should pay attention'."
+  },
+  "d037:d4732666": {
+   "id": "d037:d4732666",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the important part about Australia needing to pay attention; only says Burnham takes a new approach."
+  },
+  "d037:8fe1c0b0": {
+   "id": "d037:8fe1c0b0",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Completely replaces the story with editorial comment ('here is what we think'); loses what Burnham did and why Australia should care."
+  },
+  "d037:4c69d8a0": {
+   "id": "d037:4c69d8a0",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves core facts (Burnham did something different, Australia should pay attention) and clarifies the call as the newspaper's position, which is acceptable."
+  },
+  "d037:2862a84a": {
+   "id": "d037:2862a84a",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds attribution to 'an opinion piece' which is not established in the original headline and may not be accurate."
+  },
+  "d037:b0892a0b": {
+   "id": "d037:b0892a0b",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes hype ('daringly') and replaces 'pay attention' with 'notice' (synonymous); preserves the core story."
+  },
+  "d037:f477599e": {
+   "id": "d037:f477599e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the critical second part about Australia needing to pay attention; incomplete story."
+  },
+  "d037:3fc43afc": {
+   "id": "d037:3fc43afc",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Explicitly frames as newspaper opinion ('we think'), preserving the core facts and making the perspective clear."
+  },
+  "d037:2c5b9059": {
+   "id": "d037:2c5b9059",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Uses 'We believe' to speak as newspaper, preserving both main facts: what Burnham did and why Australia should pay attention."
+  },
+  "d039:aa1ce63a": {
+   "id": "d039:aa1ce63a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Identical text; technically passes (no changes made)."
+  },
+  "d039:e7b62b3e": {
+   "id": "d039:e7b62b3e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes 'admits' to 'says', which softens the acknowledgment of wrongdoing into a neutral statement."
+  },
+  "d039:72e10a14": {
+   "id": "d039:72e10a14",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes 'admits' to 'says', softening the admission of responsibility."
+  },
+  "d039:dcbbb3a4": {
+   "id": "d039:dcbbb3a4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Acknowledges' preserves the sense of admission; 'failures with stillbirth cases' is more specific and clearer than the original."
+  },
+  "d040:4d43cd9d": {
+   "id": "d040:4d43cd9d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Simplifies headline format and replaces 'Selecao' with 'Brazil' for clarity; core story (five Indian players to watch) preserved."
+  },
+  "d040:f208b43a": {
+   "id": "d040:f208b43a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Similar simplifications with added clarity ('in the match'); preserves the core story."
+  },
+  "d041:67c2443b": {
+   "id": "d041:67c2443b",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Identical text; technically passes."
+  },
+  "d041:058805f0": {
+   "id": "d041:058805f0",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes loaded language ('feud' → 'disagreement') while preserving significance with 'Major'."
+  },
+  "d041:b113a0b3": {
+   "id": "d041:b113a0b3",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague—'There is disagreement' lacks any sense of significance and could apply to any field."
+  },
+  "d041:99ab1543": {
+   "id": "d041:99ab1543",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague—just 'Arguments in artificial intelligence' without context of significance."
+  },
+  "d041:41df05c6": {
+   "id": "d041:41df05c6",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Replaces 'feud' with 'dispute' and preserves 'major', maintaining significance while reducing loaded language."
+  },
+  "d041:31ce3148": {
+   "id": "d041:31ce3148",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Replaces 'feud' with 'disagreement' and preserves 'major', reducing hype while keeping significance."
+  },
+  "d041:4f1c4c1f": {
+   "id": "d041:4f1c4c1f",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds editorial framing ('Here is an account of') and loses sense of significance without 'biggest/major'."
+  },
+  "d041:678c2422": {
+   "id": "d041:678c2422",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague—removes significance indicator, just says 'a disagreement in the artificial intelligence industry'."
+  },
+  "d041:1d5bf31a": {
+   "id": "d041:1d5bf31a",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague—loses any sense of significance or scale."
+  },
+  "d041:e90e2de6": {
+   "id": "d041:e90e2de6",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves 'biggest' significance, replaces 'feud' with 'argument', and frames as report—all core elements preserved."
+  },
+  "d041:945dea86": {
+   "id": "d041:945dea86",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes 'biggest', losing the sense that this is a significant/major dispute."
+  },
+  "d041:c12bc4e7": {
+   "id": "d041:c12bc4e7",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes 'biggest', losing significance; just says 'a disagreement'."
+  },
+  "d042:7647ab74": {
+   "id": "d042:7647ab74",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes hype ('soar' → 'reach'); preserves all key facts including the specific price and 'average' specification."
+  },
+  "d042:c621e0e1": {
+   "id": "d042:c621e0e1",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes 'average' from the price specification, changing 'reach an average of $5.86' to just 'reach $5.86'."
+  },
+  "d042:87114d22": {
+   "id": "d042:87114d22",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Awkward grammar: 'rise to an average $5.86 a gallon' is not standard English phrasing."
+  },
+  "d042:2824c4b1": {
+   "id": "d042:2824c4b1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes hype ('soar' → 'rise') while preserving all key facts including average price."
+  },
+  "d042:db9cc63d": {
+   "id": "d042:db9cc63d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Slightly wordier but grammatically clearer; removes 'soar' and preserves all key facts including average price."
+  },
+  "d042:6460de8d": {
+   "id": "d042:6460de8d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes hype ('soar' → 'rise'), expands abbreviation ('Gov.' → 'Governor'), preserves key facts."
+  },
+  "d043:5ca14a8e": {
+   "id": "d043:5ca14a8e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures core story (old British sandwiches no longer eaten); drops teaser and personal angle as permitted."
+  },
+  "d043:8c35c466": {
+   "id": "d043:8c35c466",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys the same story with simplification; drops teaser elements appropriately."
+  },
+  "d043:cb44d1f6": {
+   "id": "d043:cb44d1f6",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes emphasis from 'forgotten' to just 'your grandparents remember', losing the key characteristic."
+  },
+  "d043:fdfc6aba": {
+   "id": "d043:fdfc6aba",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys the core idea (old sandwiches people made); less specific but still captures the story."
+  },
+  "d043:12d6f6a5": {
+   "id": "d043:12d6f6a5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Less common' is weaker than 'forgotten' but still conveys that these are old sandwiches no longer widely eaten."
+  },
+  "d043:e496e6fb": {
+   "id": "d043:e496e6fb",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Uses 'might' which softens certainty; loses emphasis on 'forgotten'; no longer emphasizes the key characteristic."
+  },
+  "d043:3c0676cf": {
+   "id": "d043:3c0676cf",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures the core story: British sandwiches people have forgotten about."
+  },
+  "d043:b1aee05f": {
+   "id": "d043:b1aee05f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys the key story: old British sandwiches that have been forgotten."
+  },
+  "d043:3b32e72c": {
+   "id": "d043:3b32e72c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Mostly forgotten' is a reasonable modification; preserves the core idea."
+  },
+  "d043:f3da88a3": {
+   "id": "d043:f3da88a3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Simple, direct, captures the core story: forgotten British sandwiches."
+  },
+  "d043:4003132d": {
+   "id": "d043:4003132d",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Retains core facts (12, British, sandwiches, forgotten); drops personal angle but story is clear"
+  },
+  "d043:51c66e42": {
+   "id": "d043:51c66e42",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'mostly' which softens 'forgotten'—changes the certainty of the claim"
+  },
+  "d045:07c346ea": {
+   "id": "d045:07c346ea",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'it's not just the price that's appealing'—key reason this is newsworthy"
+  },
+  "d045:e5b8e841": {
+   "id": "d045:e5b8e841",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the detail about appeal beyond price—core of the story"
+  },
+  "d045:580c7f79": {
+   "id": "d045:580c7f79",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'Releases' contradicts 'bringing back'—changes meaning from return to new launch"
+  },
+  "d045:be21029e": {
+   "id": "d045:be21029e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'Releasing' contradicts 'bringing back'—implies new product, not returning"
+  },
+  "d046:87c753d4": {
+   "id": "d046:87c753d4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'Amenities' is vague and loses specific shocking details (cellphone, nude photos)"
+  },
+  "d046:5678ca81": {
+   "id": "d046:5678ca81",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains all specific details and attributes clearly to report"
+  },
+  "d046:a88cd2dd": {
+   "id": "d046:a88cd2dd",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'Other items' is vague and loses specifics that make the story"
+  },
+  "d046:26145b48": {
+   "id": "d046:26145b48",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'Special treatment' is vague; loses specific details (nude photos, cellphone)"
+  },
+  "d046:02bb09b6": {
+   "id": "d046:02bb09b6",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops 'nude' from photos—changes meaning and softens scandalous element"
+  },
+  "d046:b784d746": {
+   "id": "d046:b784d746",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; doesn't specify what the report actually says"
+  },
+  "d046:ac918f2e": {
+   "id": "d046:ac918f2e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains all specific details and attributes to report"
+  },
+  "d046:dd0d7d36": {
+   "id": "d046:dd0d7d36",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains all specific details; 'jail' and 'prison' are equivalent"
+  },
+  "d046:ae01dfa4": {
+   "id": "d046:ae01dfa4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; fails to specify what the report claims"
+  },
+  "d046:8f94e1d1": {
+   "id": "d046:8f94e1d1",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; doesn't specify the report's contents"
+  },
+  "d046:d8d2a96f": {
+   "id": "d046:d8d2a96f",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Softens with 'comfortable' and loses specific details that are the news"
+  },
+  "d047:e9cfe648": {
+   "id": "d047:e9cfe648",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys same story with less sensationalism; retains core claim about language change"
+  },
+  "d047:93ef7e1a": {
+   "id": "d047:93ef7e1a",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes 'all' to 'some people'—alters the factual claim"
+  },
+  "d047:4d5bbc17": {
+   "id": "d047:4d5bbc17",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains 'starting' and 'talk like'—core story intact"
+  },
+  "d047:fe72e095": {
+   "id": "d047:fe72e095",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys the causal relationship and same story more plainly"
+  },
+  "d047:ba8c3d46": {
+   "id": "d047:ba8c3d46",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains the core claim about influence on language"
+  },
+  "d047:06569fbf": {
+   "id": "d047:06569fbf",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains core meaning about adoption of chatbot language patterns"
+  },
+  "d047:80c29e77": {
+   "id": "d047:80c29e77",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'We believe' attribution is allowed per guidelines; retains the story"
+  },
+  "d047:88968323": {
+   "id": "d047:88968323",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'We think' attribution is allowed; retains the core claim"
+  },
+  "d047:f000d22f": {
+   "id": "d047:f000d22f",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes 'all' to 'some people'—alters the factual scope"
+  },
+  "d047:dae67bba": {
+   "id": "d047:dae67bba",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes 'all' to 'some people'—factual change in claim"
+  },
+  "d049:663cd4e9": {
+   "id": "d049:663cd4e9",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'Testing methods' differs from 'what they are testing'—changes what is being explained"
+  },
+  "d049:01341768": {
+   "id": "d049:01341768",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'working', 'emerges', and 'testing' details—loses dynamic of active research"
+  },
+  "d049:914c4d10": {
+   "id": "d049:914c4d10",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Captures essence (scientist testing theory about Noah's Ark) though loses 'new' and 'working'"
+  },
+  "d049:6344558e": {
+   "id": "d049:6344558e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'testing' detail—key part of the original headline's emphasis"
+  },
+  "d049:727b3bd9": {
+   "id": "d049:727b3bd9",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; loses 'new', 'working', and 'testing' details"
+  },
+  "d049:28e11825": {
+   "id": "d049:28e11825",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'testing' detail—key active element of the story"
+  },
+  "d049:72b3d09a": {
+   "id": "d049:72b3d09a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains all key elements: new, working theory, and testing explanation"
+  },
+  "d049:232d5642": {
+   "id": "d049:232d5642",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains new theory, explanation, and testing elements"
+  },
+  "d049:b564d95a": {
+   "id": "d049:b564d95a",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'working' descriptor and 'testing' detail—loses specificity"
+  },
+  "d049:2419a71c": {
+   "id": "d049:2419a71c",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'working' and 'testing'—key specifics of original"
+  },
+  "d050:55cf6339": {
+   "id": "d050:55cf6339",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague and loses personal perspective and specific complaints (seasons, pace)"
+  },
+  "d050:51b162d2": {
+   "id": "d050:51b162d2",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains personal perspective, difficulty, and specific detail (seasons)"
+  },
+  "d051:95450d52": {
+   "id": "d051:95450d52",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Stylistic rewording; meaning is identical"
+  },
+  "d051:410143b5": {
+   "id": "d051:410143b5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Stylistic change only; factual meaning unchanged"
+  },
+  "d053:4c3c109d": {
+   "id": "d053:4c3c109d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains core fact of rain/snow across UK; less sensational is appropriate"
+  },
+  "d053:09e4b9e5": {
+   "id": "d053:09e4b9e5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains 551-mile detail and core story"
+  },
+  "d053:d6e63892": {
+   "id": "d053:d6e63892",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains weather map reference and 551-mile detail"
+  },
+  "d053:2fdf76b1": {
+   "id": "d053:2fdf76b1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures core fact of rain/snow across UK simply and clearly"
+  },
+  "d053:730b3516": {
+   "id": "d053:730b3516",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "'Heavy' is reasonable interpretation of 'wall'; retains 551-mile detail"
+  },
+  "d053:8ecd5747": {
+   "id": "d053:8ecd5747",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains key detail (551 miles) with reasonable language"
+  },
+  "d053:b30483a4": {
+   "id": "d053:b30483a4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the 551-mile specific fact"
+  },
+  "d053:ebf67802": {
+   "id": "d053:ebf67802",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains 551-mile detail with clear terminology"
+  },
+  "d053:b85b979a": {
+   "id": "d053:b85b979a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains weather maps reference and 551-mile detail"
+  },
+  "d053:c7f95947": {
+   "id": "d053:c7f95947",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes hype ('wall', 'disappears') while preserving all key facts: weather maps, rain, snow, 551-mile coverage."
+  },
+  "d053:95d37618": {
+   "id": "d053:95d37618",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the specific geographic scale (551 miles) which is the key detail about severity."
+  },
+  "d053:026fc080": {
+   "id": "d053:026fc080",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all facts: weather maps, rain, snow, 551-mile band; 'band' is a neutral synonym for 'wall'."
+  },
+  "d054:df1fff9e": {
+   "id": "d054:df1fff9e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Changes 'plunging' to 'descending' (less sensational but same meaning) and removes caps; all facts preserved."
+  },
+  "d054:0733fd8d": {
+   "id": "d054:0733fd8d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Reorders facts but keeps all: Israeli plumber, controlled jet, learned from TV; 'plunging' describes the urgency but isn't softened."
+  },
+  "d054:14c1b421": {
+   "id": "d054:14c1b421",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes 'plunging' detail but preserves core facts; the urgency is implicit in 'controlled jet'."
+  },
+  "d054:e0c122a8": {
+   "id": "d054:e0c122a8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Uses 'descending' instead of 'plunging' (less sensational), removes caps from TV; all facts preserved."
+  },
+  "d054:538aa16e": {
+   "id": "d054:538aa16e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes 'Israeli' — a key identifying detail about the plumber."
+  },
+  "d054:3ffe99ec": {
+   "id": "d054:3ffe99ec",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes caps and adds articles; all facts preserved including 'plunging'."
+  },
+  "d054:b43e3a8f": {
+   "id": "d054:b43e3a8f",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds new fact 'during an emergency' not stated in original headline."
+  },
+  "d054:c3b55d4f": {
+   "id": "d054:c3b55d4f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Changes 'plunging' to 'falling' (synonyms describing same emergency); all facts preserved."
+  },
+  "d054:fa859e55": {
+   "id": "d054:fa859e55",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'says he' which softens the fact from stated reality to attribution/claim."
+  },
+  "d054:98259a7b": {
+   "id": "d054:98259a7b",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Uses 'falling' instead of 'plunging' (similar meaning, less sensational); all facts preserved."
+  },
+  "d055:fabfa4f8": {
+   "id": "d055:fabfa4f8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Changes 'thumps' to 'beats' — same fact, less sensational language."
+  },
+  "d055:fefdb432": {
+   "id": "d055:fefdb432",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Changes 'thumps' to 'defeats' — same fact, neutral language."
+  },
+  "d055:86aade10": {
+   "id": "d055:86aade10",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Restructures with 'after defeating' but preserves all facts: Pakistan matchup, semi-final result, gold medal."
+  },
+  "d055:9b27b3e1": {
+   "id": "d055:9b27b3e1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Changes structure with 'after beating' but all facts preserved."
+  },
+  "d055:b35d8204": {
+   "id": "d055:b35d8204",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Minor addition of 'the' before 'semis'; all facts preserved."
+  },
+  "d055:da50788f": {
+   "id": "d055:da50788f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Reorders and shortens 'gold' instead of 'gold medal' but meaning is clear and preserved."
+  },
+  "d055:66af3399": {
+   "id": "d055:66af3399",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Reorders facts (semi-final first) but all details preserved including 'gold medal'."
+  },
+  "d055:686f2223": {
+   "id": "d055:686f2223",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Expands 'semis' to 'semi-final' and shortens to 'gold'; all key facts preserved."
+  },
+  "d055:bbfb72a4": {
+   "id": "d055:bbfb72a4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Changes 'semis' to 'semi-final'; all facts preserved."
+  },
+  "d056:5fc9b496": {
+   "id": "d056:5fc9b496",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses specific detail about jiu-jitsu instructor, generalizing to 'new relationship'."
+  },
+  "d056:efb51de6": {
+   "id": "d056:efb51de6",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all facts including the jiu-jitsu instructor detail; 'reports describe' neutral phrasing."
+  },
+  "d056:a96b5fd6": {
+   "id": "d056:a96b5fd6",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps 'moving on with her jiu-jitsu instructor'; all facts preserved despite losing 'explosive'."
+  },
+  "d056:069989e9": {
+   "id": "d056:069989e9",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the jiu-jitsu instructor detail, generalizing to 'moving on'."
+  },
+  "d056:a2b6c169": {
+   "id": "d056:a2b6c169",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves jiu-jitsu instructor detail; all key facts retained."
+  },
+  "d056:cf9220a8": {
+   "id": "d056:cf9220a8",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes the entire second part about his reaction to her new relationship and the jiu-jitsu instructor."
+  },
+  "d056:68ee727b": {
+   "id": "d056:68ee727b",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; loses the jiu-jitsu instructor detail and his reaction to it."
+  },
+  "d056:bb3131ae": {
+   "id": "d056:bb3131ae",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the jiu-jitsu instructor detail and how he felt about it."
+  },
+  "d056:21c53b67": {
+   "id": "d056:21c53b67",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Generalizes 'jiu-jitsu instructor' to 'new partner', losing specific detail."
+  },
+  "d056:95dcd872": {
+   "id": "d056:95dcd872",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Generalizes to 'new partner' instead of specifying jiu-jitsu instructor."
+  },
+  "d056:8eff2317": {
+   "id": "d056:8eff2317",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Generalizes to 'new relationship' instead of jiu-jitsu instructor."
+  },
+  "d056:091dd164": {
+   "id": "d056:091dd164",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes 'breakdown of marriage' to 'divorce' (not equivalent) and loses jiu-jitsu instructor detail."
+  },
+  "d056:3f7d6967": {
+   "id": "d056:3f7d6967",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Generalizes to 'new relationship' instead of specifying jiu-jitsu instructor."
+  },
+  "d056:57a1f505": {
+   "id": "d056:57a1f505",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves jiu-jitsu instructor detail; 'relationship with her jiu-jitsu instructor' conveys same fact as original."
+  },
+  "d057:c1080201": {
+   "id": "d057:c1080201",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes the teaser phrase; all key facts preserved."
+  },
+  "d057:1b46c2ba": {
+   "id": "d057:1b46c2ba",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Secured' and 'ensured' are synonymous; all facts preserved."
+  },
+  "d057:c42fa5f1": {
+   "id": "d057:c42fa5f1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Here is how' is an allowed newspaper voice; all facts preserved."
+  },
+  "d057:44035164": {
+   "id": "d057:44035164",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "'Helped secure' softens 'ensured' — changes from guaranteed to contributed."
+  },
+  "d057:ae90dda4": {
+   "id": "d057:ae90dda4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes teaser; 'How...ensured' preserves the same structure and facts."
+  },
+  "d057:5f07d2d3": {
+   "id": "d057:5f07d2d3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Uses 'secured' as synonym for 'ensured'; all facts preserved."
+  },
+  "d058:7ef46e18": {
+   "id": "d058:7ef46e18",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'more harshly' — the key comparative that's the point of the story."
+  },
+  "d058:e4aba4fe": {
+   "id": "d058:e4aba4fe",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Loses DWTS context which frames the story; headline is specifically about DWTS context."
+  },
+  "d058:615c5818": {
+   "id": "d058:615c5818",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves DWTS and 'more harshly'; captures the story accurately."
+  },
+  "d058:7640cc4b": {
+   "id": "d058:7640cc4b",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Loses DWTS context; reader wouldn't know this is specifically about DWTS."
+  },
+  "d058:74f0e930": {
+   "id": "d058:74f0e930",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps DWTS and 'more harshly'; 'says she thinks' is redundant but preserves facts."
+  },
+  "d058:2d304c50": {
+   "id": "d058:2d304c50",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Expands DWTS to full name; preserves 'more harshly' and key facts."
+  },
+  "d058:37726d99": {
+   "id": "d058:37726d99",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps DWTS and 'more harshly'; all key facts preserved."
+  },
+  "d058:c4d2cdb7": {
+   "id": "d058:c4d2cdb7",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Loses DWTS context which is essential to understanding the specific story being told."
+  },
+  "d059:772e08f4": {
+   "id": "d059:772e08f4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Maintains all key facts: Samad, Pakistan, Asian Games cricket, first final."
+  },
+  "d059:3130116d": {
+   "id": "d059:3130116d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Straightforward rewrite keeping essential story intact."
+  },
+  "d059:9ea1982f": {
+   "id": "d059:9ea1982f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Essential story preserved; loses 'men's' detail but not the key fact."
+  },
+  "d059:8e98aaef": {
+   "id": "d059:8e98aaef",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Incomplete sentence ending with 'their first' without object."
+  },
+  "d059:e581e97f": {
+   "id": "d059:e581e97f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "All key facts maintained in clearer form."
+  },
+  "d059:efb10ba3": {
+   "id": "d059:efb10ba3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Essential story intact; 'men's' dropped but not critical."
+  },
+  "d059:dfdc752d": {
+   "id": "d059:dfdc752d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "All key facts present and properly conveyed."
+  },
+  "d059:2771bf88": {
+   "id": "d059:2771bf88",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses critical context: 'Asian Games' and 'men's cricket'."
+  },
+  "d060:88fd1770": {
+   "id": "d060:88fd1770",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Core abuse fact preserved; 'naked' detail dropped but doesn't soften key incident."
+  },
+  "d060:d8dbb58e": {
+   "id": "d060:d8dbb58e",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Abuse fact maintained; 'naked' omitted but key claim preserved."
+  },
+  "d060:0e2c4b09": {
+   "id": "d060:0e2c4b09",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Maintains all details from original, just removes opening quote."
+  },
+  "d060:0c2e0e69": {
+   "id": "d060:0c2e0e69",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Abuse fact intact; loses 'naked' detail, close call on severity."
+  },
+  "d060:2e9f4a8d": {
+   "id": "d060:2e9f4a8d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all key facts including 'naked' detail."
+  },
+  "d060:7ee0ab09": {
+   "id": "d060:7ee0ab09",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "All facts maintained; 'ex-partner' vs 'ex' is minor variation."
+  },
+  "d060:bb097110": {
+   "id": "d060:bb097110",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds claim that it's 'her' toddler, which isn't stated in headline."
+  },
+  "d060:2de234f6": {
+   "id": "d060:2de234f6",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "All key facts maintained with minor grammatical adjustments."
+  },
+  "d060:c6e9a903": {
+   "id": "d060:c6e9a903",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Maintains all details; adds only article 'a'."
+  },
+  "d061:c4ec0e44": {
+   "id": "d061:c4ec0e44",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Core fact preserved; clarifies awkward phrasing to standard usage."
+  },
+  "d061:498c796b": {
+   "id": "d061:498c796b",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Fact maintained; adds clarifying 'her'."
+  },
+  "d061:0b54e844": {
+   "id": "d061:0b54e844",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Keeps 'in' instead of 'from'; both convey break, close call on phrasing."
+  },
+  "d061:bb77009c": {
+   "id": "d061:bb77009c",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses key fact that Ashley is Wynonna's sister."
+  },
+  "d061:e74769ee": {
+   "id": "d061:e74769ee",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "All key facts maintained clearly."
+  },
+  "d061:29bd3940": {
+   "id": "d061:29bd3940",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Adds 'say they are' for clarity; implied by quotes but reasonable addition."
+  },
+  "d062:80659b74": {
+   "id": "d062:80659b74",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'first' detail; headline emphasizes this is their first baby."
+  },
+  "d062:873f4c24": {
+   "id": "d062:873f4c24",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "All key facts maintained in proper form."
+  },
+  "d063:01ba9422": {
+   "id": "d063:01ba9422",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes sensational 'brink of big' language while preserving match status."
+  },
+  "d063:205389dc": {
+   "id": "d063:205389dc",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Story facts intact but loses 'IND vs SL SF' notation; close call."
+  },
+  "d064:dfe032a1": {
+   "id": "d064:dfe032a1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Maintains overcharging fact; removes sensational 'sneakily' and 'bombshell'."
+  },
+  "d064:d5ea9c26": {
+   "id": "d064:d5ea9c26",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Fact and investigation source maintained; calms language."
+  },
+  "d064:fb570b36": {
+   "id": "d064:fb570b36",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses investigation context entirely."
+  },
+  "d064:e4d89d50": {
+   "id": "d064:e4d89d50",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses mention of investigation as source."
+  },
+  "d064:a20be2b0": {
+   "id": "d064:a20be2b0",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses investigation context; presents claim without source."
+  },
+  "d064:e4f7114e": {
+   "id": "d064:e4f7114e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Investigation source included; facts maintained."
+  },
+  "d064:0b85ac60": {
+   "id": "d064:0b85ac60",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Investigation source clearly noted; all facts preserved."
+  },
+  "d064:9a61e836": {
+   "id": "d064:9a61e836",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Investigation source maintained; sensational language removed."
+  },
+  "d064:c3235c1f": {
+   "id": "d064:c3235c1f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Source and facts both present in clear language."
+  },
+  "d064:7d9b7e9e": {
+   "id": "d064:7d9b7e9e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Investigation source included; all facts maintained."
+  },
+  "d065:fc438f8b": {
+   "id": "d065:fc438f8b",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Copies headline unchanged; doesn't calm sensational 'Horror' language."
+  },
+  "d065:d5d037a9": {
+   "id": "d065:d5d037a9",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Calms sensational language while maintaining story."
+  },
+  "d065:30719837": {
+   "id": "d065:30719837",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Removes sensationalism but 'incident' is vague; borderline acceptable."
+  },
+  "d065:dcfe7ca5": {
+   "id": "d065:dcfe7ca5",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses roadside location context entirely."
+  },
+  "d065:8e3ef892": {
+   "id": "d065:8e3ef892",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "All facts maintained; language calmed."
+  },
+  "d065:05902c4e": {
+   "id": "d065:05902c4e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Essential facts preserved with reduced sensationalism."
+  },
+  "d065:b2f8ba9b": {
+   "id": "d065:b2f8ba9b",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "All facts included; sensational language removed."
+  },
+  "d065:18a32f73": {
+   "id": "d065:18a32f73",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Facts preserved with calmer phrasing."
+  },
+  "d065:bdc8b098": {
+   "id": "d065:bdc8b098",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Interprets 'Horror' as 'road accident' which adds specificity not in headline."
+  },
+  "d065:9f154d93": {
+   "id": "d065:9f154d93",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'TikTok' platform context which is key to the story."
+  },
+  "d065:b8c29b26": {
+   "id": "d065:b8c29b26",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "All key facts present with calmer language."
+  },
+  "d066:b656b903": {
+   "id": "d066:b656b903",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Maintains fact; changes 'desperate' to 'work to', removing sensationalism."
+  },
+  "d066:8d3319ef": {
+   "id": "d066:8d3319ef",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'at-risk' qualifier which is essential context."
+  },
+  "d066:3dfe8833": {
+   "id": "d066:3dfe8833",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Same core story, removes emotional language while maintaining meaning"
+  },
+  "d066:7564ab38": {
+   "id": "d066:7564ab38",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Direct simplification without losing key facts about parents addressing gang crime"
+  },
+  "d066:45396197": {
+   "id": "d066:45396197",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops 'at-risk' descriptor which significantly identifies which children are affected"
+  },
+  "d066:43ea0de3": {
+   "id": "d066:43ea0de3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains 'at-risk' detail and conveys same story with plain language"
+  },
+  "d067:e8613723": {
+   "id": "d067:e8613723",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes descriptive flourish but preserves core facts of attack and hospitalization"
+  },
+  "d068:e10b9930": {
+   "id": "d068:e10b9930",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes hype and clickbait teaser while conveying main event"
+  },
+  "d068:5d804aad": {
+   "id": "d068:5d804aad",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Same story with clearer verb, removes sensationalism"
+  },
+  "d068:5c806539": {
+   "id": "d068:5c806539",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Minimal version capturing core event without hype"
+  },
+  "d068:293cfabb": {
+   "id": "d068:293cfabb",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps secondary element appropriately; same story as headline"
+  },
+  "d068:97793092": {
+   "id": "d068:97793092",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes hype and teaser, keeps event and attribution details"
+  },
+  "d068:d70af634": {
+   "id": "d068:d70af634",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Minor grammatical variation, same core story"
+  },
+  "d068:61746d19": {
+   "id": "d068:61746d19",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Verb variation conveys same event"
+  },
+  "d068:85566615": {
+   "id": "d068:85566615",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'wears clothes' which is not in the headline and is a new claim"
+  },
+  "d068:d25479be": {
+   "id": "d068:d25479be",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Rephrases structure but retains all relevant elements from headline"
+  },
+  "d070:82534a67": {
+   "id": "d070:82534a67",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Shortens form of comparison without losing story"
+  },
+  "d070:d95447c3": {
+   "id": "d070:d95447c3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Frames as explanation per allowed newspaper voice style"
+  },
+  "d070:42fa0591": {
+   "id": "d070:42fa0591",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Specifies 'cast' but original comparison is already about cast"
+  },
+  "d070:e4e2a632": {
+   "id": "d070:e4e2a632",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Similar clarification; core comparison unchanged"
+  },
+  "d070:5d76ef44": {
+   "id": "d070:5d76ef44",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Restructured but same comparison conveyed"
+  },
+  "d071:9df6fc65": {
+   "id": "d071:9df6fc65",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Removes 'giant' but core story of mural relocation remains"
+  },
+  "d072:97670dff": {
+   "id": "d072:97670dff",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'Says' is broken English; garbled sentence structure"
+  },
+  "d072:3084cefc": {
+   "id": "d072:3084cefc",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Removes 'dangerously' but core exposure fact remains clear"
+  },
+  "d072:5c834bb7": {
+   "id": "d072:5c834bb7",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Drops emphasis words but vulnerability concept conveyed"
+  },
+  "d072:9540fcdf": {
+   "id": "d072:9540fcdf",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Keeps question frame, removes 'dangerously' emphasis"
+  },
+  "d072:e9d9ff26": {
+   "id": "d072:e9d9ff26",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes from stated fact to 'we believe,' adding hedging not in original"
+  },
+  "d072:e4160538": {
+   "id": "d072:e4160538",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Frames with allowed device, removes 'dangerously'"
+  },
+  "d073:ea2fd621": {
+   "id": "d073:ea2fd621",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Identical to original"
+  },
+  "d073:3518f282": {
+   "id": "d073:3518f282",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Converts sensational question to calm fact statement of same concern"
+  },
+  "d073:13730690": {
+   "id": "d073:13730690",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Measured alternative conveying same concern without hyperbole"
+  },
+  "d073:c80d9de3": {
+   "id": "d073:c80d9de3",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; just lists topics without conveying story or concern"
+  },
+  "d073:88f9cd3c": {
+   "id": "d073:88f9cd3c",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; doesn't explain what questions or concerns exist"
+  },
+  "d073:e2a2d6ae": {
+   "id": "d073:e2a2d6ae",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clear statement of core concern without sensationalism"
+  },
+  "d073:33829470": {
+   "id": "d073:33829470",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys concern clearly without alarm"
+  },
+  "d073:a76f83ce": {
+   "id": "d073:a76f83ce",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Keeps question format with similar severity, uses allowed newspaper voice"
+  },
+  "d073:a6140fb9": {
+   "id": "d073:a6140fb9",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clearly states concerns without sensationalism"
+  },
+  "d073:c362aef2": {
+   "id": "d073:c362aef2",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Measured statement of the issue"
+  },
+  "d073:691b80b4": {
+   "id": "d073:691b80b4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Report frame neutralizes question format"
+  },
+  "d073:0fd4b31f": {
+   "id": "d073:0fd4b31f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Report context clarifies concern"
+  },
+  "d073:1d0a18b3": {
+   "id": "d073:1d0a18b3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Report frame with neutral language"
+  },
+  "d073:3ca3d795": {
+   "id": "d073:3ca3d795",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Newspaper voice appropriately used; same story"
+  },
+  "d074:bd587af0": {
+   "id": "d074:bd587af0",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Drops marketing hype, keeps core product and price"
+  },
+  "d074:cdb9be78": {
+   "id": "d074:cdb9be78",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Minimal version of product sale"
+  },
+  "d074:ccd93f24": {
+   "id": "d074:ccd93f24",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes hype, retains product and price"
+  },
+  "d074:49743a91": {
+   "id": "d074:49743a91",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Includes comparison from original; not adding new information"
+  },
+  "d075:21d16e87": {
+   "id": "d075:21d16e87",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Verb change conveys same action"
+  },
+  "d075:1458ee5d": {
+   "id": "d075:1458ee5d",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "'Responds to' is softer than 'hits out' but same event conveyed"
+  },
+  "d075:3ad1f117": {
+   "id": "d075:3ad1f117",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Softens tone but core story of response to criticism remains"
+  },
+  "d075:610c4762": {
+   "id": "d075:610c4762",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes direction: now she criticizes response rather than responding to criticism"
+  },
+  "d075:300813ca": {
+   "id": "d075:300813ca",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Loses judge title but action and response conveyed"
+  },
+  "d076:bc3abded": {
+   "id": "d076:bc3abded",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes all-caps formatting to reduce sensationalism; content unchanged"
+  },
+  "d077:8f90035a": {
+   "id": "d077:8f90035a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes sensational 'Internet Amazed' tagline; core story intact"
+  },
+  "d077:8cf61a48": {
+   "id": "d077:8cf61a48",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Tense change to past doesn't alter story; facts preserved"
+  },
+  "d077:f9b9cc6f": {
+   "id": "d077:f9b9cc6f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Minor article additions; same story conveyed clearly"
+  },
+  "d077:bf10a7be": {
+   "id": "d077:bf10a7be",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds new newspaper judgment ('which we consider impressive') not in original"
+  },
+  "d079:4c49c9f1": {
+   "id": "d079:4c49c9f1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes sensational 'hugely challenging' framing; key fact preserved"
+  },
+  "d079:a9a5c52f": {
+   "id": "d079:a9a5c52f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Future tense appropriate; removes hype while keeping story"
+  },
+  "d079:f0ce1803": {
+   "id": "d079:f0ce1803",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Takes on' replaces 'embraces'; sensationalism removed"
+  },
+  "d080:4c80d72c": {
+   "id": "d080:4c80d72c",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses specific allegation about pilot hijack attempt; reduces to vague 'incident'"
+  },
+  "d080:9c18cdcf": {
+   "id": "d080:9c18cdcf",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves hijacking allegation with 'alleged'; appropriately tempered"
+  },
+  "d080:8abdf04c": {
+   "id": "d080:8abdf04c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Adds 'allegedly' appropriately; hijack allegation preserved"
+  },
+  "d080:2d0503a3": {
+   "id": "d080:2d0503a3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Includes actual quote and allegation with 'allegedly'"
+  },
+  "d080:2df96654": {
+   "id": "d080:2df96654",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Articles added; allegation preserved with 'allegedly'"
+  },
+  "d080:90ae854c": {
+   "id": "d080:90ae854c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Reportedly' appropriately conveys unconfirmed claim"
+  },
+  "d080:eb415175": {
+   "id": "d080:eb415175",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "'Report that' attribution slightly shifts but allegation remains"
+  },
+  "d080:ac74328f": {
+   "id": "d080:ac74328f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Quote and allegation preserved with articles"
+  },
+  "d080:12284259": {
+   "id": "d080:12284259",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Quotes retained to show unconfirmed claim"
+  },
+  "d080:6bbc4a6a": {
+   "id": "d080:6bbc4a6a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Quotes preserved; same story in past tense"
+  },
+  "d081:a8147e90": {
+   "id": "d081:a8147e90",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague: loses 'wives' specificity and 'moment realized' detail"
+  },
+  "d081:1be62e51": {
+   "id": "d081:1be62e51",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Main story preserved but 'moment realized' element lost"
+  },
+  "d081:f457ef97": {
+   "id": "d081:f457ef97",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves both wives and moment-of-realization elements"
+  },
+  "d081:49c3e2c8": {
+   "id": "d081:49c3e2c8",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Core story conveyed but lacks explicit detail on 'moment'"
+  },
+  "d081:c4360404": {
+   "id": "d081:c4360404",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Captures main story though 'wives' becomes 'marriage' and 'moment' implied"
+  },
+  "d081:b4aa04cb": {
+   "id": "d081:b4aa04cb",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves wives and moment-of-realization elements"
+  },
+  "d081:1e9379a1": {
+   "id": "d081:1e9379a1",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Incomplete phrasing: 'say when they realized' lacks object"
+  },
+  "d081:7905b746": {
+   "id": "d081:7905b746",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Newspaper voice allowed; covers all key elements"
+  },
+  "d081:a65355d8": {
+   "id": "d081:a65355d8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clear phrasing covers wives and moment elements"
+  },
+  "d081:f46cd8c0": {
+   "id": "d081:f46cd8c0",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Both key elements preserved"
+  },
+  "d081:6020ae3e": {
+   "id": "d081:6020ae3e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Incomplete phrasing: 'describe when they realised' lacks object"
+  },
+  "d081:be6be798": {
+   "id": "d081:be6be798",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes focus from 'when realized' to 'why'; different question"
+  },
+  "d081:587577c8": {
+   "id": "d081:587577c8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Newspaper voice; covers moment realization implicitly"
+  },
+  "d081:2358580c": {
+   "id": "d081:2358580c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "All elements including 'when' preserved"
+  },
+  "d083:5e613eac": {
+   "id": "d083:5e613eac",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Removes 'Anthony Bourdain's' attribution entirely; loses whose book"
+  },
+  "d083:93fc1f83": {
+   "id": "d083:93fc1f83",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Removes 'rare' descriptor; loses what makes photographs notable"
+  },
+  "d083:0bf4205f": {
+   "id": "d083:0bf4205f",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Removes 'rare'; loses key feature differentiator"
+  },
+  "d083:8de84451": {
+   "id": "d083:8de84451",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops photographs entirely; loses key edition feature"
+  },
+  "d083:1a97d76d": {
+   "id": "d083:1a97d76d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Essential fact stated clearly without fluff"
+  },
+  "d083:cc631dc1": {
+   "id": "d083:cc631dc1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Fully preserves key facts including rare photographs"
+  },
+  "d083:a64c893a": {
+   "id": "d083:a64c893a",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Changes 'rare' to 'previously unpublished'; adds specific claim not explicit in headline"
+  },
+  "d083:cfa4025b": {
+   "id": "d083:cfa4025b",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all key facts including 'rare photographs'"
+  },
+  "d084:e8c58199": {
+   "id": "d084:e8c58199",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Adds 'Senate' which isn't specified in original headline"
+  },
+  "d084:011dc2a1": {
+   "id": "d084:011dc2a1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Core story preserved; 'fiery' removed appropriately"
+  },
+  "d084:5d3b49f5": {
+   "id": "d084:5d3b49f5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "American spelling; same story preserved"
+  },
+  "d084:b11ea55b": {
+   "id": "d084:b11ea55b",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Minor rephrasing; story intact"
+  },
+  "d084:d97eb4db": {
+   "id": "d084:d97eb4db",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'At hearing' vs 'in hearing'; story preserved"
+  },
+  "d084:07cc85d7": {
+   "id": "d084:07cc85d7",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Removes 'in hearing' context; loses formal/official setting detail"
+  },
+  "d084:bc704233": {
+   "id": "d084:bc704233",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Articles added; all facts including hearing preserved"
+  },
+  "d084:414df833": {
+   "id": "d084:414df833",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Story preserved with hearing context"
+  },
+  "d084:5ffdbf55": {
+   "id": "d084:5ffdbf55",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Articles added; hearing context preserved"
+  },
+  "d084:7a83c915": {
+   "id": "d084:7a83c915",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Articles added; hearing context preserved"
+  },
+  "d085:d482899e": {
+   "id": "d085:d482899e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Announces' vs 'unveils' are equivalent; same story"
+  },
+  "d085:718bea0c": {
+   "id": "d085:718bea0c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Unveils\" and \"shows\" are synonymous; same story."
+  },
+  "d087:3321e531": {
+   "id": "d087:3321e531",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes unnecessary emotional qualifier \"severe\" in quotes."
+  },
+  "d087:e9ad6a2b": {
+   "id": "d087:e9ad6a2b",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes quotes from \"severe\", turning editorial skepticism into fact."
+  },
+  "d087:6eb1f305": {
+   "id": "d087:6eb1f305",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes unnecessary emotional qualifier \"severe\" in quotes."
+  },
+  "d087:85672a51": {
+   "id": "d087:85672a51",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Minor rewording, preserves key facts and removes emotional qualifier."
+  },
+  "d088:5f1f6e75": {
+   "id": "d088:5f1f6e75",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Plays down\" and \"minimizes\" are synonymous."
+  },
+  "d088:3703c4f7": {
+   "id": "d088:3703c4f7",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "\"Comments on\" loses the key fact that MP is downplaying."
+  },
+  "d088:b294c5ed": {
+   "id": "d088:b294c5ed",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Plays down\" and \"downplays\" are synonymous."
+  },
+  "d088:66e4ccd7": {
+   "id": "d088:66e4ccd7",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Adds interpretation (\"less significant than reported\") not present in headline."
+  },
+  "d089:88454a16": {
+   "id": "d089:88454a16",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes \"Truthfully\" in quotes and trailing \"After Decades\" detail."
+  },
+  "d089:9b3f3c61": {
+   "id": "d089:9b3f3c61",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Simplifies but preserves core story; divorce implies estrangement."
+  },
+  "d089:3073ad2e": {
+   "id": "d089:3073ad2e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Ready to discuss\" conveys same meaning as original."
+  },
+  "d089:9cc2c1a0": {
+   "id": "d089:9cc2c1a0",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Adds framing but preserves facts; no new information added."
+  },
+  "d089:4cddf35e": {
+   "id": "d089:4cddf35e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Simplifies while preserving core facts."
+  },
+  "d089:db6fd4e7": {
+   "id": "d089:db6fd4e7",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Simplifies while preserving facts."
+  },
+  "d089:b9ea4065": {
+   "id": "d089:b9ea4065",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Give his side\" and \"share perspective\" are essentially synonymous."
+  },
+  "d089:4d22a838": {
+   "id": "d089:4d22a838",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Share his side\" conveys same meaning as original."
+  },
+  "d089:44a7aa0e": {
+   "id": "d089:44a7aa0e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Adds framing (\"says he is\") but preserves all facts."
+  },
+  "d089:a2e52154": {
+   "id": "d089:a2e52154",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Minor preposition change (\"on\" vs \"amid\") preserves meaning."
+  },
+  "d089:ca20bc6d": {
+   "id": "d089:ca20bc6d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Adds framing but preserves all facts including \"after decades\"."
+  },
+  "d090:5b7b76ea": {
+   "id": "d090:5b7b76ea",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes emotional qualifier \"emotional\"; core fact preserved."
+  },
+  "d090:03f0b600": {
+   "id": "d090:03f0b600",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes emotional qualifier and clarifies with \"her death\"."
+  },
+  "d090:7351da13": {
+   "id": "d090:7351da13",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Made public\" and \"revealed\" are synonymous."
+  },
+  "d090:8b99974e": {
+   "id": "d090:8b99974e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Published\" and \"revealed\" are synonymous."
+  },
+  "d090:3db2afee": {
+   "id": "d090:3db2afee",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Synonymous verb with clarifying \"her death\"."
+  },
+  "d090:97c922fe": {
+   "id": "d090:97c922fe",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"After\" and \"following\" are synonymous time expressions."
+  },
+  "d090:51ec7594": {
+   "id": "d090:51ec7594",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Present perfect tense preserves meaning; facts unchanged."
+  },
+  "d090:f5a1e436": {
+   "id": "d090:f5a1e436",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Present tense preserves meaning; letter is published/available."
+  },
+  "d090:4136f4d1": {
+   "id": "d090:4136f4d1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Present tense preserves meaning with \"her death\" clarification."
+  },
+  "d091:26fb1721": {
+   "id": "d091:26fb1721",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes quotes from \"reconsider\"; softens \"disaster\" to neutral \"prices rise\"."
+  },
+  "d091:aab3e73d": {
+   "id": "d091:aab3e73d",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes quotes from \"reconsider\" and softens \"disaster\" to \"increases\"."
+  },
+  "d091:9486d060": {
+   "id": "d091:9486d060",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes quotes from \"reconsider\" and softens \"disaster\" to \"prices rise\"."
+  },
+  "d091:3935252a": {
+   "id": "d091:3935252a",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes quotes from \"reconsider\" and vaguely softens to \"issues\"."
+  },
+  "d091:96d8b3bb": {
+   "id": "d091:96d8b3bb",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes quotes and vaguely softens to \"deals with diesel prices\"."
+  },
+  "d091:572c0044": {
+   "id": "d091:572c0044",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes quotes from \"reconsider\"; softens disaster characterization."
+  },
+  "d091:bf3934c6": {
+   "id": "d091:bf3934c6",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes quotes from \"reconsider\" and softens \"disaster\"."
+  },
+  "d091:2e702be5": {
+   "id": "d091:2e702be5",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes quotes and vaguely softens to \"problems with diesel prices\"."
+  },
+  "d091:feda3951": {
+   "id": "d091:feda3951",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes quotes from \"reconsider\"; changes characterization of crisis."
+  },
+  "d091:01769f12": {
+   "id": "d091:01769f12",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Keeps quotes on \"reconsider\"; \"high diesel prices\" preserves severity despite removing quotes from \"disaster\"."
+  },
+  "d092:069d93e2": {
+   "id": "d092:069d93e2",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes \"as it happened\" tag; all facts preserved."
+  },
+  "d093:cb152d6e": {
+   "id": "d093:cb152d6e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops daughters' names and softens \"worst nightmare\" to generic \"concerns\"."
+  },
+  "d093:4f0c3b2f": {
+   "id": "d093:4f0c3b2f",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses specificity of what was revealed (\"worst nightmare\")."
+  },
+  "d093:08b9f6ef": {
+   "id": "d093:08b9f6ef",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops daughters' names and softens \"worst nightmare\" to \"concerning scenario\"."
+  },
+  "d093:c25975f3": {
+   "id": "d093:c25975f3",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Keeps daughters' names; \"concerns\" reasonably captures meaning of headline."
+  },
+  "d093:3a1d424c": {
+   "id": "d093:3a1d424c",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops the daughters' specific names mentioned in headline."
+  },
+  "d093:21c1bc80": {
+   "id": "d093:21c1bc80",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Preserves \"worst nightmare\" and core story; name loss is detail, not key fact."
+  },
+  "d093:c8cfa827": {
+   "id": "d093:c8cfa827",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "\"What she worries about most\" reasonably conveys \"worst nightmare\"; keeps names."
+  },
+  "d093:5ec485f3": {
+   "id": "d093:5ec485f3",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Softens \"worst nightmare\" to \"a fear\"; removes intensity."
+  },
+  "d093:9e2ea905": {
+   "id": "d093:9e2ea905",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves \"worst nightmare\" and daughters' names."
+  },
+  "d093:d4bf65f7": {
+   "id": "d093:d4bf65f7",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves \"worst nightmare\" in quotes and daughters' names."
+  },
+  "d093:687cfa70": {
+   "id": "d093:687cfa70",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys same story; 'worst fear' captures the essence of 'worst nightmare'; removal of 'young' is acceptable detail-dropping"
+  },
+  "d095:05a7887e": {
+   "id": "d095:05a7887e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves key facts: plan faces legal challenge and judge orders redo"
+  },
+  "d095:bce5d9be": {
+   "id": "d095:bce5d9be",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Judge orders reconsideration' captures the redo; key facts intact"
+  },
+  "d095:ee8c7aa2": {
+   "id": "d095:ee8c7aa2",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the key fact that judge specifically orders redo; vague 'legal challenge' is insufficient"
+  },
+  "d095:96caa20b": {
+   "id": "d095:96caa20b",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clear statement of key fact: judge orders redo of the plan"
+  },
+  "d095:9c305ffb": {
+   "id": "d095:9c305ffb",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses specificity of 'second homes' by generalizing to 'luxury home tax plan'"
+  },
+  "d095:d0b7ba5f": {
+   "id": "d095:d0b7ba5f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all key facts; 'second' clarifies the abbreviated '2nd'"
+  },
+  "d095:f8dff89d": {
+   "id": "d095:f8dff89d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all key facts; 'A judge' is acceptable article usage"
+  },
+  "d095:bc2747e1": {
+   "id": "d095:bc2747e1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all key facts in clear language"
+  },
+  "d095:003cc750": {
+   "id": "d095:003cc750",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Delayed' conveys 'hits snag'; redo is mentioned; key facts intact"
+  },
+  "d095:d2e1616c": {
+   "id": "d095:d2e1616c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Same as above with 'a redo' phrasing"
+  },
+  "d095:de272ede": {
+   "id": "d095:de272ede",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Same as above with 'to be redone' phrasing"
+  },
+  "d096:8da73af9": {
+   "id": "d096:8da73af9",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses panicked shouts which are important context for the event"
+  },
+  "d096:ad3287c5": {
+   "id": "d096:ad3287c5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Includes shouts and sequence of events; removes hype of 'panicked' without losing key fact"
+  },
+  "d096:4d4654f7": {
+   "id": "d096:4d4654f7",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Completely drops the shouts detail"
+  },
+  "d096:1d193e25": {
+   "id": "d096:1d193e25",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Confusing grammar: 'shouts heard before a boy who died was kicked' is unclear and awkwardly constructed"
+  },
+  "d096:ef42ab2f": {
+   "id": "d096:ef42ab2f",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Awkward construction 'shouts before boy died after being kicked' makes sequence of events unclear"
+  },
+  "d096:6fc9a139": {
+   "id": "d096:6fc9a139",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clear statement preserving panicked shouts, death, and kicking; good grammar"
+  },
+  "d096:e4da55d0": {
+   "id": "d096:e4da55d0",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds information not in headline: 'witnesses describe' specific attribution"
+  },
+  "d097:74e06faf": {
+   "id": "d097:74e06faf",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys fewer side effects claim and comparison to named drugs"
+  },
+  "d097:0fc4aa64": {
+   "id": "d097:0fc4aa64",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves 'half the side effects' specificity and comparison"
+  },
+  "d097:c554eb9c": {
+   "id": "d097:c554eb9c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys fewer side effects and maintains comparison to drugs"
+  },
+  "d097:d01d5836": {
+   "id": "d097:d01d5836",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; loses the key claim about side effects being fewer"
+  },
+  "d097:07617ad9": {
+   "id": "d097:07617ad9",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Includes comparison and side effects claim"
+  },
+  "d097:42491f5e": {
+   "id": "d097:42491f5e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses comparison to Mounjaro and Wegovy, making the side effects claim meaningless without context"
+  },
+  "d097:2442f813": {
+   "id": "d097:2442f813",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves comparison and fewer side effects claim"
+  },
+  "d097:efa3e6d1": {
+   "id": "d097:efa3e6d1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves 'half the side effects' and comparison"
+  },
+  "d097:9e509b04": {
+   "id": "d097:9e509b04",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves 'half the side effects' and comparison"
+  },
+  "d097:acc1b409": {
+   "id": "d097:acc1b409",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys fewer side effects and comparison"
+  },
+  "d097:64f4b3b4": {
+   "id": "d097:64f4b3b4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves fewer side effects claim and drug comparison"
+  },
+  "d097:73da2f18": {
+   "id": "d097:73da2f18",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves 'half the side effects' and comparison"
+  },
+  "d097:235c7d1e": {
+   "id": "d097:235c7d1e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves 'half the side effects' and comparison"
+  },
+  "d097:5a402a7c": {
+   "id": "d097:5a402a7c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves 'half the side effects' and comparison"
+  },
+  "d098:595aa902": {
+   "id": "d098:595aa902",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses key detail of 4 previous spouse deaths which defines the 'black widower' story"
+  },
+  "d098:d2d02b51": {
+   "id": "d098:d2d02b51",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all key facts including 4 spouse deaths"
+  },
+  "d098:e33624fc": {
+   "id": "d098:e33624fc",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'allegedly' which softens the headline's assertion to allegation, changing certainty"
+  },
+  "d098:c176054c": {
+   "id": "d098:c176054c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all key facts with acceptable paraphrasing"
+  },
+  "d098:d0132369": {
+   "id": "d098:d0132369",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'allegedly' which changes the assertion to allegation"
+  },
+  "d098:55edbf4f": {
+   "id": "d098:55edbf4f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Uses allowed 'here is how' newspaper voice; preserves all facts"
+  },
+  "d098:f6a42e69": {
+   "id": "d098:f6a42e69",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all key facts"
+  },
+  "d098:1811b671": {
+   "id": "d098:1811b671",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'accused of' which softens headline's assertion"
+  },
+  "d098:f772b223": {
+   "id": "d098:f772b223",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'alleged' before insurance plot, changing assertion to allegation"
+  },
+  "d098:4801fcd4": {
+   "id": "d098:4801fcd4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Restructures but preserves all key facts including spouse deaths"
+  },
+  "d098:dda138be": {
+   "id": "d098:dda138be",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Essentially restates headline with minor punctuation changes"
+  },
+  "d099:df2ba67e": {
+   "id": "d099:df2ba67e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Interprets vague 'snub' as specific action 'does not hire', adding specificity"
+  },
+  "d099:b505533a": {
+   "id": "d099:b505533a",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Interprets vague 'snub' as specific action 'does not give role'"
+  },
+  "d099:9e128fcf": {
+   "id": "d099:9e128fcf",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Interprets vague 'snub' as specific action 'ends contract'"
+  },
+  "d099:b24a6a17": {
+   "id": "d099:b24a6a17",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Interprets vague 'snub' as specific action 'does not rehire'"
+  },
+  "d099:885a5724": {
+   "id": "d099:885a5724",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Interprets vague 'snub' as specific action 'ends relationship'"
+  },
+  "d099:e655c140": {
+   "id": "d099:e655c140",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Interprets vague 'snub' as specific action 'does not renew deal'"
+  },
+  "d099:d8b40ee9": {
+   "id": "d099:d8b40ee9",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes loaded language ('Stunning') while preserving the core fact and simplifying structure"
+  },
+  "d099:4fcfbb99": {
+   "id": "d099:4fcfbb99",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Same as above; 'ex-weekend anchor' is functionally equivalent to 'former weekend anchor'"
+  },
+  "d099:e290eecf": {
+   "id": "d099:e290eecf",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes 'Delivers Stunning' hype, adds 'its' for clarity; all facts preserved"
+  },
+  "d100:0ab53969": {
+   "id": "d100:0ab53969",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes 'Live' tag and loaded 'Smacks', simplifies without losing facts"
+  },
+  "d100:b669a306": {
+   "id": "d100:b669a306",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps LIVE tag as allowed, replaces 'Smacks' with 'scores'"
+  },
+  "d100:8cb00be1": {
+   "id": "d100:8cb00be1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves '2nd ODI', removes hype, maintains all facts despite uncorrected capitalization"
+  },
+  "d100:76e818c7": {
+   "id": "d100:76e818c7",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Capitalizes LIVE tag properly, replaces 'Smacks' with 'scores', preserves all facts"
+  },
+  "d100:ac8dd2cc": {
+   "id": "d100:ac8dd2cc",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses '2nd ODI' context—readers wouldn't know which match this is"
+  },
+  "d100:b6d964f3": {
+   "id": "d100:b6d964f3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all facts including '2nd ODI'; minor change from 'IND' to 'India' adds clarity"
+  },
+  "d100:14cc983f": {
+   "id": "d100:14cc983f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Century' is standard for 100 runs; '2nd ODI' preserved; LIVE tag retained"
+  },
+  "d101:a505c43c": {
+   "id": "d101:a505c43c",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes 'Christa Pike'—this identifying information is essential to the story"
+  },
+  "d101:c3ace482": {
+   "id": "d101:c3ace482",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves all facts while simplifying phrasing"
+  },
+  "d101:3dfe4236": {
+   "id": "d101:3dfe4236",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops 'and breathing' from the lawyer's claim, losing part of the reported statement"
+  },
+  "d102:e080c3e2": {
+   "id": "d102:e080c3e2",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Identical to headline; no rewriting performed; still contains 'horror mistake'"
+  },
+  "d102:35671363": {
+   "id": "d102:35671363",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes quotes around 'amputated wrong limb', converting alleged action into stated fact"
+  },
+  "d102:2fc630b1": {
+   "id": "d102:2fc630b1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Adds 'allegedly' to preserve allegatory framing while removing emotional 'horror' language"
+  },
+  "d102:84b6e77f": {
+   "id": "d102:84b6e77f",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes quotes and 'her', converting allegation to fact and changing meaning"
+  },
+  "d102:0d215262": {
+   "id": "d102:0d215262",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Unwarranted tense shift from past to present/habitual; loses 'her'"
+  },
+  "d102:235497c3": {
+   "id": "d102:235497c3",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Preserves facts and allegatory framing via 'allegedly'; tense change is stylistic"
+  },
+  "d102:e3d2d565": {
+   "id": "d102:e3d2d565",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Tense shift to present 'amputate' weakens narrative specificity"
+  },
+  "d102:7e175006": {
+   "id": "d102:7e175006",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps quotes to preserve allegatory framing while removing emotional 'horror mistake'"
+  },
+  "d103:4ef4b0ca": {
+   "id": "d103:4ef4b0ca",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; loses Ternus's name and 'is coming into view' specificity"
+  },
+  "d103:48c35107": {
+   "id": "d103:48c35107",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Drops opinion but preserves core fact that vision is coming into view"
+  },
+  "d103:3dcb01b7": {
+   "id": "d103:3dcb01b7",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'is coming into view'—the primary fact; keeps only the opinion"
+  },
+  "d103:159c71a2": {
+   "id": "d103:159c71a2",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Explicitly frames as newspaper belief while preserving main fact"
+  },
+  "d103:4e45ac31": {
+   "id": "d103:4e45ac31",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops 'is coming into view', the key fact of the story"
+  },
+  "d103:ef454211": {
+   "id": "d103:ef454211",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Becoming clearer' reasonably paraphrases 'coming into view'"
+  },
+  "d103:c2880a57": {
+   "id": "d103:c2880a57",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "'Has a clear vision' reasonably paraphrases visibility + approval of the headline"
+  },
+  "d103:cf5c4f71": {
+   "id": "d103:cf5c4f71",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Explicitly frames as belief; preserves 'coming into view' fact"
+  },
+  "d105:fe2aae67": {
+   "id": "d105:fe2aae67",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "'No tension' reasonably captures the denial, though narrower than 'no problem'"
+  },
+  "d105:014fc373": {
+   "id": "d105:014fc373",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves quote and rephrases to plain language"
+  },
+  "d105:7305fbea": {
+   "id": "d105:7305fbea",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Minor phrasing adjustment preserves the core claim"
+  },
+  "d106:a49e45b4": {
+   "id": "d106:a49e45b4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Identical to headline; no rewriting has been performed"
+  },
+  "d107:e2b6d369": {
+   "id": "d107:e2b6d369",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; loses what Trump actually said about the accord"
+  },
+  "d107:0abdd346": {
+   "id": "d107:0abdd346",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops 'almost like a constitution' from Trump's description"
+  },
+  "d107:bc753900": {
+   "id": "d107:bc753900",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves both claims without quotes; plain language version"
+  },
+  "d108:28a2b017": {
+   "id": "d108:28a2b017",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'like a supervillain'—the editorial characterization is the story's point"
+  },
+  "d108:56f9ac31": {
+   "id": "d108:56f9ac31",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes loaded 'like a supervillain' comparison while preserving facts"
+  },
+  "d108:57f37af4": {
+   "id": "d108:57f37af4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Same as above; 'discusses' and 'talks' are functionally equivalent"
+  },
+  "d108:84b69d73": {
+   "id": "d108:84b69d73",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds new editorial opinion ('We don't like') not in the original headline"
+  },
+  "d109:c09f6438": {
+   "id": "d109:c09f6438",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures core fact (quiz about solo traveller types) while removing marketing teaser"
+  },
+  "d109:7ff6ebcf": {
+   "id": "d109:7ff6ebcf",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys quiz and matching function without sales language"
+  },
+  "d109:ec904edf": {
+   "id": "d109:ec904edf",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; doesn't explain this is about a quiz or a holiday article"
+  },
+  "d109:5e65d1c1": {
+   "id": "d109:5e65d1c1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Concise statement of core fact: solo travel quiz available"
+  },
+  "d109:deff68c6": {
+   "id": "d109:deff68c6",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Plain language version following 'Here is' pattern; captures essence"
+  },
+  "d109:5f68371c": {
+   "id": "d109:5f68371c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Comprehensive rewrite capturing quiz, typology, and holiday matching"
+  },
+  "d109:1b9f07ea": {
+   "id": "d109:1b9f07ea",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys that readers can take quiz about solo travel"
+  },
+  "d109:2ac3af1e": {
+   "id": "d109:2ac3af1e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures matching mechanism and core purpose"
+  },
+  "d109:1b266956": {
+   "id": "d109:1b266956",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys quiz-to-holiday matching for solo travellers"
+  },
+  "d109:540aefe7": {
+   "id": "d109:540aefe7",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Concise; captures quiz finding holiday for solo travellers"
+  },
+  "d109:e0d8f0c7": {
+   "id": "d109:e0d8f0c7",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes teaser, plainly states it's a quiz to find solo holidays"
+  },
+  "d110:26bed988": {
+   "id": "d110:26bed988",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes the teaser question, keeps the substantive fact"
+  },
+  "d110:24583b50": {
+   "id": "d110:24583b50",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes teaser, retains headline substance exactly"
+  },
+  "d110:9dec2abf": {
+   "id": "d110:9dec2abf",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Awkward phrasing and adds a promise (Here is what...actually do)"
+  },
+  "d110:0e0bb87f": {
+   "id": "d110:0e0bb87f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes teaser, changes tense slightly but preserves the substance"
+  },
+  "d111:7bd92060": {
+   "id": "d111:7bd92060",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Replaces hype words with calmer alternatives"
+  },
+  "d111:adf35ba4": {
+   "id": "d111:adf35ba4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clarifies terminology, removes teaser, preserves facts"
+  },
+  "d111:612c0a9f": {
+   "id": "d111:612c0a9f",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the word 'public' from 'public payouts', which is the key fact"
+  },
+  "d111:9a1fd450": {
+   "id": "d111:9a1fd450",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Replaces dramatic language with calmer alternatives"
+  },
+  "d111:79778f9d": {
+   "id": "d111:79778f9d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains exact facts, replaces 'oblige' with 'agree'"
+  },
+  "d112:003aff07": {
+   "id": "d112:003aff07",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes skeptical quotes, straightforward reporting"
+  },
+  "d112:f9b632d4": {
+   "id": "d112:f9b632d4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops 'Grand Designs' identifier, loses which show is involved"
+  },
+  "d112:7c3360a5": {
+   "id": "d112:7c3360a5",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Vague 'respond to' loses the key fact they expressed frustration"
+  },
+  "d112:b7eff05d": {
+   "id": "d112:b7eff05d",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Criticise is reasonable interpretation of expressed frustration"
+  },
+  "d112:8a7f2a4a": {
+   "id": "d112:8a7f2a4a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes quotes, uses reasonable synonym"
+  },
+  "d112:3479f4c5": {
+   "id": "d112:3479f4c5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Adds attribution, preserves the core story"
+  },
+  "d112:e74841bd": {
+   "id": "d112:e74841bd",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Adds 'some', clearly preserves that viewers were frustrated"
+  },
+  "d112:dc1eeb4d": {
+   "id": "d112:dc1eeb4d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Mild vagueness with 'comment on the show' is clear from context"
+  },
+  "d112:65ba83db": {
+   "id": "d112:65ba83db",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preposition change, meaning preserved"
+  },
+  "d112:5ff38fbe": {
+   "id": "d112:5ff38fbe",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Attribution preserves facts"
+  },
+  "d112:794c3795": {
+   "id": "d112:794c3795",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Attribution preserves facts"
+  },
+  "d112:3e3e416b": {
+   "id": "d112:3e3e416b",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'Channel 4' identifier"
+  },
+  "d114:379b622e": {
+   "id": "d114:379b622e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Converts teaser to clear statement"
+  },
+  "d114:185b4551": {
+   "id": "d114:185b4551",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Minor tense change preserves substance"
+  },
+  "d114:06a977f8": {
+   "id": "d114:06a977f8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves key concept of defining/identifying foods"
+  },
+  "d114:3097e2d7": {
+   "id": "d114:3097e2d7",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves concept of creating label/definition"
+  },
+  "d114:890548d4": {
+   "id": "d114:890548d4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Ambiguous 'labels' could mean putting labels on vs. categorizing"
+  },
+  "d114:c4ea89c4": {
+   "id": "d114:c4ea89c4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clear alternative to 'make that call'"
+  },
+  "d114:4f17a604": {
+   "id": "d114:4f17a604",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Precise and clear phrasing"
+  },
+  "d114:d3a7377d": {
+   "id": "d114:d3a7377d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Minor grammatical refinement"
+  },
+  "d115:19d36751": {
+   "id": "d115:19d36751",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the specific message content that provides context for defense claim"
+  },
+  "d115:58c8e161": {
+   "id": "d115:58c8e161",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the specific message content"
+  },
+  "d115:e00de86d": {
+   "id": "d115:e00de86d",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the specific message content"
+  },
+  "d115:484e9e82": {
+   "id": "d115:484e9e82",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the specific message content"
+  },
+  "d115:52bc3e2f": {
+   "id": "d115:52bc3e2f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps message, clarifies terminology from 'frat bro' to 'fraternity member'"
+  },
+  "d115:590023ca": {
+   "id": "d115:590023ca",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses message and uses ambiguous pronoun 'he'"
+  },
+  "d115:346cb74e": {
+   "id": "d115:346cb74e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps message, clarifies language"
+  },
+  "d115:e63c52cb": {
+   "id": "d115:e63c52cb",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps message, clarifies language"
+  },
+  "d116:844f3060": {
+   "id": "d116:844f3060",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes 'rescues' to 'helps', loses explicit indication that Braves won"
+  },
+  "d116:0abc6af3": {
+   "id": "d116:0abc6af3",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes 'rescues' to 'gets hit', which is either broken English or changes meaning"
+  },
+  "d116:db9e5382": {
+   "id": "d116:db9e5382",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Leads over' clearly implies victory"
+  },
+  "d116:64a3ac4f": {
+   "id": "d116:64a3ac4f",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes 'rescues' to 'aids', loses explicit indication of game outcome"
+  },
+  "d116:aa849679": {
+   "id": "d116:aa849679",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Explicitly states Braves won"
+  },
+  "d116:6128ac1d": {
+   "id": "d116:6128ac1d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Explicitly states Braves won"
+  },
+  "d116:eeff7f41": {
+   "id": "d116:eeff7f41",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Explicitly states Braves won"
+  },
+  "d116:00d4e04b": {
+   "id": "d116:00d4e04b",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "No explicit statement of outcome, loses implication from 'rescues'"
+  },
+  "d117:7ba3561f": {
+   "id": "d117:7ba3561f",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; 'reacts' loses meaning of fury toward Bass and difficulty for Raman"
+  },
+  "d117:5e969365": {
+   "id": "d117:5e969365",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Calms language while preserving core facts"
+  },
+  "d117:31e26fa0": {
+   "id": "d117:31e26fa0",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clear alternatives to loaded words"
+  },
+  "d117:7237b751": {
+   "id": "d117:7237b751",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clear alternatives to loaded words"
+  },
+  "d117:ee96f23d": {
+   "id": "d117:ee96f23d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys both points with reduced hype: 'angry' for 'furious', 'opposition' for 'hard sell'"
+  },
+  "d117:384b5e7b": {
+   "id": "d117:384b5e7b",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Reduces hype words while keeping key facts about both figures"
+  },
+  "d117:cb5acc09": {
+   "id": "d117:cb5acc09",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Qualifies the claim ('some people') and reduces inflammatory language appropriately"
+  },
+  "d117:78d62ab1": {
+   "id": "d117:78d62ab1",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Simplifies first part but leaves 'hard sell' unchanged—incomplete reduction of hype"
+  },
+  "d117:68e36548": {
+   "id": "d117:68e36548",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds new information about sourcing ('people we've spoken to') not in the headline"
+  },
+  "d117:5d4794a4": {
+   "id": "d117:5d4794a4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Good reduction of hype with appropriate qualification and simplification"
+  },
+  "d117:d3db0f7f": {
+   "id": "d117:d3db0f7f",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'we think', introducing new editorial judgment not in the original"
+  },
+  "d117:e50cff72": {
+   "id": "d117:e50cff72",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Simplifies first part sufficiently and keeps second part recognizable"
+  },
+  "d117:54741ab2": {
+   "id": "d117:54741ab2",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Good simplification of both parts with reduced hype language"
+  },
+  "d117:c79c7047": {
+   "id": "d117:c79c7047",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Generalizes and simplifies appropriately; 'campaign' is reasonable for 'hard sell'"
+  },
+  "d118:a909a751": {
+   "id": "d118:a909a751",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes 'hidden' emphasis and simplifies phrasing while keeping the core risk"
+  },
+  "d118:e9ca7c31": {
+   "id": "d118:e9ca7c31",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Restructures without changing meaning; conveys the same story clearly"
+  },
+  "d119:a953522c": {
+   "id": "d119:a953522c",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "'Speaks in defense of' means the same as 'defends' though not reduced in length"
+  },
+  "d120:2907190c": {
+   "id": "d120:2907190c",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses key facts: no mention of attack or truth being revealed—too vague"
+  },
+  "d120:77af772f": {
+   "id": "d120:77af772f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes hype words while maintaining the key fact of truth emerging"
+  },
+  "d120:404fe992": {
+   "id": "d120:404fe992",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Interprets 'stunned' and 'doomed' as plain reactions while preserving the story"
+  },
+  "d120:d798ac7a": {
+   "id": "d120:d798ac7a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Generalizes reactions appropriately; conveys both characters are affected"
+  },
+  "d120:0babab65": {
+   "id": "d120:0babab65",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Details emerge' reasonably interprets 'truth is revealed' without changing the story"
+  },
+  "d120:4bfbcce4": {
+   "id": "d120:4bfbcce4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses Eva's involvement; focuses only on Sam and the attack"
+  },
+  "d120:d339c26c": {
+   "id": "d120:d339c26c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clearly states both characters are involved and affected by the truth"
+  },
+  "d120:f3262c5a": {
+   "id": "d120:f3262c5a",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses Sam and his 'doomed' status; incomplete story of both characters"
+  },
+  "d120:f70cfc87": {
+   "id": "d120:f70cfc87",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Interprets hype words as 'reacts' and 'trouble' while including both characters and the key fact"
+  },
+  "d120:6ac7247a": {
+   "id": "d120:6ac7247a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Similar to f70cfc87 but keeps 'attack truth is revealed' as-is—maintains clarity"
+  },
+  "d120:7844cbf7": {
+   "id": "d120:7844cbf7",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Good simplification of both the drama and the core story fact"
+  },
+  "d120:2224ffe8": {
+   "id": "d120:2224ffe8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Interprets 'doomed' as 'looks bad for Sam'—reasonable and reduces hype"
+  },
+  "d120:0fd3e21b": {
+   "id": "d120:0fd3e21b",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clear interpretation of hype words with both characters and outcome clear"
+  },
+  "d121:8abbdcfc": {
+   "id": "d121:8abbdcfc",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes unnecessary capitals and imperative; conveys the content clearly"
+  },
+  "d121:ce73c623": {
+   "id": "d121:ce73c623",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Reduces hype capitalization and conveys the same story despite wordiness"
+  },
+  "d121:dd0929e0": {
+   "id": "d121:dd0929e0",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Keeps 'World's Best Employers' capitalized, failing to reduce hype emphasis"
+  },
+  "d121:090679a5": {
+   "id": "d121:090679a5",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Grammatical error: 'employers 2026' needs 'for' or 'in' between the words"
+  },
+  "d121:8f5baf63": {
+   "id": "d121:8f5baf63",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Properly reduces capitalization and uses correct grammar to convey the content"
+  },
+  "d122:65f9ce2d": {
+   "id": "d122:65f9ce2d",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'Changes' is too vague; loses the specific implication that the boom faces a downturn"
+  },
+  "d122:8ac2e787": {
+   "id": "d122:8ac2e787",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'May slow' captures the cliff meaning with softened certainty appropriate to forecasts"
+  },
+  "d122:a85c10a8": {
+   "id": "d122:a85c10a8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Similar softening as 8ac2e787; 'could slow' conveys the essential story"
+  },
+  "d122:94ab7019": {
+   "id": "d122:94ab7019",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'May end' is more severe than 'cliff'; changes the degree of impact"
+  },
+  "d122:9ecaaaf8": {
+   "id": "d122:9ecaaaf8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Faces decline' is a good equivalent to 'cliff' without the dramatic metaphor"
+  },
+  "d122:57048fd0": {
+   "id": "d122:57048fd0",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Good simplification of metaphor to practical language"
+  },
+  "d122:a4c44a4a": {
+   "id": "d122:a4c44a4a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Sharp drop' is an effective plain-language parallel to 'cliff'"
+  },
+  "d122:1a2c4ef9": {
+   "id": "d122:1a2c4ef9",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds new fact: 'policies' are implied cause, but not stated in the original"
+  },
+  "d122:3334b334": {
+   "id": "d122:3334b334",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'policy' as a new causal element not in the original headline"
+  },
+  "d122:3587673e": {
+   "id": "d122:3587673e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'policies' as new information explaining the cause"
+  },
+  "d123:b659a3f6": {
+   "id": "d123:b659a3f6",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Translates metaphorical language to clear literal meaning without adding facts"
+  },
+  "d123:6eaf143d": {
+   "id": "d123:6eaf143d",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "About a different story: says AI is used in religious training, not religion guiding AI ethics"
+  },
+  "d123:0b4a9da5": {
+   "id": "d123:0b4a9da5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Expresses the implicit question clearly without changing the story"
+  },
+  "d123:46bdb420": {
+   "id": "d123:46bdb420",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Completely unrelated topic; about literature and video games, not AI and religion"
+  },
+  "d123:81bce88e": {
+   "id": "d123:81bce88e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Entirely different story about video games and literature"
+  },
+  "d123:6ce6f788": {
+   "id": "d123:6ce6f788",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures the core idea in plain language without adding facts"
+  },
+  "d123:8b61bf32": {
+   "id": "d123:8b61bf32",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Translates metaphor to direct language; conveys the same story clearly"
+  },
+  "d123:e8e9d253": {
+   "id": "d123:e8e9d253",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clarifies that developers (not AI itself) seek guidance—captures the story well"
+  },
+  "d123:66369425": {
+   "id": "d123:66369425",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Article looks at' is acceptable framing; conveys the core story without adding facts"
+  },
+  "d123:95cfd68e": {
+   "id": "d123:95cfd68e",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Very vague but conveys the basic story without adding new facts."
+  },
+  "d123:1cce003d": {
+   "id": "d123:1cce003d",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Even vaguer but still conveys AI and religion topic exists as a story."
+  },
+  "d124:b7488760": {
+   "id": "d124:b7488760",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the bedroom detail which is central to what makes the story newsworthy."
+  },
+  "d124:43159a0a": {
+   "id": "d124:43159a0a",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the bedroom setting which is a key detail of the original."
+  },
+  "d124:64d8a999": {
+   "id": "d124:64d8a999",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps model, age, bedroom, and photo details; removes only sensationalism."
+  },
+  "d124:3068bdc2": {
+   "id": "d124:3068bdc2",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses age, model designation, and bedroom context entirely."
+  },
+  "d124:64c504ff": {
+   "id": "d124:64c504ff",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'on social media' (new fact) and loses bedroom and age details."
+  },
+  "d124:dcf05099": {
+   "id": "d124:dcf05099",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps model, age, bedroom detail, and picture element needed to understand story."
+  },
+  "d124:5cf37df4": {
+   "id": "d124:5cf37df4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses age and model designation, leaving incomplete identification."
+  },
+  "d124:33b34032": {
+   "id": "d124:33b34032",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses age and model; 'at home' is vague compared to bedroom specificity."
+  },
+  "d124:8bc07048": {
+   "id": "d124:8bc07048",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves age, bedroom detail, and photo action; removes sensationalism."
+  },
+  "d124:72b857e6": {
+   "id": "d124:72b857e6",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses age and model designation, incomplete identification of subject."
+  },
+  "d124:e21f96c8": {
+   "id": "d124:e21f96c8",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses bedroom detail and model designation; adds 'new' which isn't in original."
+  },
+  "d124:2b81d508": {
+   "id": "d124:2b81d508",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains age, bedroom, and photo elements; sufficient identification with name and age."
+  },
+  "d125:2277b311": {
+   "id": "d125:2277b311",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Take part in' accurately conveys the idiom 'fly flag' without adding new information."
+  },
+  "d127:1720f819": {
+   "id": "d127:1720f819",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'Security concerns' is too vague and loses the specific 'terror plot' claim."
+  },
+  "d127:9a9948b9": {
+   "id": "d127:9a9948b9",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Essentially identical to original; explicitly states 'alleged' clarifying the quote marks."
+  },
+  "d127:65030abb": {
+   "id": "d127:65030abb",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes 'terror plot' to 'attack,' which is a different type of threat."
+  },
+  "d127:f3771f05": {
+   "id": "d127:f3771f05",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Generalizes 'terror plot' to 'security threat,' losing the terrorism specificity."
+  },
+  "d127:e93698f0": {
+   "id": "d127:e93698f0",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes 'terror plot' to 'incident' which is vague and loses the threat nature."
+  },
+  "d127:a0a5d724": {
+   "id": "d127:a0a5d724",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'Incident' is too vague and loses the specific nature of a terror plot."
+  },
+  "d127:dac4f3a4": {
+   "id": "d127:dac4f3a4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Adds 'report on' framing which is acceptable newspaper style without changing facts."
+  },
+  "d127:5c7bedb8": {
+   "id": "d127:5c7bedb8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves 'terror plot' and clearly indicates it's described/alleged."
+  },
+  "d127:bb4597d4": {
+   "id": "d127:bb4597d4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clear and accurate; keeps 'terror plot' and indicates alleged status."
+  },
+  "d128:270a45a7": {
+   "id": "d128:270a45a7",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the key fact that shooters and archers are winning gold medals."
+  },
+  "d128:b777ef29": {
+   "id": "d128:b777ef29",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves the essential fact of gold medal wins by both groups."
+  },
+  "d128:e944609b": {
+   "id": "d128:e944609b",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague about medals; doesn't specify these are victories/gold."
+  },
+  "d128:689faccc": {
+   "id": "d128:689faccc",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clearly states shooters and archers win gold; preserves key facts."
+  },
+  "d128:d71d6327": {
+   "id": "d128:d71d6327",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures both groups and the sequential aspect of medal wins."
+  },
+  "d128:a5d553b8": {
+   "id": "d128:a5d553b8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clearly conveys gold medal wins with both athletes mentioned."
+  },
+  "d128:31c1d129": {
+   "id": "d128:31c1d129",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Golds' is standard sports terminology; captures the story."
+  },
+  "d128:546063d2": {
+   "id": "d128:546063d2",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "'Success' adds minor context but captures both groups and their achievements."
+  },
+  "d128:b40ee012": {
+   "id": "d128:b40ee012",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops the archers entirely, losing half of the story."
+  },
+  "d128:8ced6fd3": {
+   "id": "d128:8ced6fd3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Includes both groups and clarifies the connection between their medals."
+  },
+  "d128:c5481267": {
+   "id": "d128:c5481267",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures both athletes and the sequential nature of medal wins."
+  },
+  "d129:6de3201a": {
+   "id": "d129:6de3201a",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Loses 'TikTok couple' context but retains the key fact of the arson charge."
+  },
+  "d130:e0a7f0e5": {
+   "id": "d130:e0a7f0e5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves store names and discount details; removes only hype language."
+  },
+  "d130:b2867521": {
+   "id": "d130:b2867521",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses all specific store names, which are key identifying information."
+  },
+  "d130:d44d3d79": {
+   "id": "d130:d44d3d79",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps all store names and discount percentage; removes hype."
+  },
+  "d130:fbe9c8d3": {
+   "id": "d130:fbe9c8d3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves stores and discount; minor wording variation."
+  },
+  "d130:7386396c": {
+   "id": "d130:7386396c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Retains stores and discount percentage in clear language."
+  },
+  "d131:6b9e2f53": {
+   "id": "d131:6b9e2f53",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'Might change' is neutral vs 'watered down'; loses Mahmood name and specificity."
+  },
+  "d131:3974b2f8": {
+   "id": "d131:3974b2f8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Weakened' captures the same meaning as 'watered down'; keeps key elements."
+  },
+  "d131:a07bafdc": {
+   "id": "d131:a07bafdc",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'May change' is too neutral and loses the negative implication of 'watered down.'"
+  },
+  "d131:43957c67": {
+   "id": "d131:43957c67",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the key claim about reforms being weakened; just states talks are planned."
+  },
+  "d131:f8f930d4": {
+   "id": "d131:f8f930d4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops the crucial fact that concessions could weaken reforms."
+  },
+  "d131:2d047522": {
+   "id": "d131:2d047522",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures the key claim that concessions could weaken the reforms."
+  },
+  "d131:1ea27188": {
+   "id": "d131:1ea27188",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Uses exact phrasing from original; preserves all key elements."
+  },
+  "d131:9dff6105": {
+   "id": "d131:9dff6105",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys that concessions could water down reforms; similar to original."
+  },
+  "d131:65d9b294": {
+   "id": "d131:65d9b294",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Awkward structure with comma splice and disconnected 'and here is how' clause."
+  },
+  "d132:34ebe747": {
+   "id": "d132:34ebe747",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Disagrees\" and \"breaks with\" are synonymous"
+  },
+  "d132:a84931db": {
+   "id": "d132:a84931db",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Differs\" captures same meaning as \"breaks with\""
+  },
+  "d134:473a125a": {
+   "id": "d134:473a125a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes hype capitalization; \"more like\" and \"similar to\" convey same meaning"
+  },
+  "d134:e1372b48": {
+   "id": "d134:e1372b48",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Narrows broad claim (literature in general) to narrow claim (some literature), losing scale of trend"
+  },
+  "d134:fe5c899a": {
+   "id": "d134:fe5c899a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Identical meaning; just removes unnecessary capitalization"
+  },
+  "d134:46bdb420": {
+   "id": "d134:46bdb420",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses \"becoming\" (the temporal change element); \"how it resembles\" is static, not about evolution"
+  },
+  "d134:44af0160": {
+   "id": "d134:44af0160",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Video games changing literature\" and \"literature becoming like games\" express same relationship, just different angles"
+  },
+  "d134:38bac0e7": {
+   "id": "d134:38bac0e7",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Adding \"We think\" is explicitly allowed as newspaper attribution"
+  },
+  "d134:3b23a8d6": {
+   "id": "d134:3b23a8d6",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Adding \"We believe\" is explicitly allowed as newspaper attribution"
+  },
+  "d135:d4651809": {
+   "id": "d135:d4651809",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Translates hype and testimonials into neutral description of marketing claims; captures key facts"
+  },
+  "d135:c311d955": {
+   "id": "d135:c311d955",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses customer testimonials about sleep quality; only keeps product claim"
+  },
+  "d135:f89289e7": {
+   "id": "d135:f89289e7",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses customer testimonials entirely; headline includes people's claims about sleep"
+  },
+  "d135:38484607": {
+   "id": "d135:38484607",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses customer testimonials; strips story down to product and discount"
+  },
+  "d135:cf484393": {
+   "id": "d135:cf484393",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses customer testimonials about sleep quality"
+  },
+  "d135:ea1bbb6d": {
+   "id": "d135:ea1bbb6d",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses customer testimonials; only product and discount remain"
+  },
+  "d135:c7fec92e": {
+   "id": "d135:c7fec92e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures pillow, discount, and customer testimonials about sleep"
+  },
+  "d135:7b0603f7": {
+   "id": "d135:7b0603f7",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps pillow, discount, and testimonials about sleep quality"
+  },
+  "d135:c37828be": {
+   "id": "d135:c37828be",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses customer testimonials; only keeps product description and price"
+  },
+  "d135:18e5178d": {
+   "id": "d135:18e5178d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures pillow, discount, and customer testimonials"
+  },
+  "d135:eef2d524": {
+   "id": "d135:eef2d524",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses customer testimonials about sleep"
+  },
+  "d135:fa20ae21": {
+   "id": "d135:fa20ae21",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Keeps pillow, discount, and testimonials about sleep"
+  },
+  "d135:253a7130": {
+   "id": "d135:253a7130",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures discount and customer testimonials about sleep"
+  },
+  "d136:893b7ff6": {
+   "id": "d136:893b7ff6",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses \"denies me a sex life\" aspect; only captures interruption, not prevention/control"
+  },
+  "d136:e84680cb": {
+   "id": "d136:e84680cb",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Only captures denial/prevention; loses the \"storms in\" incidents"
+  },
+  "d136:6291e4fd": {
+   "id": "d136:6291e4fd",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Captures both denial and interruption despite being vague; \"walks in when with partner\" conveys same behavior"
+  },
+  "d136:aab9d735": {
+   "id": "d136:aab9d735",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures jealous, denies, and storms in; all key facts present"
+  },
+  "d136:a52020dd": {
+   "id": "d136:a52020dd",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the denial/prevention aspect; only says she walks in during sex"
+  },
+  "d136:72243067": {
+   "id": "d136:72243067",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures jealousy, denial, and interruption with added attribution"
+  },
+  "d136:e5f6078f": {
+   "id": "d136:e5f6078f",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds gender assumption (\"Man\") not present in original headline"
+  },
+  "d136:bd0a8303": {
+   "id": "d136:bd0a8303",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "\"Interferes\" too vague; loses specific behavior of walking in on them"
+  },
+  "d136:25b2e440": {
+   "id": "d136:25b2e440",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses both \"denies\" and \"jealous\"; only captures interruption"
+  },
+  "d136:9e48338e": {
+   "id": "d136:9e48338e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures both key behaviors: prevention and interruption (\"jealous\" is characterization, not key fact)"
+  },
+  "d136:8b34a614": {
+   "id": "d136:8b34a614",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses \"denies me a sex life\" aspect; only says she interrupts"
+  },
+  "d137:b50dc30b": {
+   "id": "d137:b50dc30b",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses what allegations concern (feuding); just says allegations about Erika Kirk"
+  },
+  "d137:b95cca03": {
+   "id": "d137:b95cca03",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Responds to claims of conflict\" captures same meaning as addressing allegations of feuding"
+  },
+  "d137:c99227a8": {
+   "id": "d137:c99227a8",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Inappropriate mid-sentence capitalization (\"Arguments\", \"Having\") violates calmer style"
+  },
+  "d137:81a7c702": {
+   "id": "d137:81a7c702",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "\"Denies\" is stronger than \"addresses allegations\"; assumes specific response not stated in headline"
+  },
+  "d137:f3e3e086": {
+   "id": "d137:f3e3e086",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Responds to allegations about arguing\" is equivalent to addressing feuding allegations"
+  },
+  "d137:ae640717": {
+   "id": "d137:ae640717",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Addresses allegations of arguments\" captures same meaning as feuding"
+  },
+  "d137:360753e1": {
+   "id": "d137:360753e1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Responds to claims about arguing\" conveys same story"
+  },
+  "d137:2a95cf4c": {
+   "id": "d137:2a95cf4c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Allegations of a feud\" is synonymous with feuding allegations"
+  },
+  "d137:5707b238": {
+   "id": "d137:5707b238",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Claims of a feud\" captures same meaning"
+  },
+  "d137:742de181": {
+   "id": "d137:742de181",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Allegations she is in conflict\" is equivalent to feuding"
+  },
+  "d137:0ce71a83": {
+   "id": "d137:0ce71a83",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Allegations that she is arguing\" conveys same meaning"
+  },
+  "d137:69cbec5c": {
+   "id": "d137:69cbec5c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Allegations that she and Erika are arguing\" captures same story"
+  },
+  "d137:724b6a2a": {
+   "id": "d137:724b6a2a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "\"Allegations of arguments\" is synonymous with feuding allegations"
+  },
+  "d139:bdb15e12": {
+   "id": "d139:bdb15e12",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses key element that you pick European destinations; just says generic quiz"
+  },
+  "d139:6fa69af6": {
+   "id": "d139:6fa69af6",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses interactive element (picking destinations); becomes passive description"
+  },
+  "d139:3b12e4b4": {
+   "id": "d139:3b12e4b4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses quiz element entirely; becomes vague list of soups and destinations"
+  },
+  "d139:7f0e78ff": {
+   "id": "d139:7f0e78ff",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses European destinations element that's central to quiz mechanic"
+  },
+  "d139:3ba7fb78": {
+   "id": "d139:3ba7fb78",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the quiz mechanism—just says 'soups to try' rather than explaining you pick destinations to find out which soup"
+  },
+  "d139:28ec4ba0": {
+   "id": "d139:28ec4ba0",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Accurately captures it's a quiz involving soups and destinations"
+  },
+  "d139:291a5243": {
+   "id": "d139:291a5243",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys the quiz picks soup based on chosen destination"
+  },
+  "d139:7ed9ffc2": {
+   "id": "d139:7ed9ffc2",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clear restatement of picking destinations to find soup"
+  },
+  "d139:3fb63944": {
+   "id": "d139:3fb63944",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Accurately describes quiz matching destinations to soups"
+  },
+  "d139:7173101a": {
+   "id": "d139:7173101a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clear direct restatement of the mechanism"
+  },
+  "d139:b223ee80": {
+   "id": "d139:b223ee80",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Simple accurate summary of quiz format"
+  },
+  "d141:53885653": {
+   "id": "d141:53885653",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'fashion influencer' status—just says 'known for his sense of style'"
+  },
+  "d141:7a5075ea": {
+   "id": "d141:7a5075ea",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'fashion influencer' status—vaguely says 'known for fashion choices'"
+  },
+  "d141:e1112ce8": {
+   "id": "d141:e1112ce8",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'fashion influencer' status, replacing it with vague 'known for his style'"
+  },
+  "d141:a0529d46": {
+   "id": "d141:a0529d46",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves key fact that style made him a fashion influencer"
+  },
+  "d141:01ac15a1": {
+   "id": "d141:01ac15a1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clearly states he became a fashion influencer through style"
+  },
+  "d141:58e51ff8": {
+   "id": "d141:58e51ff8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Concise statement that he is a fashion influencer at 90"
+  },
+  "d141:c77fcda2": {
+   "id": "d141:c77fcda2",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clear that he became a fashion influencer"
+  },
+  "d141:e4240159": {
+   "id": "d141:e4240159",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves both 'fashion influencer' status and 'by accident' modifier"
+  },
+  "d141:cd85280e": {
+   "id": "d141:cd85280e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'fashion influencer' status—says 'known for his style online' instead"
+  },
+  "d141:f2f57fb5": {
+   "id": "d141:f2f57fb5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves that he became a fashion influencer"
+  },
+  "d143:c7911a23": {
+   "id": "d143:c7911a23",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague and loses key facts—just lists topics without showing their relationship or the growing toll aspect"
+  },
+  "d143:6968b921": {
+   "id": "d143:6968b921",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Accurately conveys apps attract fans while gambling causes growing financial problems"
+  },
+  "d143:ce1814c3": {
+   "id": "d143:ce1814c3",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "'Popular' softens the key characterization of 'entice' (active manipulation) and 'toll' is stronger than 'costs rise'"
+  },
+  "d143:e218323b": {
+   "id": "d143:e218323b",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Gambling losses grow' captures both the growing aspect and financial harm"
+  },
+  "d143:760342f8": {
+   "id": "d143:760342f8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Accurately states both attract and financial problems aspects"
+  },
+  "d143:a0a5414e": {
+   "id": "d143:a0a5414e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'growing' which is key—just says costs money rather than costs are rising"
+  },
+  "d143:58e26ea0": {
+   "id": "d143:58e26ea0",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "'Costs people more money' captures the growing/worsening aspect adequately"
+  },
+  "d143:3186ea9c": {
+   "id": "d143:3186ea9c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves 'growing' modifier and conveys financial harm"
+  },
+  "d143:caac6723": {
+   "id": "d143:caac6723",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "'Costs rise' captures the growing aspect even though 'toll' is somewhat stronger"
+  },
+  "d143:40fa16fa": {
+   "id": "d143:40fa16fa",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Losses grow' clearly conveys the worsening financial harm"
+  },
+  "d145:05f16b9c": {
+   "id": "d145:05f16b9c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removing 'LA' is gratuitous detail; core facts (who, what, private) preserved"
+  },
+  "d146:9a9f9b51": {
+   "id": "d146:9a9f9b51",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes identifying details but keeps key facts about Oscar prediction and role"
+  },
+  "d146:c92cf70f": {
+   "id": "d146:c92cf70f",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Predicted' conveys same meaning as 'tipped for' Oscar"
+  },
+  "d146:d72bd2cc": {
+   "id": "d146:d72bd2cc",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Rephrase conveys Oscar consideration for the role"
+  },
+  "d146:a7a44e12": {
+   "id": "d146:a7a44e12",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'May receive Oscar nomination' conveys same prediction as original"
+  },
+  "d146:dcf32786": {
+   "id": "d146:dcf32786",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Expected Oscar nomination conveys same prediction"
+  },
+  "d146:75565e10": {
+   "id": "d146:75565e10",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Could be nominated' conveys the Oscar prediction"
+  },
+  "d146:5d12e622": {
+   "id": "d146:5d12e622",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Very close to original; preserves 'tipped for Oscar' and role"
+  },
+  "d146:a7d4a9f2": {
+   "id": "d146:a7d4a9f2",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes just identifying details, keeps Oscar prediction and role"
+  },
+  "d147:d1311e47": {
+   "id": "d147:d1311e47",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Exact copy doesn't rewrite or calm the headline—preserves the sensational quotes and doesn't use plain attribution language"
+  },
+  "d147:bb5e03ce": {
+   "id": "d147:bb5e03ce",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Adds clear 'allegedly' and 'reportedly' to make speculation explicit rather than implied by quotes"
+  },
+  "d147:70fb6f37": {
+   "id": "d147:70fb6f37",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes quotes around 'stabbed colleague', turning an allegation into a stated fact"
+  },
+  "d147:21d3612f": {
+   "id": "d147:21d3612f",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses specificity of 'rescue' and treats stabbing as fact without attribution"
+  },
+  "d147:800f552a": {
+   "id": "d147:800f552a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Makes both parts explicitly attributed with 'reportedly' and 'allegedly'"
+  },
+  "d147:ffabdee4": {
+   "id": "d147:ffabdee4",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Said to have helped' and 'allegedly stabbed' make speculation clear in plain language"
+  },
+  "d147:8b1c95d1": {
+   "id": "d147:8b1c95d1",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Drops 'allegedly' from stabbing, turning it from alleged to stated fact"
+  },
+  "d148:a7c0a441": {
+   "id": "d148:a7c0a441",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes 'Video:' tag, keeps all key facts including 'first party'"
+  },
+  "d148:5a26234f": {
+   "id": "d148:5a26234f",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'first' party detail which is significant to the news"
+  },
+  "d148:43ae577d": {
+   "id": "d148:43ae577d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes 'Video:' tag only, preserves all key facts"
+  },
+  "d149:9a82ee3f": {
+   "id": "d149:9a82ee3f",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Removes 'Why' question framing but preserves the key facts about funding and airing"
+  },
+  "d149:c1391aec": {
+   "id": "d149:c1391aec",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Removes 'Why' but conveys same facts; reader understands ads are airing with public funds"
+  },
+  "d149:a2598ee2": {
+   "id": "d149:a2598ee2",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves the 'why' element with 'Here is why' and keeps all facts"
+  },
+  "d149:b3441851": {
+   "id": "d149:b3441851",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clearly preserves 'why' framing and all key facts about funding and airing"
+  },
+  "d150:1b03f271": {
+   "id": "d150:1b03f271",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'rescued'; changes to just 'found', dropping the key action"
+  },
+  "d006:80330bf0": {
+   "id": "d006:80330bf0",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses 'baby and toddler' detail that emphasizes the severity"
+  },
+  "d008:e06827f1": {
+   "id": "d008:e06827f1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures the core story of Iran's denial about involvement"
+  },
+  "d009:ad351085": {
+   "id": "d009:ad351085",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Plain language equivalent of 'looms large'"
+  },
+  "d009:7716e1c6": {
+   "id": "d009:7716e1c6",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Appropriate simplification to plain language"
+  },
+  "d009:113709d8": {
+   "id": "d009:113709d8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures the idea; 'influence' is plain language for the role"
+  },
+  "d009:91f3fccc": {
+   "id": "d009:91f3fccc",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Plays a large role' directly replaces 'looms large'"
+  },
+  "d009:dd53a72d": {
+   "id": "d009:dd53a72d",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Has a large role' conveys the same meaning plainly"
+  },
+  "d015:4e1f0946": {
+   "id": "d015:4e1f0946",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Removes 'says'; turns allegation into stated fact"
+  },
+  "d019:847316b3": {
+   "id": "d019:847316b3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Core fact preserved; execution was halted indefinitely"
+  },
+  "d024:a172bd46": {
+   "id": "d024:a172bd46",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Loses specific '$10' detail but preserves core story of fuel costs affecting voting"
+  },
+  "d033:5c96ea91": {
+   "id": "d033:5c96ea91",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Good simplification of sensational language"
+  },
+  "d033:94d3a729": {
+   "id": "d033:94d3a729",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Simplifies 'bombshell' to plain language appropriately"
+  },
+  "d033:b7f4540a": {
+   "id": "d033:b7f4540a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures essential plot point; omits source not essential"
+  },
+  "d033:30cd6c28": {
+   "id": "d033:30cd6c28",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys the core story plainly"
+  },
+  "d037:45548455": {
+   "id": "d037:45548455",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Core story preserved; 'daringly' is editorial flavor not essential fact"
+  },
+  "d037:e42e9977": {
+   "id": "d037:e42e9977",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Core message captured with plain language"
+  },
+  "d037:d5ed0416": {
+   "id": "d037:d5ed0416",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Excellent rewrite keeping all essential elements"
+  },
+  "d039:f04ee484": {
+   "id": "d039:f04ee484",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Quotes removal doesn't change meaning; trust admits failing"
+  },
+  "d039:f8872bce": {
+   "id": "d039:f8872bce",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Good simplification of phrasing"
+  },
+  "d042:0dd1397e": {
+   "id": "d042:0dd1397e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Minor wording refinement preserves all key facts"
+  },
+  "d047:660f3bf2": {
+   "id": "d047:660f3bf2",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes 'Now' but 'starting to' conveys newness"
+  },
+  "d054:2ca9b711": {
+   "id": "d054:2ca9b711",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes inappropriate capitals from 'TV SHOW'"
+  },
+  "d058:1d304b94": {
+   "id": "d058:1d304b94",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes clickbait 'Why' framing; story unchanged"
+  },
+  "d058:6ff08a55": {
+   "id": "d058:6ff08a55",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clear straightforward statement of the claim"
+  },
+  "d062:44d5e75c": {
+   "id": "d062:44d5e75c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Already in plain language; no changes needed"
+  },
+  "d063:ca077750": {
+   "id": "d063:ca077750",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Simplifies sports reporting language appropriately"
+  },
+  "d073:829666a4": {
+   "id": "d073:829666a4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'Could affect' significantly softens the crisis concern"
+  },
+  "d073:72e5a6d9": {
+   "id": "d073:72e5a6d9",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'Affect' is too weak; also removes 'our' making it abstract"
+  },
+  "d073:03dc9a50": {
+   "id": "d073:03dc9a50",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "'Could cause problems' conveys disruption concern even if less dramatic"
+  },
+  "d081:124ca114": {
+   "id": "d081:124ca114",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Core story of confession preserved"
+  },
+  "d081:d8d1e822": {
+   "id": "d081:d8d1e822",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures the 'moment' element well"
+  },
+  "d081:0506c88c": {
+   "id": "d081:0506c88c",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Incomplete sentence; 'when they realized' missing object"
+  },
+  "d081:24ec84c5": {
+   "id": "d081:24ec84c5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Good rewrite capturing essence"
+  },
+  "d081:8fcb12d4": {
+   "id": "d081:8fcb12d4",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Incomplete sentence; 'when they realised' lacks object"
+  },
+  "d081:c84e2ca5": {
+   "id": "d081:c84e2ca5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Core story of confession preserved"
+  },
+  "d081:03995bb1": {
+   "id": "d081:03995bb1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures the regret and confession"
+  },
+  "d081:eceb0466": {
+   "id": "d081:eceb0466",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Good rewrite with moment and mistake"
+  },
+  "d088:4cb8ed8e": {
+   "id": "d088:4cb8ed8e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Already plain; no changes needed"
+  },
+  "d089:5b692abd": {
+   "id": "d089:5b692abd",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "'Discuss' is vague; loses sense of publicly sharing his side"
+  },
+  "d089:b6151cc7": {
+   "id": "d089:b6151cc7",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Give his side' captures perspective-sharing clearly"
+  },
+  "d089:2b9463fe": {
+   "id": "d089:2b9463fe",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures essential story plainly"
+  },
+  "d089:a18f05f8": {
+   "id": "d089:a18f05f8",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Good rewrite removing quotes while keeping perspective"
+  },
+  "d089:165ee04e": {
+   "id": "d089:165ee04e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Nearly identical to original, just normal capitalization"
+  },
+  "d097:4d2f1342": {
+   "id": "d097:4d2f1342",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Core claims preserved about side effects"
+  },
+  "d097:b1e34df4": {
+   "id": "d097:b1e34df4",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Loses 'half' specificity but captures 'fewer side effects' essence"
+  },
+  "d097:d0729e37": {
+   "id": "d097:d0729e37",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Core safety comparison preserved"
+  },
+  "d097:ad227749": {
+   "id": "d097:ad227749",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Adds 'claims to' which introduces skepticism not in original"
+  },
+  "d097:461339e3": {
+   "id": "d097:461339e3",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Clear rewrite of the main claim"
+  },
+  "d097:55ec8ce1": {
+   "id": "d097:55ec8ce1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Good simplification keeping key comparison"
+  },
+  "d097:c4adc9cf": {
+   "id": "d097:c4adc9cf",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the key claim about burning flab; only mentions side-effects comparison"
+  },
+  "d097:f8ff6047": {
+   "id": "d097:f8ff6047",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Preserves both main claims: burns fat and half the side-effects"
+  },
+  "d103:3ede4b9d": {
+   "id": "d103:3ede4b9d",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the positive assessment ('we like what we see') which is central to the story"
+  },
+  "d105:7436d279": {
+   "id": "d105:7436d279",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Direct quote conveys the same reassurance more clearly"
+  },
+  "d112:cd38ebf0": {
+   "id": "d112:cd38ebf0",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Removes sensational quotes while preserving the key fact"
+  },
+  "d112:4763f9f5": {
+   "id": "d112:4763f9f5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Same story without quotes and sensationalism"
+  },
+  "d123:5a44507d": {
+   "id": "d123:5a44507d",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the prominent uncertainty ('Will it learn?') that's central to the headline"
+  },
+  "d123:4bcf4edc": {
+   "id": "d123:4bcf4edc",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Converts a question about whether AI will learn into a statement that it does"
+  },
+  "d123:de846be1": {
+   "id": "d123:de846be1",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures the uncertainty about whether AI can learn from religion"
+  },
+  "d123:2d013ec5": {
+   "id": "d123:2d013ec5",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys AI seeking religion for behavioral guidance"
+  },
+  "d123:91f9832e": {
+   "id": "d123:91f9832e",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Simple version that conveys the same core idea"
+  },
+  "d123:3ad776d3": {
+   "id": "d123:3ad776d3",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Too vague; loses all context about ethics and behavioral guidance"
+  },
+  "d127:9bca576a": {
+   "id": "d127:9bca576a",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Handles the allegation appropriately with 'alleged'"
+  },
+  "d127:7176a36e": {
+   "id": "d127:7176a36e",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Changes 'terror plot' to 'threat', losing the specific nature of the conspiracy"
+  },
+  "d130:105d3533": {
+   "id": "d130:105d3533",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Simplified version preserves key facts about outlets and discount levels"
+  },
+  "d135:b4bf263d": {
+   "id": "d135:b4bf263d",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Conveys the core claim about sleep benefits, though 'helps' adds slight interpretation"
+  },
+  "d135:a21be8f2": {
+   "id": "d135:a21be8f2",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "More careful version with 'some people', though adds slight interpretation"
+  },
+  "d135:718da8dd": {
+   "id": "d135:718da8dd",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "'Buyers' is more accurate and specific than generic 'people'"
+  },
+  "d135:53771cc1": {
+   "id": "d135:53771cc1",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Conveys the sleep benefit claim though phrasing adds slight interpretation"
+  },
+  "d137:9c92d037": {
+   "id": "d137:9c92d037",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Loses significant context that Charlie Kirk is deceased"
+  },
+  "d139:7ce22552": {
+   "id": "d139:7ce22552",
+   "verdict": "FAIL",
+   "sure": false,
+   "reason": "Adds interpretation ('matches your taste') not explicit in the headline"
+  },
+  "d139:2d87bf5c": {
+   "id": "d139:2d87bf5c",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Captures the interactive quiz format with European destinations"
+  },
+  "d139:47ad9b16": {
+   "id": "d139:47ad9b16",
+   "verdict": "PASS",
+   "sure": false,
+   "reason": "Simplifies to core fact that there's a quiz, though loses European destination element"
+  },
+  "d139:dc8eb819": {
+   "id": "d139:dc8eb819",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Loses the interactive quiz format entirely; becomes just a listing"
+  },
+  "d143:b6466c17": {
+   "id": "d143:b6466c17",
+   "verdict": "PASS",
+   "sure": true,
+   "reason": "Conveys the same core tension between appeal and financial risk"
+  },
+  "d147:a2fd01da": {
+   "id": "d147:a2fd01da",
+   "verdict": "FAIL",
+   "sure": true,
+   "reason": "Only hedges the rescue with 'said to have' but treats the stabbing as unhedged fact"
+  }
+ }
+}
