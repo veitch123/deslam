@@ -1,0 +1,52 @@
+{
+ "instructions": "haiku453sv44ncwv54j",
+ "model": "claude-sonnet-5",
+ "piece": "queue/20261001T221138Z-03.json",
+ "answers": [
+  {
+   "key": "ai:bridgewater's flagship macro fund posts double-digit gains this year, sources say",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:pepsico, monster challenge india 'energy drink' label ban citing business impact",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:dbrg 8-k & sec filings",
+   "category": "none",
+   "headline": ""
+  }
+ ],
+ "runner": {
+  "version": 1,
+  "calls": 2,
+  "cost": 0.0453708,
+  "ms": 12602,
+  "tokens": {
+   "input_tokens": 4,
+   "cache_creation_input_tokens": 6369,
+   "cache_read_input_tokens": 6369,
+   "output_tokens": 1017
+  },
+  "errors": [],
+  "model": "claude-sonnet-5",
+  "models": {
+   "claude-haiku-4-5": {
+    "calls": 2,
+    "output": 27,
+    "cost": 0.0084
+   },
+   "claude-sonnet-5": {
+    "calls": 2,
+    "output": 1017,
+    "cost": 0.0369
+   }
+  },
+  "started": "2026-10-01T22:12:21.986Z",
+  "finished": "2026-10-01T22:12:34.591Z",
+  "rewrites": 0,
+  "askedTwice": 3
+ }
+}
