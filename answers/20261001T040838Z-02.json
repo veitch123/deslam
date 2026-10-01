@@ -1,0 +1,37 @@
+{
+ "instructions": "haiku456j099byihzsd",
+ "model": "claude-haiku-4-5",
+ "piece": "queue/20261001T040838Z-02.json",
+ "answers": [
+  {
+   "key": "ai:\"she caught them in bed together\": 16 of the wildest, pettiest, shadiest family drama stories that'll make your next family reunion look like a cake walk",
+   "category": "clickbait",
+   "headline": "16 family drama stories"
+  },
+  {
+   "key": "ai:billionaire meriton founder issues a message to australians after dick smith accused him of greed: 'i have done more than anyone else for housing in australia'",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:i'm a top recruiter: this is why australians can't find work - and it's about to get even worse: 'too much immigration too quickly'",
+   "category": "clickbait",
+   "headline": "Recruiter says too much immigration too quickly is worsening the Australian job market"
+  },
+  {
+   "key": "ai:greens co-founder lobs extraordinary hamas, transgender, inner city question at new leader - as mehreen faruqi fumes about losing out",
+   "category": "loaded language",
+   "headline": "Greens co-founder asks question about Hamas, transgender and inner city issues, Mehreen Faruqi reacts to not being selected"
+  },
+  {
+   "key": "ai:google's gemini 4 argon closes the pricing triangle. the benchmark lead is the real story.",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:biaf 8-k & sec filings",
+   "category": "none",
+   "headline": ""
+  }
+ ]
+}
