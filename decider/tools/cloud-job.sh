@@ -27,10 +27,10 @@ else say "STOP every job is done"; exit 0; fi
 say "JOB $job"
 claude auth status | head -3 || true
 if [ "$job" = "repair" ]; then
-  node tools/judge.js --repair --model claude-haiku-4-5 --workers 4
+  node tools/judge.js --repair --model claude-haiku-4-5 --workers 8
 else
   set -- $job
-  node tools/judge.js --judge "$1" --model "$2" --run "$3" --workers 4
+  node tools/judge.js --judge "$1" --model "$2" --run "$3" --workers 8
 fi
 cd "$REPO"
 git add decider/gate
