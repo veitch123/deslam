@@ -1,0 +1,1537 @@
+{
+ "instructions": "haiku453sv44ncwv54j",
+ "model": "claude-sonnet-5",
+ "piece": "queue/20261002T001212Z-01.json",
+ "answers": [
+  {
+   "key": "ai:cornell snapchat messages showed jane doe in frat room",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:chad lowe's 13-year-old daughter, fiona, died by suicide",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:bellamy says wales 'stick' hurt as norway win lifts mood",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:saudi hands omani flydubai pilot to uae; trump vows 'hitting hard' if iran links found",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:records give insight into how one cornell student responded to rape accusation",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:trump deploys 2,000 marines to middle east, supertanker struck in hormuz",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:more details emerge about flydubai co-pilot who tried to crash plane",
+   "category": "clickbait",
+   "headline": "Omani official confirms FlyDubai co-pilot who tried to crash plane was born in Oman and holds Omani citizenship"
+  },
+  {
+   "key": "ai:trump calls paxton 'pain in the ass' as gop fights for texas senate seat",
+   "category": "conflict framing",
+   "headline": "Trump calls Paxton a 'pain in the ass' as Republicans compete for Texas Senate seat"
+  },
+  {
+   "key": "ai:massachusetts man accused of cyberstalking campaign against katie miller",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:why did stock market crash today? sensex tumbles 1,124 points, nifty below 22,800; 6 factors behind rs 8 lakh crore rout",
+   "category": "clickbait",
+   "headline": "Sensex falls 1,124 points as Iran-US tensions, rising oil prices and foreign selling hit markets"
+  },
+  {
+   "key": "ai:how volatile trump's aides are forced to speak code: author",
+   "category": "claim laundering",
+   "headline": "Trump's aides are forced to speak in code due to his volatility, author claims"
+  },
+  {
+   "key": "ai:netanyahu: omani co-pilot went through islamic radicalization",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'very concerned': police search missing christchurch man's last known address",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:exclusive inside christa pike's death chamber: horrifying minute-by-minute account as satanist killer sang and cackled with joy during botched execution... and her final words before seven needles left her gasping - but still alive",
+   "category": "priming",
+   "headline": "Christa Pike's execution is described minute-by-minute: she sang and talked during a botched lethal injection and remained alive after seven needles"
+  },
+  {
+   "key": "ai:exclusive inside christa pike death chamber: minute-by-minute as she sang and cackled during botched execution",
+   "category": "loaded language",
+   "headline": "Christa Pike sang and talked during a botched execution, minute-by-minute account says"
+  },
+  {
+   "key": "ai:death row inmate survives two lethal injections - what killer did next is chilling",
+   "category": "clickbait",
+   "headline": "Death row inmate survives two lethal injections and receives life-saving medical care"
+  },
+  {
+   "key": "ai:russian soldiers drink urine & eat bark after twisted officers abandon them",
+   "category": "loaded language",
+   "headline": "Russian soldiers drink urine and eat bark after officers abandon them"
+  },
+  {
+   "key": "ai:i'm last one left on street set to be demolished for new £5bn theme park",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:how gen z are not 'lazy' about starting businesses – & tips to be successful",
+   "category": "clickbait",
+   "headline": "Gen Z are not lazy about starting businesses, and there are tips for success"
+  },
+  {
+   "key": "ai:apple watch se 3 vs. series 12 buyer's guide: which should you buy?",
+   "category": "clickbait",
+   "headline": "Apple Watch SE 3 suits basic use, Series 12 suits tracking health and recovery, guide says"
+  },
+  {
+   "key": "ai:crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+   "category": "priming",
+   "headline": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby during robbery"
+  },
+  {
+   "key": "ai:criminal or saviour?pinto abandoned by portuguese authorities after city leaks",
+   "category": "clickbait",
+   "headline": "Pinto is abandoned by Portuguese authorities after Manchester City leaks"
+  },
+  {
+   "key": "ai:exclusive dentist who helped save stabbed flydubai pilot reveals 'extremist hijacker' repeatedly begged 'kill me' - as new footage emerges of him",
+   "category": "loaded language",
+   "headline": "Dentist who helped treat stabbed FlyDubai pilot says co-pilot repeatedly begged to be killed, new footage shows him"
+  },
+  {
+   "key": "ai:halle berry's ex granted primary custody of son maceo after accusing actress of choking their 12-year-old",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:man city appeal plan emerges as hmrc urged to look at tax implications",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:former dallas officer who fatally shot man in apartment she mistook for her own gets parole",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:oil extends gain as middle east conflict threatens to escalate",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:who is the embattled new york prosecutor thrust into the national spotlight?",
+   "category": "clickbait",
+   "headline": "A New York prosecutor facing criticism gets national attention"
+  },
+  {
+   "key": "ai:a recap of recent developments",
+   "category": "clickbait",
+   "headline": "There is a recap of recent developments"
+  },
+  {
+   "key": "ai:asian stocks set to fall, treasury yields slide",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:lindsay clancy bid to dismiss murder case denied—here's what happens next",
+   "category": "clickbait",
+   "headline": "Judge denies Lindsay Clancy's bid to dismiss murder case, clearing way for retrial"
+  },
+  {
+   "key": "ai:trump admin diverts military assistance funding from europe to latin america: report",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:what it was like being in the room for christa pike's botched execution",
+   "category": "clickbait",
+   "headline": "Witness describes being in the room for Christa Pike's botched execution, then something happens"
+  },
+  {
+   "key": "ai:oscar winner hit with shocking child abuse claims by ex",
+   "category": "priming",
+   "headline": "Oscar winner accused of child abuse by ex-partner"
+  },
+  {
+   "key": "ai:house dems' pitch for dues: help us take on maga inc.",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:death row killer christa's question after receiving lethal injections that failed to kill her",
+   "category": "clickbait",
+   "headline": "Death row inmate Christa Pike asks a question after lethal injections fail to kill her"
+  },
+  {
+   "key": "ai:christa pike's lawyers reveal what really happened in death chamber",
+   "category": "clickbait",
+   "headline": "Christa Pike's lawyer says she is alive in critical condition after botched execution"
+  },
+  {
+   "key": "ai:dad rushed in help stabbed pilot after hearing screams of brave daughter",
+   "category": "loaded language",
+   "headline": "Dad helped stabbed pilot after hearing his daughter's screams"
+  },
+  {
+   "key": "ai:a66 death crash joyrider's dad faces jail for attacking celebrant at funeral",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:jennifer garner reunites with 'alias' co-star and ex michael vartan in rare photo",
+   "category": "fluff",
+   "headline": "Jennifer Garner appears in a photo with former 'Alias' co-star and ex Michael Vartan"
+  },
+  {
+   "key": "ai:is this the end for ronaldo - and would portugal miss him?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:an aaron judge dilemma hangs over his yankees return decision",
+   "category": "clickbait",
+   "headline": "Aaron Judge faces a decision on when to return from a calf strain for the ALDS"
+  },
+  {
+   "key": "ai:hedge funds' treasury bet",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:squawk 7500, stabbed indian pilot, nosedive over saudi arabia: inside flydubai fz1073",
+   "category": "clickbait",
+   "headline": "FlyDubai FZ1073 squawks hijack code after co-pilot stabs pilot and plane loses altitude before landing safely in Saudi Arabia"
+  },
+  {
+   "key": "ai:welcome to our coverage",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'this is not normal,' witness reporters said as pike kept talking long after her lethal injection",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:jaw-dropping way trump, 80, got talked into a war is leaked",
+   "category": "clickbait",
+   "headline": "Trump asked an AI chatbot about reaction to capturing Maduro before ordering the operation, report says"
+  },
+  {
+   "key": "ai:scoop: dems beef with party leaders over snubbed black candidates",
+   "category": "conflict framing",
+   "headline": "Democrats disagree with party leaders over snubbed Black candidates"
+  },
+  {
+   "key": "ai:melanie c: kiwi singer cassie henderson could be the next taylor swift",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:young man's life destroyed after he's wrongly connected to alleged rape that took place at cornell frat house",
+   "category": "loaded language",
+   "headline": "A young man is wrongly connected to an alleged rape at a Cornell frat house"
+  },
+  {
+   "key": "ai:australia's housing crash could be the worst in 40 years - and experts warn prices may have only fallen a third of the way",
+   "category": "escalation",
+   "headline": "Australia's house prices may be falling at their fastest rate in 40 years, and experts say prices could fall further"
+  },
+  {
+   "key": "ai:labor to make it harder for international students to change courses; inman-grant says time for new esafety leadership",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:attorney for jane doe: 'we went from denial to shame and ultimately acceptance'",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:portugal lose over a million followers within 24 hours of ronaldo quitting",
+   "category": "priming",
+   "headline": "Portugal lose over a million followers within 24 hours of Ronaldo quitting"
+  },
+  {
+   "key": "ai:all the celebrity bbl secrets...from stars who deny surgery to big bum regrets",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:coroner warns of risk of future deaths at mental health unit where patient was killed",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the world's smit-ten: pm to trump, praise pours in for braveheart pilot",
+   "category": "pseudo-consensus",
+   "headline": "The PM and Trump are among those praising the pilot"
+  },
+  {
+   "key": "ai:cjp to protest against cec in mumbai today, dipke challenges cm fadnavis",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:india has biotech talent and know-how, but funding ecosystem lags: lilly ceo",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:mortgage rates approach 3-year high as new applications plunge",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:saved by the bell icon dies",
+   "category": "clickbait",
+   "headline": "Dennis Haskins, who played Mr. Belding on Saved by the Bell, dies aged 75"
+  },
+  {
+   "key": "ai:exclusive an inmate's head on fire: executioner exposes what the public don't see inside the death chamber",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:exclusive inside the bitter father-son feud that unravelled the omeros bros seafood dynasty - as the tax office winds up the iconic gold coast eatery",
+   "category": "conflict framing",
+   "headline": "A father-son disagreement is linked to the closure of Omeros Bros restaurant, as the tax office winds it up"
+  },
+  {
+   "key": "ai:australia's housing crash could be the worst in 40 years - amid warning more falls to come",
+   "category": "escalation",
+   "headline": "Australia's house prices may be falling at their fastest rate in 40 years, with warnings of more falls to come"
+  },
+  {
+   "key": "ai:i met christa pike on death row. as her execution fails – what now?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:jake tapper breaks down the snapchat messages",
+   "category": "clickbait",
+   "headline": "Jake Tapper discusses the Snapchat messages"
+  },
+  {
+   "key": "ai:chris mason: why andy burnham's about-turn on manchester city matters",
+   "category": "clickbait",
+   "headline": "Burnham's about-turn on Manchester City matters because the club broke Premier League rules for years, affecting Manchester, football and the UK's image"
+  },
+  {
+   "key": "ai:heavily pregnant homeless woman is 'refused emergency accommodation by council' that houses more than 3,500 migrants: charity that stepped in says it was told 'unborn children have no rights'",
+   "category": "claim laundering",
+   "headline": "A heavily pregnant homeless woman says she was refused emergency accommodation by a council that houses more than 3,500 migrants, a charity says"
+  },
+  {
+   "key": "ai:'left out' voters: election commission orders special drive in 20 states where sir over",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:breaking news chad lowe's 13-year-old daughter died by suicide, medical officials say",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:young man's life destroyed after he's wrongly connected to alleged rape at cornell frat house",
+   "category": "loaded language",
+   "headline": "A young man wrongly linked to an alleged rape at a Cornell fraternity house says it has affected his life"
+  },
+  {
+   "key": "ai:exclusive the guest list money can buy: wealthy australian socialites are hand-picked to attend saint laurent's paris fashion week show - as one billionaire's wife sparks whispers as she appears to fail to score an invite",
+   "category": "insinuation",
+   "headline": "Wealthy Australian socialites are invited to Saint Laurent's Paris Fashion Week show; one billionaire's wife may not have received an invite"
+  },
+  {
+   "key": "ai:terrified dog walker realised half-naked man was following her... then restaurant staff stepped in",
+   "category": "clickbait",
+   "headline": "A dog walker says a half-naked man followed her, then restaurant staff intervened"
+  },
+  {
+   "key": "ai:trump touts having the best numbers of any president, despite his dismal approval rating",
+   "category": "loaded language",
+   "headline": "Trump says he has the best numbers of any president, despite a low approval rating"
+  },
+  {
+   "key": "ai:spain and china are cosying up - to the anger of many in the eu",
+   "category": "loaded language",
+   "headline": "Spain and China are strengthening relations, which has angered some in the EU"
+  },
+  {
+   "key": "ai:peacock's fast & furious tv show greenlit, set to premiere in 2028.",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:vsu accused of forcing christian clubs under university control while others go free",
+   "category": "claim laundering",
+   "headline": "VSU is accused of putting Christian clubs under university control while leaving other clubs alone"
+  },
+  {
+   "key": "ai:the flydubai near crash is becoming political. here's why",
+   "category": "clickbait",
+   "headline": "The Flydubai near crash is becoming political because Netanyahu is using it to promote his image as a security leader"
+  },
+  {
+   "key": "ai:what to know about pike's murder conviction at age 18",
+   "category": "clickbait",
+   "headline": "Christa Pike was convicted of murder at age 18"
+  },
+  {
+   "key": "ai:what could happen to christa pike now after botched execution",
+   "category": "clickbait",
+   "headline": "What might happen to Christa Pike next is unclear"
+  },
+  {
+   "key": "ai:flydubai omani co-pilot accused in cockpit attack transferred from saudi arabia to uae",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:texas is democrat blue mirage. paxton, trump polls may bring it into focus",
+   "category": "clickbait",
+   "headline": "Paxton's low approval ratings and Trump's falling popularity raise questions about Texas's Republican lean"
+  },
+  {
+   "key": "ai:tennessee governor halts executions after inmate survives lethal injection",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:labor is bleeding to the right, but its fatal blow could come from the left",
+   "category": "loaded language",
+   "headline": "Labor is losing support to the right, and could be hurt most by the left"
+  },
+  {
+   "key": "ai:claims olivier's violence the real issue",
+   "category": "claim laundering",
+   "headline": "Some claim that Olivier's violence is the real issue"
+  },
+  {
+   "key": "ai:exclusive an inmate's head on fire and unthinkable tortures: executioner exposes what the public don't see inside the death chamber... after christa pike's botched lethal injections",
+   "category": "priming",
+   "headline": "An executioner talks about what happens inside the death chamber, after Christa Pike's botched lethal injection"
+  },
+  {
+   "key": "ai:how the stabbing incident unfolded on israel-bound flydubai plane",
+   "category": "clickbait",
+   "headline": "A co-pilot stabbed the captain on an Israel-bound flydubai flight before passengers intervened and the plane landed safely in Saudi Arabia"
+  },
+  {
+   "key": "ai:i'm sharing pics of my baby on death's door to warn parents of innocent mistake",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:good news for holidaymakers as govt scraps 'rip-off' extra charges when flying | money",
+   "category": "priming",
+   "headline": "The government scraps extra flying charges it called 'rip-off' fees"
+  },
+  {
+   "key": "ai:new details emerge after sudden death of chad lowe's 13-year-old daughter",
+   "category": "clickbait",
+   "headline": "Chad Lowe's daughter Fiona died Sept. 29 at a Los Angeles hospital; her cause of death has not been disclosed"
+  },
+  {
+   "key": "ai:liveus energy department employee arrested over alleged houthi support",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:interpol says ai is increasing speed and scale of cyber threats. here's what companies should watch",
+   "category": "clickbait",
+   "headline": "INTERPOL says AI is increasing the speed and scale of cyber threats"
+  },
+  {
+   "key": "ai:stay tuned now with gadi schwartz",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:tawang chosen as venue for tourism meet, china among countries invited",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:netanyahu says flydubai co-pilot was radicalised as uae probes terror link",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'nobody is above rules' — burnham backtracks on city owner comments",
+   "category": "loaded language",
+   "headline": "Burnham changes his comments on Manchester City's owner, saying 'nobody is above rules'"
+  },
+  {
+   "key": "ai:dating youtuber jack cocchiarella",
+   "category": "fluff",
+   "headline": "YouTuber Jack Cocchiarella is in a relationship"
+  },
+  {
+   "key": "ai:exclusive every shameful detail of custody hearing where killer heiress lost daughter, 4, to private equity lawyer ex... hours before she executed youngster in texas townhouse and fatally injured herself",
+   "category": "loaded language",
+   "headline": "A woman lost custody of her 4-year-old daughter to her ex, a private equity lawyer, hours before killing the child in a Texas townhouse and fatally injuring herself"
+  },
+  {
+   "key": "ai:amazon australia prime big deal days sale 2026 is here: shop top-rated tech, bestselling beauty buys and everyday essentials",
+   "category": "loaded language",
+   "headline": "Amazon Australia's Prime Big Deal Days sale includes discounts on tech, beauty items and everyday essentials"
+  },
+  {
+   "key": "ai:judge denies motion for lindsay clancy case dismissal due to latest twist in case",
+   "category": "clickbait",
+   "headline": "Judge denies motion to dismiss Lindsay Clancy case, ruling it is up to a jury to decide"
+  },
+  {
+   "key": "ai:woman says cyber-stalking ex made life a horror movie with foreign spies, gps on car, scrambling her phone",
+   "category": "loaded language",
+   "headline": "Woman says cyber-stalking ex tracked her car with GPS, interfered with her phone, and involved foreign spies"
+  },
+  {
+   "key": "ai:cramer's ai infrastructure picks",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:crew-13 astronauts dock at the international space station",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:student protests grip france as prime minister lecornu calls crisis meeting",
+   "category": "escalation",
+   "headline": "Student protests continue in France as Prime Minister Lecornu calls a meeting"
+  },
+  {
+   "key": "ai:will joe aston's rampart go soft on its corporate backers?",
+   "category": "insinuation",
+   "headline": "Questions raised over whether Joe Aston's Rampart will go soft on its corporate backers"
+  },
+  {
+   "key": "ai:'fast & furious' races to tv",
+   "category": "loaded language",
+   "headline": "'Fast & Furious' is coming to TV"
+  },
+  {
+   "key": "ai:these are all the best deals on everyday essentials to grab during amazon's prime big deals day sale",
+   "category": "clickbait",
+   "headline": "Amazon's Prime Big Deals Day sale includes discounts on everyday essentials"
+  },
+  {
+   "key": "ai:the 8 signs of lung cancer even if you don't smoke, as dame esther rantzen dies",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:2026's halloween countdown starts now",
+   "category": "clickbait",
+   "headline": "Polygon's annual Halloween Countdown returns with a month of horror movie, TV and game recommendations"
+  },
+  {
+   "key": "ai:bank stocks fall as rising interest rates deepen second-half slump",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:friday's big stock stories: what's likely to move the market in the next session",
+   "category": "clickbait",
+   "headline": "Some stock stories could move the market in the next session"
+  },
+  {
+   "key": "ai:'total government failure... will raise issue in parliament': rahul gandhi visits balaghat",
+   "category": "claim laundering",
+   "headline": "Rahul Gandhi visits Balaghat, calls it a 'total government failure' and says he will raise the issue in Parliament"
+  },
+  {
+   "key": "ai:i fought for assisted dying with esther rantzen - here's the first thing she taught me",
+   "category": "clickbait",
+   "headline": "Esther Rantzen taught columnist that she always knew her own mind"
+  },
+  {
+   "key": "ai:trump threatens to hit iran 'very hard' if tehran found to be behind flydubai incident",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:this week, joe aston's media start-up has got everyone talking, while abc seems bored with long news bulletins.",
+   "category": "pseudo-consensus",
+   "headline": "This week, people are talking about Joe Aston's media start-up, while ABC appears less keen on long news bulletins"
+  },
+  {
+   "key": "ai:fatal nyc subway stabbing",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:exclusive panic over kimberly guilfoyle's outrageous champagne demand and the secret interests of her righthand man... but she digs in heels as greek life unravels: 'i need him'",
+   "category": "loaded language",
+   "headline": "Kimberly Guilfoyle insists she needs her aide, despite a dispute over a champagne request and questions about his other interests"
+  },
+  {
+   "key": "ai:female dog walker terrified on realising strange man was following her... with female restaurant staff shielding her from him after she ran inside pleading for help",
+   "category": "priming",
+   "headline": "Dog walker says a man followed her and restaurant staff helped when she went inside"
+  },
+  {
+   "key": "ai:what we know about the cornell rape allegations and how the events unfolded",
+   "category": "clickbait",
+   "headline": "Snapchat messages from the night of the alleged Cornell assault include a photo of Jane Doe in the fraternity house, images show"
+  },
+  {
+   "key": "ai:the goopiest way to kick off spooky season",
+   "category": "clickbait",
+   "headline": "Watching Lucio Fulci's 1981 film The Beyond is the goopiest way to kick off spooky season"
+  },
+  {
+   "key": "ai:uk in emergency talks with allies over releasing diesel stocks after trump threat",
+   "category": "escalation",
+   "headline": "UK holds talks with allies about releasing diesel stocks after Trump threat"
+  },
+  {
+   "key": "ai:montreal hospital isolates patient exhibiting ebola symptoms",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:farrell's pitch to trump officials to head off more tariff pain",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:india to mandate facial scans for airport staff, fast-track full-body scanners after flydubai incident",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:marsha blackburn's new lawsuit against jack smith has a fatal flaw",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:peter v'landys chasing a big grand final win of his own",
+   "category": "clickbait",
+   "headline": "Peter V'landys is chasing some kind of win of his own at the grand final"
+  },
+  {
+   "key": "ai:the key evidence missing from man city guilty verdicts in 115 case",
+   "category": "clickbait",
+   "headline": "The evidence missing from Man City's guilty verdicts is witness testimony and supporting documents"
+  },
+  {
+   "key": "ai:wild video shows suspect getting chased by bystanders",
+   "category": "priming",
+   "headline": "Video shows bystanders chasing a suspect"
+  },
+  {
+   "key": "ai:post malone leaves aussie fans furious as he attends paris fashion week after postponing tour",
+   "category": "solicited outrage",
+   "headline": "Post Malone attends Paris Fashion Week after postponing his Australian tour, upsetting some fans"
+  },
+  {
+   "key": "ai:iphone 18 pro first impressions: what do you think so far?",
+   "category": "clickbait",
+   "headline": "MacRumors asks readers for iPhone 18 Pro impressions, noting heat issues, speaker bugs and Face ID problems reported so far"
+  },
+  {
+   "key": "ai:verity's final big twist transforms a love story into something much darker",
+   "category": "clickbait",
+   "headline": "Verity ends with a twist, apparently"
+  },
+  {
+   "key": "ai:convicted predator of hundreds quietly vanishes from public list via legal loophole",
+   "category": "loaded language",
+   "headline": "A convicted predator of hundreds has been removed from the public registry through a legal loophole"
+  },
+  {
+   "key": "ai:campaign rebound 'bad boy' dennis rodman joins trump for red state tour, praised for north korea knowledge",
+   "category": "pseudo-consensus",
+   "headline": "'Bad Boy' Dennis Rodman joins Trump for red state tour; some praise his North Korea knowledge"
+  },
+  {
+   "key": "ai:who is the indian pilot who fought off his cockpit attacker?",
+   "category": "clickbait",
+   "headline": "Indian pilot Smit Machchhar, attacked by his co-pilot on a Flydubai flight, is hailed as a hero for helping save the plane"
+  },
+  {
+   "key": "ai:father of the nation? responsible for partition? let bhagat singh die? 7 myths fact-checked on gandhi jayanti",
+   "category": "clickbait",
+   "headline": "Gandhi was never officially given the title 'Father of the Nation', records show"
+  },
+  {
+   "key": "ai:asian games 2026 live: lovlina, parveen, ankush eye gold; india face china in women's hockey final on day 13",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:what to know about your breast cancer risk as breast cancer awareness month kicks off",
+   "category": "clickbait",
+   "headline": "ABC News and the American Cancer Society offer a free tool to check your breast cancer risk"
+  },
+  {
+   "key": "ai:medicare de-fangs new drug pricing model",
+   "category": "loaded language",
+   "headline": "Medicare weakens its new drug pricing model"
+  },
+  {
+   "key": "ai:domestic abuser ban nixed from gun rights program over mel gibson: report",
+   "category": "claim laundering",
+   "headline": "A report says a domestic abuser ban was removed from a gun rights program because of Mel Gibson"
+  },
+  {
+   "key": "ai:tsawwassen first nation identifies 2 elders killed in crash outside mall",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:my label left marketing $$$ on the table and it hurt my sales!!!",
+   "category": "clickbait",
+   "headline": "An artist says their label spent too little on marketing and it hurt their sales"
+  },
+  {
+   "key": "ai:my honest verdict on the 'dreamy' new three blue ducks farm flooding your feed: the detour",
+   "category": "clickbait",
+   "headline": "Burradoo Park Farm's new Three Blue Ducks restaurant is a stunning space, columnist says"
+  },
+  {
+   "key": "ai:woman sues las vegas hospital claiming staff mistakenly said her son was dead",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:1 factor may separate women who keep having sex as they age from those who don't",
+   "category": "clickbait",
+   "headline": "One factor may affect whether women keep having sex as they age"
+  },
+  {
+   "key": "ai:diddy's life in prison: nude photos and hennessy",
+   "category": "claim laundering",
+   "headline": "Diddy's life in prison reportedly includes nude photos and Hennessy"
+  },
+  {
+   "key": "ai:u.k.-iranian man held over u.k. airbase incident",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:few americans associate their elected leaders with the term 'courage': gallup",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'the vow' vs 'the bachelor'",
+   "category": "clickbait",
+   "headline": "An article compares 'The Vow' and 'The Bachelor'"
+  },
+  {
+   "key": "ai:exclusive trump's secret rage at ken paxton erupts: list of 12 republican suspects is drawn up in hunt for the 'maga mole' behind explosive audio leak in crucial texas senate race",
+   "category": "loaded language",
+   "headline": "Trump is angry at Ken Paxton as a list of 12 Republican suspects is compiled over an audio leak in the Texas Senate race"
+  },
+  {
+   "key": "ai:how the woman in the alleged cornell gang rape case realized she was a victim and launched a push for justice",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:i lost two stone after taking a natural weight loss pill instead of mounjaro. it was slow at first but completely changed my lifestyle and the pounds started dropping away... and there's no side-effects",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:openai's new agent is a shot at meta — but can it compete with free?",
+   "category": "clickbait",
+   "headline": "OpenAI's new agent Dots costs $100 a month while Meta's Muse is free"
+  },
+  {
+   "key": "ai:generate more portfolio income in volatile times with these options strategies",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:india's $600 billion food market grows at 7% cagr, food processing given importance: official",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ice memo lays out limits on vehicle stops",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:what's in the permitting reform bill?",
+   "category": "clickbait",
+   "headline": "The permitting reform bill contains some provisions"
+  },
+  {
+   "key": "ai:joshua kutryk's launch to the iss is another example of the important role canada plays in space exploration",
+   "category": "loaded language",
+   "headline": "Joshua Kutryk launches to the ISS"
+  },
+  {
+   "key": "ai:richard e grant makes confession on the celebrity traitors",
+   "category": "clickbait",
+   "headline": "Richard E Grant says something on The Celebrity Traitors"
+  },
+  {
+   "key": "ai:fox nation fires back over legal threat ...",
+   "category": "conflict framing",
+   "headline": "Fox Nation responds to a legal threat"
+  },
+  {
+   "key": "ai:my wife died of cancer at 29 – these 3 symptoms made doctors think it was ibs",
+   "category": "clickbait",
+   "headline": "Edward Wilson says wife Sophie's stomach pain, bloating and bleeding were dismissed as IBS before she died of cancer at 29"
+  },
+  {
+   "key": "ai:six ways parents could make the return to school a little easier",
+   "category": "clickbait",
+   "headline": "Teacher Cerys Parker suggests a consistent morning routine to ease the return to school"
+  },
+  {
+   "key": "ai:what's really going on in lymphatic drainage beauty videos?",
+   "category": "clickbait",
+   "headline": "Lymphatic drainage beauty videos show something"
+  },
+  {
+   "key": "ai:you're bountiful! james blunt proves faithful to his accountant as he tops the celebrity traitors rich list with a £50m fortune - so how do the others compare?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:kpsc recruitment row: bjp targets rahul gandhi over karnataka government's sc plea",
+   "category": "conflict framing",
+   "headline": "BJP criticises Rahul Gandhi over Karnataka government's Supreme Court plea on KPSC recruitment"
+  },
+  {
+   "key": "ai:everything we know about the cockpit stabbing",
+   "category": "clickbait",
+   "headline": "A pilot stabs a colleague aboard a Flydubai flight, forcing an emergency landing in Saudi Arabia"
+  },
+  {
+   "key": "ai:nbcuniversal's langley says 'volume matters' amid studio mergers",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:amy klobuchar reveals how she knew eric schmitt was full of it before he did",
+   "category": "loaded language",
+   "headline": "Amy Klobuchar says she doubted Eric Schmitt before he did"
+  },
+  {
+   "key": "ai:chad lowe's 13-year-old daughter's cause of death confirmed to be suicide after sitcom star's family shares heartbreaking announcement",
+   "category": "priming",
+   "headline": "Chad Lowe's family confirms 13-year-old daughter died by suicide"
+  },
+  {
+   "key": "ai:why the most-watched game of the nrl season will be decided by a mistake",
+   "category": "clickbait",
+   "headline": "A mistake will decide the most-watched NRL game of the season"
+  },
+  {
+   "key": "ai:you don't own rose petals!",
+   "category": "clickbait",
+   "headline": "There is a dispute over who owns rose petals"
+  },
+  {
+   "key": "ai:exclusive dentist who helped save stabbed flydubai pilot reveals 'extremist hijacker' repeatedly begged 'kill me' - as new footage emerges",
+   "category": "claim laundering",
+   "headline": "Dentist says 'extremist hijacker' who stabbed Flydubai pilot repeatedly said 'kill me', new footage emerges"
+  },
+  {
+   "key": "ai:exclusive tess crosley's leaked dms about 'swinging' scandal... plus, bondi boost mogul ditches english wedding to former escort - and rich lister rules out kristin fisher romance after rumoured hook-up: the group chat",
+   "category": "fluff",
+   "headline": "Tess Crosley's DMs about 'swinging' are leaked, a Bondi Boost founder cancels his English wedding to a former escort, and a Rich Lister denies a romance with Kristin Fisher"
+  },
+  {
+   "key": "ai:climate resilient coffee varieties helping kenyan farmers to protect uk brews",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:is alzheimer's actually a type of diabetes? some researchers think so",
+   "category": "clickbait",
+   "headline": "Some researchers call Alzheimer's a third type of diabetes because of its link to blood sugar control"
+  },
+  {
+   "key": "ai:who is rui pinto? is hacker behind man city leaks an artist or criminal?",
+   "category": "clickbait",
+   "headline": "Rui Pinto leaked football club documents through Football Leaks, and no one can agree if that makes him an artist or a criminal"
+  },
+  {
+   "key": "ai:what your star sign has in store this month according to the tarot cards",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'it could cost me £10k but i need the money now': why gen z are opting out of pensions",
+   "category": "clickbait",
+   "headline": "Hassan Nassar stops paying into his pension to cope with cash-flow pressures, risking £5,000 to £10,000 in retirement income"
+  },
+  {
+   "key": "ai:why burnham's about-turn on manchester city matters",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:bari weiss' role at cnn revealed after david ellison makes ceo decision",
+   "category": "clickbait",
+   "headline": "Bari Weiss will not have a managerial role at CNN as David Ellison keeps Mark Thompson running the network"
+  },
+  {
+   "key": "ai:paramount dealmaker says warner merger is about growth, not cuts",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:a 'dry run' or fuel thieves? the raf fairford plot scenarios, according to experts",
+   "category": "clickbait",
+   "headline": "Police find petrol but no explosives in vans near RAF Fairford, and are keeping an open mind about what the plot was"
+  },
+  {
+   "key": "ai:east auckland death: murder accused due in court, police seek footage of two cars",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:exclusive the 11 minutes that changed america: las vegas massacre survivors reveal theories and untold horrors",
+   "category": "clickbait",
+   "headline": "Nine years after Stephen Paddock killed 60 people in the Las Vegas shooting, no note or motive was ever found"
+  },
+  {
+   "key": "ai:control resonant has a secret weapon in the goty race",
+   "category": "clickbait",
+   "headline": "Remedy's underdog reputation with Game Awards voters could help Control Resonant"
+  },
+  {
+   "key": "ai:celebrity traitors fans spot clues which reveal first to be murdered",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:met office maps show 22c in 45 uk areas on sunday as charts turn orange - full list",
+   "category": "clickbait",
+   "headline": "Met Office forecasts 22C in 45 UK areas on Sunday"
+  },
+  {
+   "key": "ai:the 527-day hunt for hashim moosa, last lashkar man linked to pahalgam attack",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:crew docks at space station with astronaut who'll miss birth of 3rd child",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:massachusetts man charged with cyberstalking podcaster katie miller",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:three jurisdictions will have a public holiday to ease into daylight saving time",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:inside the incredible sydney home commended by a top design prize",
+   "category": "clickbait",
+   "headline": "A Sydney home is commended by a design prize"
+  },
+  {
+   "key": "ai:tzolis injury decision quickly made as worrying arsenal blow confirmed",
+   "category": "loaded language",
+   "headline": "Arsenal makes a decision on Tzolis's injury"
+  },
+  {
+   "key": "ai:meghan markle stuns in more than $66,000 worth of jewels in glamorous new appearance",
+   "category": "fluff",
+   "headline": "Meghan Markle wears more than $66,000 of jewels at an event"
+  },
+  {
+   "key": "ai:social media icon 'mami' who had an astounding 200,000 followers dies on her 107th birthday",
+   "category": "loaded language",
+   "headline": "Social media user 'Mami', who had 200,000 followers, dies on her 107th birthday"
+  },
+  {
+   "key": "ai:spiders are lurking in a 'quiet and dark' gap you'd never think to check",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:democrats want a blue wave. new hampshire is exhibit a for why that may not happen",
+   "category": "clickbait",
+   "headline": "Republicans' financial edge and the Democrats' unpopular brand threaten the party's hopes in New Hampshire's Senate race"
+  },
+  {
+   "key": "ai:dolphin dies after pod gets stranded on calif. beach",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'a nice reunion': how sidney nolan's signature ned kelly series was reunited",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:laid out alleged childhood abuse ...",
+   "category": "insinuation",
+   "headline": "Alleged childhood abuse is described"
+  },
+  {
+   "key": "ai:i quit nursing job after easy side hustle started making more money than my wage",
+   "category": "clickbait",
+   "headline": "Chloe Thompson quits nursing to resell items on Vinted full-time, earning more money"
+  },
+  {
+   "key": "ai:michael owen doesn't tell his children he loves them - how big a deal is that?",
+   "category": "clickbait",
+   "headline": "Michael Owen doesn't tell his children he loves them, but experts say what matters is children feeling safe and valued"
+  },
+  {
+   "key": "ai:'ram rajya', nep, sengol: what students will learn in ncert in 'governance and public policy' chapter",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:trump's own daughter-in-law says iran war could cost him the midterms",
+   "category": "loaded language",
+   "headline": "Trump's daughter-in-law says Iran war could cost him the midterms"
+  },
+  {
+   "key": "ai:trump says iran will end 'one way or the other,' but his daughter-in-law warns of midterm cost",
+   "category": "conflict framing",
+   "headline": "Trump says Iran war will end 'one way or the other'; his daughter-in-law says it could cost him the midterms"
+  },
+  {
+   "key": "ai:brisbane to melbourne with no traffic lights, and no big banana",
+   "category": "clickbait",
+   "headline": "Coffs Harbour bypass lets Brisbane-to-Melbourne drivers skip 12 traffic lights, bypassing the Big Banana"
+  },
+  {
+   "key": "ai:in bid to get off death row",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:dargaville hall demolition goes ahead after opponents drop court challenge",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:no power? the jackery portable generator outdoor enthusiasts swear by for stress-free camping is now on sale",
+   "category": "clickbait",
+   "headline": "The Jackery Explore 1000 v2 portable power station is on sale with a discount code"
+  },
+  {
+   "key": "ai:maya jama opens up about celebrity traitors advantage her co-stars won't even know about",
+   "category": "clickbait",
+   "headline": "Maya Jama says her Love Island persona doesn't reflect her real personality, which could be an advantage on Celebrity Traitors"
+  },
+  {
+   "key": "ai:19:46 bst 1 october",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:why are these endangered moths swarming australia's east coast?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:23:50 bst 1 october",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:asian games 2026 live updates, day 14: 3 indian boxers in finals, archers eye more medals",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:comment your name and we'll give you an october name.",
+   "category": "clickbait",
+   "headline": "People who comment their name are given an October name in response"
+  },
+  {
+   "key": "ai:halle berry accused of child abuse by ex olivier martinez, who is seeking a restraining order",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:brash and mowbray's call to split national's vote is a fool's errand",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'no such thing as half a march', says mac cionnaith as drumcree talks break up without deal",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:christa pike was injected with seven needles during botched execution including one that bent while being removed, as lawyer claims he doesn't know hospitalised killer's prognosis",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:amazing nfl plus caribbean cruise holiday including uk flights from £1,699",
+   "category": "loaded language",
+   "headline": "NFL plus Caribbean cruise holiday including UK flights from £1,699"
+  },
+  {
+   "key": "ai:iphone 18 pro colors buyer's guide: which should you choose?",
+   "category": "clickbait",
+   "headline": "Apple's iPhone 18 Pro buyer's guide says Burgundy is the standout color"
+  },
+  {
+   "key": "ai:10 control resonant beginner's tips to help you deal with the paranatural",
+   "category": "clickbait",
+   "headline": "A Control Resonant beginner's tip is to find pylons and activate sensors to reveal the map"
+  },
+  {
+   "key": "ai:how 16 undecided voters are weighing their election options",
+   "category": "clickbait",
+   "headline": "Undecided voters say they are focused on high costs and feel let down by both parties"
+  },
+  {
+   "key": "ai:who qualifies for trump's $500 aca refund checks?",
+   "category": "clickbait",
+   "headline": "People who paid full price for HealthCare.gov plans without subsidies, in the 30 states using HealthCare.gov, qualify for Trump's $500 ACA refund checks"
+  },
+  {
+   "key": "ai:join congress minus the baggage, will accept your leadership: adhir to mamata banerjee",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nbcuniversal's langley says 'odyssey' success surprised",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:i hate to say it, but if you can answer more than 12/23 of these questions about 90s movies correctly, you might just be a dinosaur",
+   "category": "clickbait",
+   "headline": "There is a quiz about 90s movies knowledge"
+  },
+  {
+   "key": "ai:brisbane battling graffiti by turning beige into works of art",
+   "category": "loaded language",
+   "headline": "Brisbane turns beige walls into artworks to reduce graffiti"
+  },
+  {
+   "key": "ai:after being stabbed three times, what he did next saved hundreds",
+   "category": "clickbait",
+   "headline": "Andrew Franks, stabbed three times, shouted for worshippers to lock the doors, helping them barricade against the synagogue attacker"
+  },
+  {
+   "key": "ai:nz company fined over export of components with military potential",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:size of ricky hatton's estate finally revealed as family wait for answers",
+   "category": "clickbait",
+   "headline": "Ricky Hatton's estate is estimated at £30 million, accounts show"
+  },
+  {
+   "key": "ai:17:42 bst 1 october",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:best weapon and combat ability to choose first in control resonant",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:23:10 bst 1 october",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:chad lowe's 13-year-old daughter fiona died by suicide",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:amanda hirsch talks new podcast 'get real'",
+   "category": "fluff",
+   "headline": "Amanda Hirsch talks about her new podcast 'Get Real'"
+  },
+  {
+   "key": "ai:\"i'm a doctor, and i'm tired of seeing this\": 28 life-changing hygiene hacks you're probably not doing, and, um, people around you can definitely tell",
+   "category": "clickbait",
+   "headline": "A doctor describes hygiene habits many people skip"
+  },
+  {
+   "key": "ai:russia just threatened the uk with nuclear weapons. here's what's really happening",
+   "category": "clickbait",
+   "headline": "Russia's London embassy says it would use nuclear weapons if the UK or Nato attacked Russian territory"
+  },
+  {
+   "key": "ai:man who went on holiday on a container ship reveals all about bizarre adventure",
+   "category": "clickbait",
+   "headline": "A man who booked a cabin on a cargo ship from Rotterdam to Dublin says he wanted to do something exciting and saved money"
+  },
+  {
+   "key": "ai:eddie murphy to star in peacock drama series 'the chairman' from 'mad men' creator matthew weiner",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:exclusive i was an official witness at christa pike's botched execution. her tears, laughter, disturbing snores and the rock they placed on her chest will haunt me for ever",
+   "category": "priming",
+   "headline": "I was an official witness at Christa Pike's botched execution, where she cried, laughed, snored and had a rock placed on her chest"
+  },
+  {
+   "key": "ai:the 5 mistakes that let cold draughts into your home & cost you an extra £85",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:6 switch 2 games releasing in october 2026 you can't miss",
+   "category": "clickbait",
+   "headline": "Switch 2 games out in October 2026 include Switch Sports Resort, Call of Duty, Resident Evil, Final Fantasy and Order of the Sinking Star"
+  },
+  {
+   "key": "ai:what to know about pentobarbital after inmate survives 2 doses during execution attempt",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:what are the new rules in scotland's supermarkets?",
+   "category": "clickbait",
+   "headline": "Scotland bans supermarkets from displaying high fat, sugar and salt foods in prominent spots like checkouts and aisle ends"
+  },
+  {
+   "key": "ai:isro to get a boost for its satellite and space asset tracking with its newest facility in guwahati",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:people are sharing their favorite white people sayings and, jesus, mary, and joseph, these have me hooting and hollering at my phone",
+   "category": "clickbait",
+   "headline": "A TikToker's video about 'white people phrases' prompts people to share their own in the comments"
+  },
+  {
+   "key": "ai:arsenal suffer another injury blow as £34m star forced off after just 18 minutes",
+   "category": "loaded language",
+   "headline": "Arsenal's £34m signing is forced off after 18 minutes"
+  },
+  {
+   "key": "ai:13-year-long afp bribery investigation ends with no prosecution",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:'fast & furious' tv adaptation ordered to series by peacock, eyed for 2028 premiere",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:joe burrow's model girlfriend olivia ponton stuns fans with wild cheating 'hot take'",
+   "category": "fluff",
+   "headline": "Joe Burrow's girlfriend Olivia Ponton gives her opinion on cheating"
+  },
+  {
+   "key": "ai:16:05 bst 1 october",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:6 ps5 games releasing in october you cannot miss",
+   "category": "clickbait",
+   "headline": "6 PS5 games release in October, including Ghost of Yōtei Complete Edition and Ace Combat 8"
+  },
+  {
+   "key": "ai:annihilate iran, oval office tear down, criticizing justices: takeaways from trump's time interview",
+   "category": "clickbait",
+   "headline": "Trump says he doesn't think there will be peace with Iran, and discusses an Oval Office clash and criticizing justices, in TIME interview"
+  },
+  {
+   "key": "ai:23:04 bst 1 october",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:taxpayer paid rs 1.24 lakh twice in 2022. patna high court now comes to his rescue",
+   "category": "loaded language",
+   "headline": "Patna High Court rules in favor of taxpayer who paid Rs 1.24 lakh twice in 2022"
+  },
+  {
+   "key": "ai:reality star's husband dead at 58",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:mother charged with murder in death of 4-month-old baby found in south l.a. dumpster",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:ryan murphy to 'glee' cast",
+   "category": "clickbait",
+   "headline": "Ryan Murphy reaches out to original 'Glee' cast members before planned reboot"
+  },
+  {
+   "key": "ai:roman is the underrated high street brand creating luxe-looking autumn staples for less - and we have a discount code",
+   "category": "clickbait",
+   "headline": "Roman offers 15% off orders over £80 with code AFUP80Q226 until 30 September"
+  },
+  {
+   "key": "ai:all the celebrity bbl secrets...from stars who regret their bum jobs to those who insist jaw-dropping curves are real",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:apple's all-new home hub rumored to launch in these four colors",
+   "category": "clickbait",
+   "headline": "Apple's home hub may launch in silver, space gray, starlight, and rose pink, leaker says"
+  },
+  {
+   "key": "ai:which zone should you go to first in control resonant?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:switch finally gets one of 2025's best-reviewed rpgs",
+   "category": "clickbait",
+   "headline": "Switch, PS5 and Xbox Series X get Keep Driving, one of 2025's best-reviewed RPGs"
+  },
+  {
+   "key": "ai:844-lb. alligator found lurking in south carolina lake is confirmed as second largest gator in the state",
+   "category": "loaded language",
+   "headline": "844-lb alligator found in South Carolina lake confirmed as the state's second-largest"
+  },
+  {
+   "key": "ai:portfolio adviser to the super-rich wanted a bigger stock market correction. here's why",
+   "category": "clickbait",
+   "headline": "Portfolio adviser to the super-rich wanted a bigger stock market correction to buy more"
+  },
+  {
+   "key": "ai:space for library provided in central vista plan: ministry",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:donald trump used his \"time\" interview to lash out at cnn's kaitlan collins in a wild personal attack",
+   "category": "loaded language",
+   "headline": "Donald Trump criticizes CNN's Kaitlan Collins in TIME interview"
+  },
+  {
+   "key": "ai:penguin party crasher and a sexy mantis: funniest wildlife photos of 2026",
+   "category": "clickbait",
+   "headline": "Nikon Comedy Wildlife Awards shortlist 40 finalist photos for 2026"
+  },
+  {
+   "key": "ai:let's harmonize & make up before reboot",
+   "category": "clickbait",
+   "headline": "Ryan Murphy reaches out to original 'Glee' cast members before planned reboot"
+  },
+  {
+   "key": "ai:klopp gets first win as germany boss after making 11 changes and giving two debuts",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:premium bonds winners: check if you've won in ns&i's october 2026 draw",
+   "category": "clickbait",
+   "headline": "Two Premium Bonds holders win £1million jackpots in NS&I's October 2026 draw"
+  },
+  {
+   "key": "ai:i'm a high street haggler & never pay full price – it saves me £300 a month",
+   "category": "clickbait",
+   "headline": "Woman who avoids paying full price saves £300 a month using discounts, freebies and bank-switching offers"
+  },
+  {
+   "key": "ai:14:20 bst 1 october",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:23:03 bst 1 october",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:katie holmes just carried a spacious tote in this bold, fall-coded color — we found a lookalike for $18",
+   "category": "fluff",
+   "headline": "Katie Holmes carries a tote bag"
+  },
+  {
+   "key": "ai:cjp founder dipke briefly detained after placard protest at marine drive",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:did pakistan really train the flydubai co-pilot who attacked indian captain? what we know, so far",
+   "category": "clickbait",
+   "headline": "No confirmed evidence links FlyDubai co-pilot to Pakistan training, despite social media speculation"
+  },
+  {
+   "key": "ai:london's 'most and least affordable' places to buy a home revealed",
+   "category": "clickbait",
+   "headline": "Barking and Dagenham is London's most affordable place to buy a home, Kensington and Chelsea the least, analysis finds"
+  },
+  {
+   "key": "ai:exclusive secret life of ivanka trump's mini-me daughter: arabella, 15, is fluent in mandarin... calls china's leader 'grandpa xi'... and 'wants to be like mom'",
+   "category": "insinuation",
+   "headline": "Ivanka Trump's daughter Arabella, 15, is fluent in Mandarin and calls China's leader 'Grandpa Xi'"
+  },
+  {
+   "key": "ai:after my divorce, i dreamed of a fresh start in the house i'd rented out while married. but my tenant refused to leave for a year - then filled it with rubbish, dead rats and worse. no one would help. the system is broken",
+   "category": "priming",
+   "headline": "After my divorce, my tenant refused to leave the house I had rented out for a year and left it full of rubbish and dead rats"
+  },
+  {
+   "key": "ai:donald trump 'falling apart' as he adopts wild stance to spark fresh health concerns",
+   "category": "claim laundering",
+   "headline": "Donald Trump adopts a new stance, prompting health concerns"
+  },
+  {
+   "key": "ai:trump jokes that paxton is a 'pain in the ass'",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:fran drescher, 69, looks younger than ever in figure-hugging look amid glamorous nyc night out",
+   "category": "fluff",
+   "headline": "Fran Drescher, 69, wears an outfit on a night out in New York"
+  },
+  {
+   "key": "ai:from £60 hikes to vat being slashed... how your energy bill is changing from today",
+   "category": "clickbait",
+   "headline": "Energy bills rise £60 a year as price cap increases 4% from today"
+  },
+  {
+   "key": "ai:we spent £42k to look sexy like sydney sweeney after her boobs sparked craze",
+   "category": "clickbait",
+   "headline": "Women spend £42k on surgery to copy Sydney Sweeney's look amid rising demand for similar procedures"
+  },
+  {
+   "key": "ai:3 must-play september games you missed between fire emblem and wolverine",
+   "category": "clickbait",
+   "headline": "3 hidden gem September games are worth playing, including He Who Watches"
+  },
+  {
+   "key": "ai:who is the 'hero' indian pilot who was stabbed on israel-bound flight?",
+   "category": "clickbait",
+   "headline": "Capt Smit Machchhar is the Indian pilot stabbed on an Israel-bound FlyDubai flight, hailed a hero by Netanyahu"
+  },
+  {
+   "key": "ai:woman does handstand at 38 weeks pregnant and delivers baby boy less than a day later",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:this biotech making precision medicines for cancer could nearly triple, says jpmorgan",
+   "category": "clickbait",
+   "headline": "Kura Oncology's cancer drug pipeline could see the stock nearly triple, says JPMorgan"
+  },
+  {
+   "key": "ai:sentence tossed in arizona case where deceased victim was depicted speaking in ai-generated video",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:after manipur musician's killing, delhi police to intensify patrolling in areas with large ne population",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:not to alarm anyone, but there is no safety net",
+   "category": "priming",
+   "headline": "There is no safety net"
+  },
+  {
+   "key": "ai:accused cornell frat bro",
+   "category": "clickbait",
+   "headline": "Accused Cornell frat member Scott Kretzschmar does not object to accuser remaining anonymous in lawsuit"
+  },
+  {
+   "key": "ai:trump says iran may be linked to terrifying flydubai hijack attempt after co-pilot stabbed captain and israel-bound plane plunged 14,000ft",
+   "category": "loaded language",
+   "headline": "Trump says Iran may be linked to FlyDubai attack after co-pilot stabbed captain and plane plunged 14,000ft"
+  },
+  {
+   "key": "ai:new details emerge about death of chad lowe's teen daughter fiona as stars mourn tragic loss",
+   "category": "priming",
+   "headline": "New details emerge about death of Chad Lowe's teen daughter Fiona"
+  },
+  {
+   "key": "ai:cristiano ronaldo tipped to give bombshell update on portugal future",
+   "category": "loaded language",
+   "headline": "Cristiano Ronaldo may give an update on his Portugal future"
+  },
+  {
+   "key": "ai:cheapest energy deals to switch to now and save more than £400 before winter",
+   "category": "clickbait",
+   "headline": "Cheapest fixed energy deal saves £48 a year compared to the price cap"
+  },
+  {
+   "key": "ai:14:12 bst 1 october",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:what the u.s. leaves behind in iraq",
+   "category": "clickbait",
+   "headline": "Last U.S. troops leave Iraq for the second time since the 2003 invasion"
+  },
+  {
+   "key": "ai:23:00 bst 1 october",
+   "category": "none",
+   "headline": ""
+  }
+ ],
+ "runner": {
+  "version": 1,
+  "calls": 9,
+  "cost": 1.806037,
+  "ms": 1015938,
+  "tokens": {
+   "input_tokens": 18,
+   "cache_creation_input_tokens": 123904,
+   "cache_read_input_tokens": 0,
+   "output_tokens": 122467
+  },
+  "errors": [],
+  "model": "claude-sonnet-5",
+  "models": {
+   "claude-haiku-4-5": {
+    "calls": 9,
+    "output": 119,
+    "cost": 0.0856
+   },
+   "claude-sonnet-5": {
+    "calls": 9,
+    "output": 122467,
+    "cost": 1.7202
+   }
+  },
+  "started": "2026-10-02T00:13:00.409Z",
+  "finished": "2026-10-02T00:19:48.392Z",
+  "rewrites": 182,
+  "askedTwice": 103
+ }
+}
