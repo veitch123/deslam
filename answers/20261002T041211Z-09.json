@@ -1,0 +1,157 @@
+{
+ "instructions": "haiku453sv44ncwv54j",
+ "model": "claude-sonnet-5",
+ "piece": "queue/20261002T041211Z-09.json",
+ "answers": [
+  {
+   "key": "ai:october 1, 2026 — pilot suspected of flydubai attack transferred to uae as investigation unfolds",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:charlotte crosby reveals why wedding has been on hold as she struggles with major issue",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:what hayden panettiere's family thinks of late actress' ex wladimir klitschko's guardianship filing",
+   "category": "clickbait",
+   "headline": "Hayden Panettiere's family supports Wladimir Klitschko's guardianship filing for daughter Kaya's estate"
+  },
+  {
+   "key": "ai:millie mackintosh's new man revealed: she was devastated after her shock break-up with husband hugo taylor... but now we reveal the fitness fanatic putting a smile back on her face",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nancy grace reveals the 'chilling' way sean 'diddy' combs could walk free from sex trafficking charges",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:a 175-year-old hurricane record has been broken as experts reveal surprising storm news for 2027",
+   "category": "clickbait",
+   "headline": "Atlantic has had no hurricane so far in 2026, the latest start to hurricane season since 1941"
+  },
+  {
+   "key": "ai:oodie's £55 sherpa blanket is the softest thing i've ever felt – and shoppers can now get it for just £38.50",
+   "category": "clickbait",
+   "headline": "Reviewer says Oodie's Sherpa Blanket is very soft, now discounted to £38.50"
+  },
+  {
+   "key": "ai:when is black friday 2026? this year's dates and what to expect",
+   "category": "clickbait",
+   "headline": "Black Friday 2026 falls on November 27"
+  },
+  {
+   "key": "ai:missed out on glasto tickets? the alternative music festivals to book now for a magical summer 2027",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:area 51 mystery deepens as discovery exposes who is really behind secret flights",
+   "category": "clickbait",
+   "headline": "Job listing shows government contractor Amentum operates flights to Area 51"
+  },
+  {
+   "key": "ai:fed-up flier shares why delta airlines has gotten so bad, even for ultra-elite passengers with diamond status like him",
+   "category": "clickbait",
+   "headline": "Delta Diamond member complains about bad Wi-Fi and long Sky Club lines"
+  },
+  {
+   "key": "ai:cornell rape investigation: defense attorney, legal expert weigh in",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:a westerner's guide to the real japan",
+   "category": "clickbait",
+   "headline": "Chris Broad's new book guides readers across Japan beyond Tokyo and Kyoto"
+  },
+  {
+   "key": "ai:would you spend £350 on a toaster? futuristic appliance lets you select your perfect shade of toast by colour - and even has a special crumpet mode",
+   "category": "clickbait",
+   "headline": "Sage Appliances' Eye Q Auto Toaster toasts by colour and costs £350"
+  },
+  {
+   "key": "ai:what we know about the diverted flydubai flight",
+   "category": "clickbait",
+   "headline": "Flydubai flight diverted to Saudi Arabia after one pilot stabbed the other, Netanyahu says attack was prevented from becoming a disaster"
+  },
+  {
+   "key": "ai:what book leaves philanthropist john studzinski cold?",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:the traitors' most villainous contestant paul gorton reveals what the celebrity faithfuls should do if they want to win the show",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:new map reveals where americans have suffered the hottest summer in history... see where your state ranks",
+   "category": "clickbait",
+   "headline": "Arizona, Colorado, New Mexico and Utah had their hottest summer on record in 2026"
+  },
+  {
+   "key": "ai:how often should you clean your toilet? experts settle the debate - so, are you doing it enough?",
+   "category": "clickbait",
+   "headline": "Cleaning expert says toilets should be cleaned once a week"
+  },
+  {
+   "key": "ai:map reveals which states could be robbed of a white christmas by el niño",
+   "category": "clickbait",
+   "headline": "El Niño lowers chances of a white Christmas in 26 US states"
+  },
+  {
+   "key": "ai:why senate democrats are blocking a bill on data center price hikes, really",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:jack smith senate testimony: key moments and cnn's first reactions",
+   "category": "clickbait",
+   "headline": "Jack Smith tells Senate he stands by his decision to prosecute Trump, as Republicans accuse him of abuse of authority"
+  },
+  {
+   "key": "ai:what cornell's jane doe told investigators in 2024 prompts fresh questions in newly reopened investigation",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:putting thailand at the center of global conversations",
+   "category": "clickbait",
+   "headline": "Bangkok to host the 2026 IMF–World Bank Group Annual Meetings in October, bringing together over 15,000 leaders from 191 countries"
+  }
+ ],
+ "runner": {
+  "version": 1,
+  "calls": 2,
+  "cost": 0.21338600000000002,
+  "ms": 98611,
+  "tokens": {
+   "input_tokens": 4,
+   "cache_creation_input_tokens": 21787,
+   "cache_read_input_tokens": 0,
+   "output_tokens": 11146
+  },
+  "errors": [],
+  "model": "claude-sonnet-5",
+  "models": {
+   "claude-haiku-4-5": {
+    "calls": 2,
+    "output": 29,
+    "cost": 0.0147
+   },
+   "claude-sonnet-5": {
+    "calls": 2,
+    "output": 11146,
+    "cost": 0.1986
+   }
+  },
+  "started": "2026-10-02T04:13:21.044Z",
+  "finished": "2026-10-02T04:14:59.659Z",
+  "rewrites": 14,
+  "askedTwice": 1
+ }
+}
