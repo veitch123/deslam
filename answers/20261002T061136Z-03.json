@@ -1,0 +1,337 @@
+{
+ "instructions": "haiku453sv44ncwv54j",
+ "model": "claude-sonnet-5",
+ "piece": "queue/20261002T061136Z-03.json",
+ "answers": [
+  {
+   "key": "ai:hong kong stocks suffer biggest slump since march",
+   "category": "loaded language",
+   "headline": "Hong Kong stocks have biggest slump since March"
+  },
+  {
+   "key": "ai:cancer patients who eat sugar while taking antibiotics face life-threatening complications, study suggests",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:french high schools burn as student unrest spreads - ft.com",
+   "category": "escalation",
+   "headline": "French high schools catch fire amid student unrest"
+  },
+  {
+   "key": "ai:dollar at 17-month high as bond rout, french fiscal worries weigh on euro",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:hong kong stocks slump most since march, led by financials",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:who is victor marx's wife, eileen? colorado gop governor nominee's shocking video describing 'violent fight' sparks anger",
+   "category": "priming",
+   "headline": "Colorado GOP Governor nominee Victor Marx's video describes a 'violent fight' with wife Eileen"
+  },
+  {
+   "key": "ai:south korea's lee threatens action against ukraine over transfer of north koreans",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:james spader's ultron returns in visionquest as marvel completes the wandavision trilogy",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:seoul warns 'further action' if ukraine does not apologise over prisoner-of-war row - bbc",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:pm modi speaks to smit machchhar, indian pilot stabbed on flydubai plane",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:italgas agrees to buy 22.5% of portugal's floene",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:asx runners of the week: dateline, mamba, image resources & boa",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:us pressures europe over diesel reserves as trump threatens export ban - bbc",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:mulk and article 15 director anubhav sinha: lucknow is my middle-age ishq, films and food keep drawing me back",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nandigram and rejinagar bypoll: ballot without the battle",
+   "category": "clickbait",
+   "headline": "Nandigram and Rejinagar bypoll held with little contest"
+  },
+  {
+   "key": "ai:middle east oil exports stage a remarkable comeback - oilprice.com",
+   "category": "loaded language",
+   "headline": "Middle East oil exports increase"
+  },
+  {
+   "key": "ai:in odi run fests, big difference between bilaterals and world cups",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:nitin gadkari calls ethanol blending a step towards diversification of agricultural sector",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:google pixel 11 pro fold marks steady progress in an otherwise restless market",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:russian air strikes kill one, restrict traffic across dnipro river in kyiv",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:retired official arrested under pocso act in ongole after girl's friend calls 112",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:travelodge 'fundamentally failed' woman sexually assaulted in hotel room - thetimes.com",
+   "category": "claim laundering",
+   "headline": "Woman sexually assaulted in Travelodge hotel room says hotel 'fundamentally failed' her"
+  },
+  {
+   "key": "ai:delhi amends school rules, makes essentiality certificate mandatory for schools seeking institutional land",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:luca cagnoni's first nhl goal is ot winner as sharks top panthers",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:christa pike botched execution: how lethal injection is used in death penalty",
+   "category": "clickbait",
+   "headline": "Christa Pike's execution is botched"
+  },
+  {
+   "key": "ai:jennifer lopez channels chocolate-toned glam in paris",
+   "category": "fluff",
+   "headline": "Jennifer Lopez wears a brown outfit in Paris"
+  },
+  {
+   "key": "ai:us congressman demands starbucks close its first stores in china's xinjiang",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:asian games: indian hockey players react after semi-final victory over pakistan | ht india",
+   "category": "clickbait",
+   "headline": "Indian hockey players comment after semi-final win over Pakistan"
+  },
+  {
+   "key": "ai:german chemical industry mood rises for second straight month in september, ifo says",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:if you can go 5/5 on this history and science quiz, you're extremely brainy",
+   "category": "clickbait",
+   "headline": "There is a history and science quiz"
+  },
+  {
+   "key": "ai:cyril hilsum obituary: physicist who developed displays used in iphones - thetimes.com",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:low blood sugar? endocrinologist dr debmalya sanyal explains why it may be a hidden danger in diabetes management",
+   "category": "clickbait",
+   "headline": "Endocrinologist Dr Debmalya Sanyal says low blood sugar may be a hidden danger in diabetes management"
+  },
+  {
+   "key": "ai:former taiwan president tsai to visit us next week",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:this word search is so impossibly hard that only actual geniuses can solve it",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:sonali kulkarni celebrates the paradise crossing ₹100 crore, cuts cake with paparazzi despite 'extreme' reactions to nani's film",
+   "category": "fluff",
+   "headline": "Sonali Kulkarni cuts cake to celebrate The Paradise crossing ₹100 crore"
+  },
+  {
+   "key": "ai:evan bouchard, connor mcdavid make waves as oilers beat canucks 9-7",
+   "category": "loaded language",
+   "headline": "Evan Bouchard and Connor McDavid score as Oilers beat Canucks 9-7"
+  },
+  {
+   "key": "ai:\"now it's every time, usually multiple times\": women are sharing their orgasm hacks, and this should literally be required reading",
+   "category": "clickbait",
+   "headline": "Women share sex tips, including not worrying about 'taking too long'"
+  },
+  {
+   "key": "ai:davina mccall and martin lewis remember 'national treasure' esther rantzen - london evening standard",
+   "category": "loaded language",
+   "headline": "Davina McCall and Martin Lewis pay tribute to Esther Rantzen"
+  },
+  {
+   "key": "ai:mahanadi row: odisha, chhattisgarh cms meet amit shah",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:friday briefing: how we covered the flydubai incident as it unfolded",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:geri horner's rarely-seen daughter bluebell, 20, sings at two secret gigs as her future career plans are revealed - thesun.co.uk",
+   "category": "fluff",
+   "headline": "Geri Horner's daughter Bluebell, 20, sings at two gigs"
+  },
+  {
+   "key": "ai:construction of chalonthi-bhattakufar twin tunnel not aligned with earlier survey: shimla residents",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:asian games 2026: golden glow for birthday girl lovlina",
+   "category": "loaded language",
+   "headline": "Lovlina wins gold on her birthday at Asian Games 2026"
+  },
+  {
+   "key": "ai:calling all millennials and gen z'ers: i want to know how many of you remember the joys of these discontinued '90s snacks",
+   "category": "clickbait",
+   "headline": "There are discontinued '90s snacks"
+  },
+  {
+   "key": "ai:suryakumar yadav reveals how he stays fit while eating butter chicken and biryani: 'portion is what matters the most'",
+   "category": "loaded language",
+   "headline": "Suryakumar Yadav says portion size matters for staying fit while eating butter chicken and biryani"
+  },
+  {
+   "key": "ai:bahrain gp in malaysia 2026: max verstappen tops first practice - bbc",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:sujeet shocks olympic champion kiyooka, enters final; dipanshi reaches bronze play-off",
+   "category": "loaded language",
+   "headline": "Sujeet beats Olympic champion Kiyooka to enter final; Dipanshi reaches bronze play-off"
+  },
+  {
+   "key": "ai:christos tzolis injury decision quickly made as worrying arsenal blow confirmed - london evening standard",
+   "category": "loaded language",
+   "headline": "Arsenal confirms decision on Christos Tzolis injury"
+  },
+  {
+   "key": "ai:swiss bank julius baer announces $723 million share buyback program",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:george russell: mercedes driver reveals hope over big bahrain gp upgrade and says f1 title pressure all on kimi antonelli - sky sports",
+   "category": "loaded language",
+   "headline": "George Russell says he hopes for a big Bahrain GP upgrade and that F1 title pressure is all on Kimi Antonelli"
+  },
+  {
+   "key": "ai:'instagram is for girls': elon musk reignites feud with meta; sparks reactions online",
+   "category": "conflict framing",
+   "headline": "Elon Musk says 'Instagram is for girls', renewing disagreement with Meta"
+  },
+  {
+   "key": "ai:spacex flight led by first black female commander sets us speed record - sky news",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:india at asian games full results day 14 (updated live): lovlina borgohain, women's recurve team add two more golds to tally",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:are you more like taylor swift, olivia rodrigo, lady gaga, beyoncé, charli xcx, or billie eilish?",
+   "category": "clickbait",
+   "headline": "A quiz compares you to Taylor Swift, Olivia Rodrigo, Lady Gaga, Beyoncé, Charli XCX, or Billie Eilish"
+  },
+  {
+   "key": "ai:gandhi jayanti 2026| 'violence on screen in indian films has become a drug, and gandhism is the antidote,' says neeraj kabi",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:india news live update 2 october 2026: jantar mantar cleared of protesters, aap's saurabh bhardwaj removed from protest site",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:lorry training firm 'riding out' record diesel price",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:republicans probably reallllly don't want you to see this report on how trump's economy is doing... (so, let's all look together)",
+   "category": "clickbait",
+   "headline": "Report shows US unemployment unchanged at 4.1% for a second month"
+  },
+  {
+   "key": "ai:how gen z tiktoks are shaping kenyan politics",
+   "category": "clickbait",
+   "headline": "Gen Z TikToks shape Kenyan politics"
+  },
+  {
+   "key": "ai:lindsay clancy's attorney said prosecutors did not prove she actually killed her children",
+   "category": "none",
+   "headline": ""
+  }
+ ],
+ "runner": {
+  "version": 1,
+  "calls": 3,
+  "cost": 0.30844,
+  "ms": 147962,
+  "tokens": {
+   "input_tokens": 6,
+   "cache_creation_input_tokens": 27141,
+   "cache_read_input_tokens": 0,
+   "output_tokens": 18126
+  },
+  "errors": [],
+  "model": "claude-sonnet-5",
+  "models": {
+   "claude-haiku-4-5": {
+    "calls": 3,
+    "output": 42,
+    "cost": 0.0186
+   },
+   "claude-sonnet-5": {
+    "calls": 3,
+    "output": 18126,
+    "cost": 0.2899
+   }
+  },
+  "started": "2026-10-02T06:12:33.159Z",
+  "finished": "2026-10-02T06:14:40.766Z",
+  "rewrites": 26,
+  "askedTwice": 35
+ }
+}
