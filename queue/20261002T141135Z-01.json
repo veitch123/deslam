@@ -1,0 +1,1215 @@
+{
+ "version": 1,
+ "instructions": "haiku453sv44ncwv54j",
+ "model": "claude-sonnet-5",
+ "made": "2026-10-02T14:11:35.624Z",
+ "piece": "queue/20261002T141135Z-01.json",
+ "items": [
+  {
+   "key": "ai:g7 leaders hold urgent meeting over diesel supply as uk prices hit record £2 a litre",
+   "text": "G7 leaders hold urgent meeting over diesel supply as UK prices hit record £2 a litre"
+  },
+  {
+   "key": "ai:alison hammond taken to hospital after clutching her chest and suddenly falling ill live on this morning",
+   "text": "Alison Hammond taken to hospital after clutching her chest and suddenly falling ill live on This Morning"
+  },
+  {
+   "key": "ai:what really happened at raf fairford? five unanswered questions over 'terror plot' as iranian 'mastermind' arrested",
+   "text": "What really happened at RAF Fairford? Five unanswered questions over 'terror plot' as Iranian 'mastermind' arrested"
+  },
+  {
+   "key": "ai:if a data center is camouflaged in the woods, will anyone hate it?",
+   "text": "If a data center is camouflaged in the woods, will anyone hate it?"
+  },
+  {
+   "key": "ai:gypsy rose blanchard says partner ken urker died from overdose — as she pays tribute",
+   "text": "Gypsy Rose Blanchard says partner Ken Urker died from overdose — as she pays tribute"
+  },
+  {
+   "key": "ai:house gop plan to hit dems where it hurts as midterm election day looms",
+   "text": "House GOP plan to hit Dems where it hurts as midterm Election Day looms"
+  },
+  {
+   "key": "ai:new york governor removes da from cornell rape case amid 'serious questions'",
+   "text": "New York governor removes DA from Cornell rape case amid 'serious questions'"
+  },
+  {
+   "key": "ai:'whoever sent pilot will pay heavy price': netanyahu's warning after flydubai attack",
+   "text": "'Whoever sent pilot will pay heavy price': Netanyahu's warning after flydubai attack"
+  },
+  {
+   "key": "ai:weak september jobs report likely to keep fed on hold for october, with focus still on inflation",
+   "text": "Weak September jobs report likely to keep Fed on hold for October, with focus still on inflation"
+  },
+  {
+   "key": "ai:ndtv immersive not just another flight: what happened on flydubai plane, visualised",
+   "text": "NDTV Immersive Not Just Another Flight: What Happened On flydubai Plane, Visualised"
+  },
+  {
+   "key": "ai:laughing at death",
+   "text": "Laughing at death"
+  },
+  {
+   "key": "ai:dow jumps 200 points after weak jobs data sends yields tumbling",
+   "text": "Dow jumps 200 points after weak jobs data sends yields tumbling"
+  },
+  {
+   "key": "ai:christa pike survived attempted execution. what now?",
+   "text": "Christa Pike survived attempted execution. What now?"
+  },
+  {
+   "key": "ai:new york gov. kathy hochul says jane doe in cornell case was 'failed' by the system",
+   "text": "New York Gov. Kathy Hochul says Jane Doe in Cornell case was ‘failed’ by the system"
+  },
+  {
+   "key": "ai:'more than 10? pick them up': math behind delhi police's ec protest crackdown",
+   "text": "‘More than 10? Pick them up’: Math behind Delhi Police’s EC protest crackdown"
+  },
+  {
+   "key": "ai:india's wait is over! women's hockey team win gold in asian games after 44 years",
+   "text": "India's Wait Is Over! Women's Hockey Team Win Gold In Asian Games After 44 Years"
+  },
+  {
+   "key": "ai:river, fire to ash, no roof: 10 greatest emergency landings where pilots soared through turbulent times",
+   "text": "River, Fire To Ash, No Roof: 10 Greatest Emergency Landings Where Pilots Soared Through Turbulent Times"
+  },
+  {
+   "key": "ai:lalremsiami struck, savita stood tall: how india ended 44-year wait for hockey gold",
+   "text": "Lalremsiami struck, Savita stood tall: How India ended 44-year wait for hockey gold"
+  },
+  {
+   "key": "ai:why mumbai, not delhi? abhijeet dipke explains cjp's choice for gyanesh kumar protest",
+   "text": "Why Mumbai, Not Delhi? Abhijeet Dipke Explains CJP's Choice For Gyanesh Kumar Protest"
+  },
+  {
+   "key": "ai:eu rejects trump diesel demand amid iran crisis, as yemen fighting spreads",
+   "text": "EU rejects Trump diesel demand amid Iran crisis, as Yemen fighting spreads"
+  },
+  {
+   "key": "ai:indian women's hockey team wins asian games gold after 44 years, qualifies for 2028 olympics | live",
+   "text": "Indian women's hockey team wins Asian Games gold after 44 years, qualifies for 2028 Olympics | LIVE"
+  },
+  {
+   "key": "ai:man city lodge appeal against guilty verdict",
+   "text": "Man City lodge appeal against guilty verdict"
+  },
+  {
+   "key": "ai:us job growth falls short of forecasts as firms remain cautious",
+   "text": "US Job Growth Falls Short of Forecasts as Firms Remain Cautious"
+  },
+  {
+   "key": "ai:'the last push': flydubai captain smit machchhar recounts harrowing cockpit attack",
+   "text": "'The last push': FlyDubai captain Smit Machchhar recounts harrowing cockpit attack"
+  },
+  {
+   "key": "ai:french crisis strengthens trump's case against europe",
+   "text": "French Crisis Strengthens Trump’s Case Against Europe"
+  },
+  {
+   "key": "ai:us job growth slows, easing pressure on fed to hike rates before midterms",
+   "text": "US job growth slows, easing pressure on Fed to hike rates before midterms"
+  },
+  {
+   "key": "ai:what is happening with diesel – and should we be worried?",
+   "text": "What is happening with diesel – and should we be worried?"
+  },
+  {
+   "key": "ai:icici life insurance appoints sidharatha mishra as md, ceo",
+   "text": "ICICI Life Insurance appoints Sidharatha Mishra as MD, CEO"
+  },
+  {
+   "key": "ai:furious republican senator's explicit texts to trump exposed",
+   "text": "Furious Republican Senator’s Explicit Texts to Trump Exposed"
+  },
+  {
+   "key": "ai:1.why washington and tehran keep talking past each other",
+   "text": "1.Why Washington and Tehran keep talking past each other"
+  },
+  {
+   "key": "ai:shocking moment alison hammond rushed off this morning clutching chest",
+   "text": "Shocking moment Alison Hammond rushed off This Morning clutching chest"
+  },
+  {
+   "key": "ai:polanski demands rent rise brake 'triple lock' in green party conference speech",
+   "text": "Polanski demands rent rise brake 'triple lock' in Green Party conference speech"
+  },
+  {
+   "key": "ai:nuclear waste armed guards face axe under cost-cutting plan",
+   "text": "Nuclear waste armed guards face axe under cost-cutting plan"
+  },
+  {
+   "key": "ai:where is she? alison hammond's absence explained as this morning presenter rushes out of studio",
+   "text": "WHERE IS SHE? Alison Hammond's absence explained as This Morning presenter rushes out of studio"
+  },
+  {
+   "key": "ai:woman who killed partner has murder conviction overturned",
+   "text": "Woman who killed partner has murder conviction overturned"
+  },
+  {
+   "key": "ai:woman who stabbed abusive partner to death wins bid to overturn murder conviction",
+   "text": "Woman who stabbed abusive partner to death wins bid to overturn murder conviction"
+  },
+  {
+   "key": "ai:murdered transgender new york times executive gifted child book about how to mourn your dead mom that chilled his wife to the core, she claimed in ugly unearthed documents",
+   "text": "Murdered transgender New York Times executive gifted child book about how to mourn your dead mom that chilled his wife to the core, she claimed in ugly unearthed documents"
+  },
+  {
+   "key": "ai:jesse baird's housemates raged at him for lounging around shirtless and 'cleanliness issues'. this week, the petty qualms they furiously texted about were seen in a whole new light - at his murder trial",
+   "text": "Jesse Baird's housemates raged at him for lounging around shirtless and 'cleanliness issues'. This week, the petty qualms they furiously texted about were seen in a whole new light - at his murder trial"
+  },
+  {
+   "key": "ai:new details emerge of christa pike's botched execution as satanic killer cackled and sang after double lethal dose",
+   "text": "New details emerge of Christa Pike's botched execution as Satanic killer cackled and sang after double lethal dose"
+  },
+  {
+   "key": "ai:da is removed from alleged cornell gang rape case as ny governor says he 'undercut the public's faith'",
+   "text": "DA is removed from alleged Cornell gang rape case as NY governor says he ‘undercut the public’s faith’"
+  },
+  {
+   "key": "ai:'this is now an active criminal investigation': ny ag says of cornell rape claims",
+   "text": "'This is now an active criminal investigation': NY AG says of Cornell rape claims"
+  },
+  {
+   "key": "ai:brit paratrooper, 28, was killed by explosion while helping ukrainian troops",
+   "text": "Brit paratrooper, 28, was killed by explosion while helping Ukrainian troops"
+  },
+  {
+   "key": "ai:russian scientist 'dies from plague' as top putin doc rushes to stop outbreak",
+   "text": "Russian scientist ‘dies from PLAGUE’ as top Putin doc rushes to stop outbreak"
+  },
+  {
+   "key": "ai:5 unanswered questions over raf 'terror plot' as iranian 'mastermind' arrested",
+   "text": "5 unanswered questions over RAF 'terror plot' as Iranian 'mastermind' arrested"
+  },
+  {
+   "key": "ai:princess andre, 19, sparks romance rumours as she cosies up to love island bad boy, 23, slammed for 'toxic' behaviour",
+   "text": "Princess Andre, 19, sparks romance rumours as she cosies up to Love Island bad boy, 23, slammed for 'toxic' behaviour"
+  },
+  {
+   "key": "ai:first-time buyers hit with double mortgage shock as five-year deals expire",
+   "text": "First-time buyers hit with double mortgage shock as five-year deals expire"
+  },
+  {
+   "key": "ai:two major drugs in shortage until 'at least 2027', causing widespread distress",
+   "text": "Two major drugs in shortage until 'at least 2027', causing widespread distress"
+  },
+  {
+   "key": "ai:all the celebs going topless in risqué new trend",
+   "text": "All the celebs going topless in risqué new trend"
+  },
+  {
+   "key": "ai:fires lit on streets across france after student protests force hundreds of schools to close",
+   "text": "Fires lit on streets across France after student protests force hundreds of schools to close"
+  },
+  {
+   "key": "ai:zack polanski urges brits to 'vote green' in order to drag labour even further left on rent controls, wealth taxes, banning north sea oil and gaza",
+   "text": "Zack Polanski urges Brits to 'vote Green' in order to drag Labour even further Left on rent controls, wealth taxes, banning North Sea oil and Gaza"
+  },
+  {
+   "key": "ai:fears multiple people trapped after trench collapses as medics rush to scene",
+   "text": "Fears multiple people trapped after trench collapses as medics rush to scene"
+  },
+  {
+   "key": "ai:city have a fight on their hands to fend off serious sanctions | rob harris",
+   "text": "City have a fight on their hands to fend off serious sanctions | Rob Harris"
+  },
+  {
+   "key": "ai:ai hallucinations are making entitled customers even worse",
+   "text": "AI hallucinations are making entitled customers even worse"
+  },
+  {
+   "key": "ai:michael douglas finally comes clean about secret relationship with 'romancing the stone' co-star kathleen turner after denying it for 40 years",
+   "text": "Michael Douglas finally comes clean about secret relationship with ‘Romancing the Stone’ co-star Kathleen Turner after denying it for 40 years"
+  },
+  {
+   "key": "ai:coveted us fighter jet sits at the center of trump's latest iran pressure test",
+   "text": "Coveted US fighter jet sits at the center of Trump’s latest Iran pressure test"
+  },
+  {
+   "key": "ai:palestine action crowdfunder for uk supreme court challenge blocked due to us sanctions",
+   "text": "Palestine Action crowdfunder for UK supreme court challenge blocked due to US sanctions"
+  },
+  {
+   "key": "ai:hero captain describes fight to open cockpit door while being attacked by co-pilot",
+   "text": "Hero captain describes fight to open cockpit door while being attacked by co-pilot"
+  },
+  {
+   "key": "ai:india clinch first women's hockey gold since 1982 at asiad; seal la28 olympics spot",
+   "text": "India clinch first women's hockey gold since 1982 at Asiad; seal LA28 Olympics spot"
+  },
+  {
+   "key": "ai:september jobs report misses expectations",
+   "text": "September jobs report misses expectations"
+  },
+  {
+   "key": "ai:best offer wins author marisa kashio returns with the top job — see the cover! (exclusive)",
+   "text": "Best Offer Wins Author Marisa Kashio Returns with The Top Job — See the Cover! (Exclusive)"
+  },
+  {
+   "key": "ai:chak de: india win historic women's hockey gold, end 44-year wait",
+   "text": "Chak De: India Win Historic Women's Hockey Gold, End 44-Year Wait"
+  },
+  {
+   "key": "ai:omani co-pilot mused about 'killing jews' in disturbing social media posts before hijacking attempt: report",
+   "text": "Omani co-pilot mused about ‘killing Jews’ in disturbing social media posts before hijacking attempt: report"
+  },
+  {
+   "key": "ai:hakeem jeffries says 'sky's the limit' for aoc in 2028 | exclusive",
+   "text": "Hakeem Jeffries says 'sky's the limit' for AOC in 2028 | Exclusive"
+  },
+  {
+   "key": "ai:injured, under attack, 'but one last...': chilling details indian pilot gave pm on flydubai nightmare",
+   "text": "Injured, under attack, 'but one last…': Chilling details Indian pilot gave PM on flydubai nightmare"
+  },
+  {
+   "key": "ai:jobs report: us adds just 29,000 jobs in september, badly missing expectations",
+   "text": "Jobs report: US adds just 29,000 jobs in September, badly missing expectations"
+  },
+  {
+   "key": "ai:woman tracked husband, his companion through hotel qr payment. then, a crime",
+   "text": "Woman tracked husband, his companion through hotel QR payment. Then, a crime"
+  },
+  {
+   "key": "ai:india end 44-year wait for an asian games gold in women's hockey",
+   "text": "India end 44-year wait for an Asian Games gold in women's hockey"
+  },
+  {
+   "key": "ai:pakistan presents 'fake' md asif a day after india killed lashkar terrorist",
+   "text": "Pakistan presents 'fake' Md Asif a day after India killed Lashkar terrorist"
+  },
+  {
+   "key": "ai:students protest against cjp's abhijeet dipke in latur, question silence on neet paper leak",
+   "text": "Students Protest Against CJP's Abhijeet Dipke In Latur, Question Silence On NEET Paper Leak"
+  },
+  {
+   "key": "ai:woman tries to stop police bus at jantar mantar, internet compares her to riya ahir",
+   "text": "Woman Tries To Stop Police Bus At Jantar Mantar, Internet Compares Her To Riya Ahir"
+  },
+  {
+   "key": "ai:the us is pressuring the eu to bring fuel prices down",
+   "text": "The US is pressuring the EU to bring fuel prices down"
+  },
+  {
+   "key": "ai:thousands gather for cjp's protest at mumbai's shivaji park; cpi(m) condemns detention of youngsters in delhi | live",
+   "text": "Thousands gather for CJP's protest at Mumbai's Shivaji Park; CPI(M) condemns detention of youngsters in Delhi | LIVE"
+  },
+  {
+   "key": "ai:i'm a pharmacist — these are five surprising flu symptoms you might not know",
+   "text": "I’m a pharmacist — these are five surprising flu symptoms you might not know"
+  },
+  {
+   "key": "ai:u.s. hiring slows with 29,000 jobs added in september",
+   "text": "U.S. Hiring Slows With 29,000 Jobs Added in September"
+  },
+  {
+   "key": "ai:stocks, bonds rise as weak jobs curb fed-hike bets",
+   "text": "Stocks, Bonds Rise as Weak Jobs Curb Fed-Hike Bets"
+  },
+  {
+   "key": "ai:capitol agenda: dems spend big to help hakeem's dream",
+   "text": "Capitol agenda: Dems spend big to help Hakeem’s dream"
+  },
+  {
+   "key": "ai:big oil and gavin newsom's perilous, winding road",
+   "text": "Big Oil and Gavin Newsom’s perilous, winding road"
+  },
+  {
+   "key": "ai:trump sets record for time magazine cover appearances with 56th edition",
+   "text": "Trump sets record for Time magazine cover appearances with 56th edition"
+  },
+  {
+   "key": "ai:paramount, warner bros. discovery merger to be called skydance, david ellison says",
+   "text": "Paramount, Warner Bros. Discovery Merger To Be Called Skydance, David Ellison Says"
+  },
+  {
+   "key": "ai:unemployment ticks up, u.s. adds disappointing number of jobs in september",
+   "text": "Unemployment Ticks Up, U.S. Adds Disappointing Number Of Jobs In September"
+  },
+  {
+   "key": "ai:\"love is blind netherlands\" viewers disgusted by jurriaan's \"black woman\" comment: \"my jaw dropped... he did not actually say that!?\"",
+   "text": "\"Love Is Blind Netherlands\" Viewers Disgusted By Jurriaan’s \"Black Woman\" Comment: \"My Jaw Dropped… He Did Not Actually Say That!?\""
+  },
+  {
+   "key": "ai:new york attorney general, governor outline next steps in cornell rape allegations investigation",
+   "text": "New York attorney general, governor outline next steps in Cornell rape allegations investigation"
+  },
+  {
+   "key": "ai:british paratrooper's death in ukraine was caused by explosion, coroner rules",
+   "text": "British paratrooper's death in Ukraine was caused by explosion, coroner rules"
+  },
+  {
+   "key": "ai:experts' view: why would bears cheer nifty's breakdown below 22,000?",
+   "text": "Experts' view: Why would bears cheer Nifty's breakdown below 22,000?"
+  },
+  {
+   "key": "ai:major league baseball taps indian cricket stars to expand baseball's reach with mumbai event",
+   "text": "Major League Baseball taps Indian cricket stars to expand baseball’s reach with Mumbai event"
+  },
+  {
+   "key": "ai:trump hit by brutal economic bombshell as election looms",
+   "text": "Trump Hit by Brutal Economic Bombshell as Election Looms"
+  },
+  {
+   "key": "ai:2.behind the curtain: ai's existential legal crisis",
+   "text": "2.Behind the Curtain: AI's existential legal crisis"
+  },
+  {
+   "key": "ai:sf's first public mandarin immersion school gets a temporary campus",
+   "text": "SF's first public Mandarin immersion school gets a temporary campus"
+  },
+  {
+   "key": "ai:dad of teen killed in a66 wrong way crash 'attacked man at son's funeral'",
+   "text": "Dad of teen killed in A66 wrong way crash 'attacked man at son's funeral'"
+  },
+  {
+   "key": "ai:reason why christa pike's accomplice avoided the death penalty despite being convicted of the same murder",
+   "text": "Reason why Christa Pike's accomplice avoided the death penalty despite being convicted of the same murder"
+  },
+  {
+   "key": "ai:dup leader says it is important drumcree talks continue",
+   "text": "DUP leader says it is important Drumcree talks continue"
+  },
+  {
+   "key": "ai:remains of 10 more infants found at site of former mother and baby home in tuam",
+   "text": "Remains of 10 more infants found at site of former mother and baby home in Tuam"
+  },
+  {
+   "key": "ai:as texas declares state of emergency over fuel shortage, what's dyed diesel?",
+   "text": "As Texas declares state of emergency over fuel shortage, what's dyed diesel?"
+  },
+  {
+   "key": "ai:rioter blasts woman in the face with a flamethrower and off-duty cop is kicked unconscious as french student protests descend into anarchy",
+   "text": "Rioter blasts woman in the face with a flamethrower and off-duty cop is kicked unconscious as French student protests descend into anarchy"
+  },
+  {
+   "key": "ai:gypsy rose blanchard breaks her silence on fiance's cause of death at 34",
+   "text": "Gypsy Rose Blanchard breaks her silence on fiance's cause of death at 34"
+  },
+  {
+   "key": "ai:fears number of people trapped in trench as emergency services at co down scene",
+   "text": "Fears number of people trapped in trench as emergency services at Co Down scene"
+  },
+  {
+   "key": "ai:how the woman in alleged cornell gang rape decided to push for justice",
+   "text": "How the woman in alleged Cornell gang rape decided to push for justice"
+  },
+  {
+   "key": "ai:missing girl, 4, found dead in neighbour's swimming pool after overnight search",
+   "text": "Missing girl, 4, found dead in neighbour's swimming pool after overnight search"
+  },
+  {
+   "key": "ai:woman, 20, 'sexually assaulted' in queue at primark as man, 40, is arrested",
+   "text": "Woman, 20, 'sexually assaulted' in queue at Primark as man, 40, is arrested"
+  },
+  {
+   "key": "ai:00s heartthrob singer reveals wife is pregnant with second child & shares due date",
+   "text": "00s heartthrob singer reveals wife is pregnant with second child & shares due date"
+  },
+  {
+   "key": "ai:barclays offers up to £600 in free cash as it launches new top deal",
+   "text": "Barclays offers up to £600 in FREE CASH as it launches new top deal"
+  },
+  {
+   "key": "ai:bowel cancer that kills half of patients rising in teens – 5 signs often missed",
+   "text": "Bowel cancer that kills half of patients rising in TEENS – 5 signs often missed"
+  },
+  {
+   "key": "ai:naked blunder & 22 people in a room... we host sex parties in budget hotels",
+   "text": "Naked blunder & 22 people in a room… we host sex parties in budget hotels"
+  },
+  {
+   "key": "ai:school protests send shivers down french government's spine",
+   "text": "School protests send shivers down French government's spine"
+  },
+  {
+   "key": "ai:zack polanski calls for three-year cap on rent price increases in green party conference speech",
+   "text": "Zack Polanski calls for three-year cap on rent price increases in Green party conference speech"
+  },
+  {
+   "key": "ai:meg's book 'gifted to princess eugenie' with personal note 'put up on ebay'",
+   "text": "Meg's book 'gifted to Princess Eugenie' with personal note 'put up on EBAY'"
+  },
+  {
+   "key": "ai:eu responds to trump's diesel export ban threat after emergency talks",
+   "text": "EU responds to Trump's diesel export ban threat after emergency talks"
+  },
+  {
+   "key": "ai:parrot-loving icon judi dench goes to war with petco over alleged bird abuse: 'ripping off their heads'",
+   "text": "Parrot-loving icon Judi Dench goes to war with Petco over alleged bird abuse: ‘Ripping off their heads’"
+  },
+  {
+   "key": "ai:tesco is first supermarket to offer paid 'safe leave' for victims of domestic abuse",
+   "text": "Tesco is first supermarket to offer paid ‘safe leave’ for victims of domestic abuse"
+  },
+  {
+   "key": "ai:how gordon became one of england's main men",
+   "text": "How Gordon became one of England's main men"
+  },
+  {
+   "key": "ai:'may bapu's timeless message keep guiding us': pm modi pays tribute to mahatma gandhi",
+   "text": "'May Bapu’s timeless message keep guiding us': PM Modi pays tribute to Mahatma Gandhi"
+  },
+  {
+   "key": "ai:fair isaac stock falls premarket as effects of mortgage-scoring changes continue to ripple",
+   "text": "Fair Isaac stock falls premarket as effects of mortgage-scoring changes continue to ripple"
+  },
+  {
+   "key": "ai:which coven academy character you are, based on your zodiac sign",
+   "text": "Which Coven Academy Character You Are, Based on Your Zodiac Sign"
+  },
+  {
+   "key": "ai:asiad 2026: boxers lead india's gold rush; wrestling, hockey add to glory",
+   "text": "Asiad 2026: Boxers Lead India's Gold Rush; Wrestling, Hockey Add To Glory"
+  },
+  {
+   "key": "ai:oil prices fall on report of potential diesel, crude stock release; brent back below $100",
+   "text": "Oil prices fall on report of potential diesel, crude stock release; Brent back below $100"
+  },
+  {
+   "key": "ai:flydubai attack puts israel aviation security under scrutiny, report alleges major lapse",
+   "text": "Flydubai attack puts Israel aviation security under scrutiny, report alleges major lapse"
+  },
+  {
+   "key": "ai:only one browser has this really helpful search tool",
+   "text": "Only one browser has this really helpful search tool"
+  },
+  {
+   "key": "ai:new york gov. kathy hochul and ag letitia james give an update on cornell rape case",
+   "text": "New York Gov. Kathy Hochul and AG Letitia James give an update on Cornell rape case"
+  },
+  {
+   "key": "ai:police launch criminal probe after five deaths at scandal-hit prison",
+   "text": "Police launch criminal probe after five deaths at scandal-hit prison"
+  },
+  {
+   "key": "ai:'lathi can stop a crowd but...': rahul gandhi on protest against cec gyanesh kumar",
+   "text": "'Lathi can stop a crowd but…': Rahul Gandhi on protest against CEC Gyanesh Kumar"
+  },
+  {
+   "key": "ai:opposition defies curbs, protests against gyanesh kumar in delhi; 1,100 detained",
+   "text": "Opposition defies curbs, protests against Gyanesh Kumar in Delhi; 1,100 detained"
+  },
+  {
+   "key": "ai:namma metro extends services on october 3, check last train timings",
+   "text": "Namma Metro Extends Services On October 3, Check Last Train Timings"
+  },
+  {
+   "key": "ai:fighting sharply intensifies across the taiz governorate",
+   "text": "Fighting sharply intensifies across the Taiz governorate"
+  },
+  {
+   "key": "ai:anti-ulez activist who blew up camera jailed for 15 years",
+   "text": "Anti-Ulez activist who blew up camera jailed for 15 years"
+  },
+  {
+   "key": "ai:strictly come dancing faces another huge blow in ratings bombshell",
+   "text": "Strictly Come Dancing faces another huge blow in ratings bombshell"
+  },
+  {
+   "key": "ai:labor market may not deliver consistent and sizable gains as it did in the past",
+   "text": "Labor market may not deliver consistent and sizable gains as it did in the past"
+  },
+  {
+   "key": "ai:us bond traders pull back on fed hike bets after weak jobs data",
+   "text": "US Bond Traders Pull Back on Fed Hike Bets After Weak Jobs Data"
+  },
+  {
+   "key": "ai:employers added 29,000 jobs in september, missing economic forecasts",
+   "text": "Employers added 29,000 jobs in September, missing economic forecasts"
+  },
+  {
+   "key": "ai:underwhelming job report gives trump midterm headwind",
+   "text": "Underwhelming Job Report Gives Trump Midterm Headwind"
+  },
+  {
+   "key": "ai:the grift that keeps on giving!",
+   "text": "THE GRIFT THAT KEEPS ON GIVING!"
+  },
+  {
+   "key": "ai:state takes over probe from tompkins county, where ivy league school is located",
+   "text": "State takes over probe from Tompkins County, where Ivy League school is located"
+  },
+  {
+   "key": "ai:seven eu countries push back against brussels plans for military space",
+   "text": "Seven EU countries push back against Brussels plans for military space"
+  },
+  {
+   "key": "ai:man charged with murder of woman in alderney",
+   "text": "Man charged with murder of woman in Alderney"
+  },
+  {
+   "key": "ai:meet sudhakar malli, rbi's new executive director",
+   "text": "Meet Sudhakar Malli, RBI's new Executive Director"
+  },
+  {
+   "key": "ai:rbi appoints sudhakar malli as executive director with effect from october 1",
+   "text": "RBI appoints Sudhakar Malli as Executive Director with effect from October 1"
+  },
+  {
+   "key": "ai:love triangle saga of bisexual senator, 50, takes dark twist",
+   "text": "Love Triangle Saga of Bisexual Senator, 50, Takes Dark Twist"
+  },
+  {
+   "key": "ai:time to consider becoming a bricklayer",
+   "text": "Time to Consider Becoming a Bricklayer"
+  },
+  {
+   "key": "ai:3.\"strange bedfellows\": bernie sanders, florida dems and a benchmark $250k donation",
+   "text": "3.\"Strange bedfellows\": Bernie Sanders, Florida Dems and a benchmark $250k donation"
+  },
+  {
+   "key": "ai:calif. county considers building massive $1.1b town for seniors",
+   "text": "Calif. county considers building massive $1.1B town for seniors"
+  },
+  {
+   "key": "ai:residents shaken as fourth person dies after plunging from luxury london tower block",
+   "text": "Residents shaken as fourth person dies after plunging from luxury London tower block"
+  },
+  {
+   "key": "ai:tommy robinson in the dock at court accused of harassing journalists",
+   "text": "Tommy Robinson in the dock at court accused of harassing journalists"
+  },
+  {
+   "key": "ai:polanski calls for three-year emergency cap on 'scandalous' private rents",
+   "text": "Polanski calls for three-year emergency cap on 'scandalous' private rents"
+  },
+  {
+   "key": "ai:woman says she's 'too hot to find love' as men are 'too shy' to ask her out",
+   "text": "Woman says she's 'too hot to find love' as men are 'too shy' to ask her out"
+  },
+  {
+   "key": "ai:score a touchdown over the bookies with this mega bet builder on the nfl london game by john ward",
+   "text": "Score a touchdown over the bookies with this mega bet builder on the NFL London game by John Ward"
+  },
+  {
+   "key": "ai:paramount-warner bros. is skydance",
+   "text": "Paramount-Warner Bros. Is Skydance"
+  },
+  {
+   "key": "ai:seven-year campaign against galway family leads to first arrest as woman (40s) detained",
+   "text": "Seven-year campaign against Galway family leads to first arrest as woman (40s) detained"
+  },
+  {
+   "key": "ai:michael j. fox, actor and advocate, to be promoted within order of canada",
+   "text": "Michael J. Fox, actor and advocate, to be promoted within Order of Canada"
+  },
+  {
+   "key": "ai:trump suffers another blow just one month before midterms as latest jobs report suggests us economy is in freefall",
+   "text": "Trump suffers another blow just one month before midterms as latest jobs report suggests US economy is in freefall"
+  },
+  {
+   "key": "ai:us added just 29,000 jobs in september in sharp drop from last month's gains",
+   "text": "US added just 29,000 jobs in September in sharp drop from last month’s gains"
+  },
+  {
+   "key": "ai:flydubai pilot tells modi that he couldn't 'let anyone die'",
+   "text": "Flydubai pilot tells Modi that he couldn't 'let anyone die'"
+  },
+  {
+   "key": "ai:donald trump launches mad rant about time before seemingly editing truth social post",
+   "text": "Donald Trump launches mad rant about time before seemingly editing Truth Social post"
+  },
+  {
+   "key": "ai:trump calls cornell 'a fine school' when asked about gang rape case",
+   "text": "Trump calls Cornell ‘a fine school’ when asked about gang rape case"
+  },
+  {
+   "key": "ai:in the last jobs report before the midterms, us job growth slowed and unemployment rose",
+   "text": "In the last jobs report before the midterms, US job growth slowed and unemployment rose"
+  },
+  {
+   "key": "ai:secrets of death row as smell of execution chamber & haunting gasps revealed",
+   "text": "Secrets of death row as smell of execution chamber & haunting gasps revealed"
+  },
+  {
+   "key": "ai:gen z view a social media like as a bigger sign of care than a cuppa",
+   "text": "Gen Z view a social media like as a bigger sign of care than a cuppa"
+  },
+  {
+   "key": "ai:rui pinto accuses portugal of 'state terrorism' as witness protection dropped",
+   "text": "Rui Pinto accuses Portugal of 'state terrorism' as witness protection dropped"
+  },
+  {
+   "key": "ai:under-25s face disability benefit axe in labour's u-turn despite mps' rejection",
+   "text": "Under-25s face disability benefit AXE in Labour’s U-turn despite MPs’ rejection"
+  },
+  {
+   "key": "ai:i quit adhd meds after they made me worse... why so many are ditching pills",
+   "text": "I quit ADHD meds after they made me WORSE… why so many are ditching pills"
+  },
+  {
+   "key": "ai:i can't find a man because i'm too attractive – guys are overwhelmed by me",
+   "text": "I can’t find a man because I’m TOO attractive – guys are overwhelmed by me"
+  },
+  {
+   "key": "ai:woman in cornell university rape case was 'failed at every turn', new york governor says",
+   "text": "Woman in Cornell University rape case was 'failed at every turn', New York governor says"
+  },
+  {
+   "key": "ai:polanski says he does not need to win '50/50' byelection to stay green leader",
+   "text": "Polanski says he does not need to win ‘50/50’ byelection to stay Green leader"
+  },
+  {
+   "key": "ai:exclusive has a gift from meghan to eugenie ended up on ebay? mystery as 'deeply personal' copy of duchess's book the bench with heartfelt handwritten note to 'eug and jack' emerges for sale for £20k",
+   "text": "EXCLUSIVE Has a gift from Meghan to Eugenie ended up on eBay? Mystery as 'deeply personal' copy of duchess's book The Bench with heartfelt handwritten note to 'Eug and Jack' emerges for sale for £20K"
+  },
+  {
+   "key": "ai:former disney tv chairman spotted dining with new paramount co-ceo, amid report warners film heads are out",
+   "text": "Former Disney TV chairman spotted dining with new Paramount co-CEO, amid report Warners film heads are out"
+  },
+  {
+   "key": "ai:trump's new move could change what americans must disclose to irs",
+   "text": "Trump's new move could change what Americans must disclose to IRS",
+   "article": "The Trump administration proposes requiring immigration status disclosure on the annual IRS tax form that nearly all workers file each year. Fox News Flash top headlines are here. Check out what's clicking on FoxNews.com. The Trump administration has proposed requiring U.S. taxpayers to disclose their citizenship and work authorization status to the IRS on the annual tax form that nearly all workers file each year. The administration claims the proposed requirement would help federal officials stop illegal migrants from collecting federal benefits they are not eligible for, which officials argue could save taxpayers up to $2 billion. The IRS posted its draft 1040 form for 2026 in late August, which includes the question, \"At the time you file your return, are you, and your spouse if filing jointly, a U.S. citizen, U.S. national, or an alien lawfully authorized to work in the U.S.?\" The form has \"Yes\" and \"No\" checkboxes for both the filer and their spouse. A draft of a second form, Schedule 3-A, which is used to claim refundable tax credits, features a similar question. APPEALS COURT UPHOLDS ORDER BLOCKING IRS FROM SHARING TAXPAYER DATA WITH ICE"
+  },
+  {
+   "key": "ai:man city's 'irrefutable evidence' and brutal reality in bid to appeal premier league verdict",
+   "text": "Man City's 'irrefutable evidence' and brutal reality in bid to appeal Premier League verdict"
+  },
+  {
+   "key": "ai:after bankruptcy, he was banned from sports betting sites. then he discovered kalshi",
+   "text": "After bankruptcy, he was banned from sports betting sites. Then he discovered Kalshi"
+  },
+  {
+   "key": "ai:zack polanski calls for three-year cap on rent price increases in green party conference speech – uk politics live",
+   "text": "Zack Polanski calls for three-year cap on rent price increases in Green party conference speech – UK politics live"
+  },
+  {
+   "key": "ai:'political engagement with houthis': pak reveals agenda of emergency mecca pact meet",
+   "text": "'Political engagement with Houthis': Pak reveals agenda of emergency Mecca pact meet"
+  },
+  {
+   "key": "ai:shain rose's next kept in paradise book is dark romance hush hush — read an excerpt! (exclusive)",
+   "text": "Shain Rose’s Next Kept in Paradise Book Is Dark Romance Hush Hush — Read an Excerpt! (Exclusive)"
+  },
+  {
+   "key": "ai:'i was injured but couldn't let passengers die': captain machchhar to pm modi",
+   "text": "'I Was Injured But Couldn't Let Passengers Die': Captain Machchhar To PM Modi"
+  },
+  {
+   "key": "ai:trump wants south korea in on alaska lng. here's why seoul is cautious",
+   "text": "Trump wants South Korea in on Alaska LNG. Here’s why Seoul is cautious",
+   "article": "South Korea remains cautious on Alaska LNG amid concerns over its high costs and commercial risks. South Korea is taking a cautious approach to the long-planned Alaska liquefied natural gas project, despite U.S. President Donald Trump touting it as part of Seoul's $200 billion investment package in the U.S. Trump said late Wednesday that the two countries had agreed to work on the $50 billion project, but South Korean President Lee Jae Myung pushed back, saying South Korea's participation would hinge on its financial viability and legal compliance. At the heart of the debate is the scale and cost of getting Alaska's vast natural gas resources to overseas buyers. The Alaska LNG project seeks to transport natural gas through an approximately 800-mile pipeline from Prudhoe Bay in Alaska's North Slope to an LNG facility in Nikiski in the south, according to the Alaska Gasline Development Corporation. The integrated project, which would have capacity to produce 20 million metric tons of LNG annually, is estimated to cost between $44.5 billion and $54.5 billion, according to Go Katayama, principal insight analyst at Kpler. Shipping LNG from Nikiski to South Korea would take roughly seven to nine days, compared with around 20 to 30 days from the U.S. Gulf Coast, according to Seung Hoon Yoo, professor at the Department of Future Energy Convergence at Seoul National University of Science and Technology."
+  },
+  {
+   "key": "ai:fox news poll shakes up texas senate race between paxton, talarico",
+   "text": "Fox News poll shakes up Texas Senate race between Paxton, Talarico"
+  },
+  {
+   "key": "ai:'gyanesh kumar istifa do' slogans shouted at mumbai's jampacked shivaji park",
+   "text": "'Gyanesh Kumar istifa do' slogans shouted at Mumbai's jampacked Shivaji Park"
+  },
+  {
+   "key": "ai:midterm polls that caught our eye this week show more good news for democrats",
+   "text": "Midterm polls that caught our eye this week show more good news for Democrats"
+  },
+  {
+   "key": "ai:i covered man city scandal from the start – this is how it changed football and me",
+   "text": "I covered Man City scandal from the start – this is how it changed football and me",
+   "article": "The Man City case has turned football upside down and touched other industries, including politics after prime minister Andy Burnham’s comments, but, as Miguel Delaney details after years of reporting on the scandal, the story has changed the sport and those covering it Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. I n one of many conversations I’ve been having about the Manchester City case this week, a contact suddenly stopped mid-rant. They remarked: “This is like the World Cup final for you, isn’t it?” I initially bristled at that suggestion a bit, since the World Cup final is the World Cup final. Covering such special occasions like that are one of the reasons you want to get into this job. It is everything around such occasions that has changed this job and the sport, however, ensuring you cover spheres well outside what you ever anticipated, such as sportswashing. In truth, that contact wasn’t the only person to say something similar this week."
+  },
+  {
+   "key": "ai:tesla sales smash wall street's expectations",
+   "text": "Tesla sales smash Wall Street's expectations"
+  },
+  {
+   "key": "ai:indian pilot's desperate final push to open flydubai's cockpit door",
+   "text": "Indian pilot’s desperate final push to open flydubai's cockpit door"
+  },
+  {
+   "key": "ai:'israel will never forget captain smit machchhar': ambassador reuven azar says pilot will be honoured",
+   "text": "‘Israel Will Never Forget Captain Smit Machchhar’: Ambassador Reuven Azar Says Pilot Will Be Honoured"
+  },
+  {
+   "key": "ai:naseeruddin shah joins cjp protest in mumbai over sir, meets founder abhijeet dipke",
+   "text": "Naseeruddin Shah Joins CJP Protest In Mumbai Over SIR, Meets Founder Abhijeet Dipke"
+  },
+  {
+   "key": "ai:trump says south korea oil deal now includes additional $8.4bn oil recovery project",
+   "text": "Trump says South Korea oil deal now includes additional $8.4bn oil recovery project"
+  },
+  {
+   "key": "ai:what is the 'gem granites' veeramani pocso act case all about? | explained",
+   "text": "What is the ‘Gem Granites’ Veeramani POCSO Act case all about? | Explained"
+  },
+  {
+   "key": "ai:man city appeal statement issued as erling haaland could join rivals for free",
+   "text": "Man City appeal statement issued as Erling Haaland could join rivals for free"
+  },
+  {
+   "key": "ai:stocks rise, yields fall on softer payrolls",
+   "text": "Stocks Rise, Yields Fall on Softer Payrolls"
+  },
+  {
+   "key": "ai:dow opens higher, yields fall as hiring softens",
+   "text": "Dow Opens Higher, Yields Fall as Hiring Softens"
+  },
+  {
+   "key": "ai:here are the key takeaways from the us jobs report for september",
+   "text": "Here Are the Key Takeaways From the US Jobs Report for September"
+  },
+  {
+   "key": "ai:flydubai captain tells survival story to india's leader: \"i was fighting for my life\"",
+   "text": "FlyDubai captain tells survival story to India's leader: \"I was fighting for my life\""
+  },
+  {
+   "key": "ai:employers added 29k jobs in september, jobless rate ticks up",
+   "text": "Employers added 29K jobs in September, jobless rate ticks up"
+  },
+  {
+   "key": "ai:germany's weimar lights are flashing",
+   "text": "Germany’s Weimar Lights Are Flashing"
+  },
+  {
+   "key": "ai:trump's 'pitch perfect' project announcements may be too late to help the gop",
+   "text": "Trump’s ‘pitch perfect’ project announcements may be too late to help the GOP"
+  },
+  {
+   "key": "ai:latest updates: reflecting pool target 'relieved,' soccer scandal appeal, w.h. midterms abortion plea, more...",
+   "text": "LATEST UPDATES: Reflecting Pool Target 'Relieved,' Soccer Scandal Appeal, W.H. Midterms Abortion Plea, MORE…"
+  },
+  {
+   "key": "ai:france weighs emergency oil release as us pressure mounts ahead of g7",
+   "text": "France weighs emergency oil release as US pressure mounts ahead of G7"
+  },
+  {
+   "key": "ai:hdfc bank names new ceo: how bank stocks fared after past ceo changes",
+   "text": "HDFC Bank names new CEO: How bank stocks fared after past CEO changes"
+  },
+  {
+   "key": "ai:bengaluru-mumbai vande bharat sleeper, fastest direct train between two cities, to be flagged off this month: check schedule, stops, travel time, departure and arrival timings",
+   "text": "Bengaluru-Mumbai Vande Bharat Sleeper, fastest direct train between two cities, to be flagged off this month: Check schedule, stops, travel time, departure and arrival timings"
+  },
+  {
+   "key": "ai:4.wikimedia's ceo on the ai traffic armageddon",
+   "text": "4.Wikimedia's CEO on the AI traffic armageddon"
+  },
+  {
+   "key": "ai:bayeux tapestry visitors turned away over clash with chancellor's gala",
+   "text": "Bayeux Tapestry visitors turned away over clash with Chancellor’s gala"
+  },
+  {
+   "key": "ai:breaking: police car crashes into shop and homes evacuated - updates",
+   "text": "BREAKING: Police car crashes into shop and homes evacuated - updates"
+  },
+  {
+   "key": "ai:man who witnessed christa pike's attempted execution describes haunting moment they knew something was wrong",
+   "text": "Man who witnessed Christa Pike's attempted execution describes haunting moment they knew something was wrong"
+  },
+  {
+   "key": "ai:minister warns under-18s using e-scooters now 'illegal'",
+   "text": "Minister warns Under-18s using e-scooters now 'illegal'"
+  },
+  {
+   "key": "ai:europe rearms: files reveal extent of plans for a new 'defence union'",
+   "text": "Europe rearms: files reveal extent of plans for a new ‘defence union’"
+  },
+  {
+   "key": "ai:top democrats slam 'trump's failing economic agenda' after weaker-than-expected jobs growth",
+   "text": "Top Democrats slam ‘Trump’s failing economic agenda’ after weaker-than-expected jobs growth"
+  },
+  {
+   "key": "ai:cnn obtains new bodycam footage of luigi mangione's arrest",
+   "text": "CNN obtains new bodycam footage of Luigi Mangione’s arrest"
+  },
+  {
+   "key": "ai:terrifying moment boy dangles from ferris wheel after sneaking away from dad",
+   "text": "Terrifying moment boy dangles from Ferris wheel after sneaking away from dad"
+  },
+  {
+   "key": "ai:abandoned cold war bunker designed to protect brits from nuclear attack on sale",
+   "text": "Abandoned Cold War bunker designed to protect Brits from nuclear attack on sale"
+  },
+  {
+   "key": "ai:tragic details emerge after motorhead guitarist died from op 'complications'",
+   "text": "Tragic details emerge after Motorhead guitarist died from op 'complications'"
+  },
+  {
+   "key": "ai:legendary subway rival confirms more stores coming to uk in 'major' rollout",
+   "text": "Legendary Subway rival confirms MORE stores coming to UK in ‘major’ rollout"
+  },
+  {
+   "key": "ai:my nose reconstructed with my rib after nosebleed when i jumped off boat",
+   "text": "My nose reconstructed with my RIB after nosebleed when I jumped off boat"
+  },
+  {
+   "key": "ai:i landed 'dream' job – but boss faked being lord to dupe people out of £200k",
+   "text": "I landed 'dream' job – but boss FAKED being Lord to dupe people out of £200k"
+  },
+  {
+   "key": "ai:plaid's rhun ap iorwerth makes first party conference speech since winning senedd election",
+   "text": "Plaid's Rhun ap Iorwerth makes first party conference speech since winning Senedd election"
+  },
+  {
+   "key": "ai:andy burnham urged by lib dems to reveal all meetings with owners of manchester city",
+   "text": "Andy Burnham urged by Lib Dems to reveal all meetings with owners of Manchester City"
+  },
+  {
+   "key": "ai:fans fear for alison hammond as she's pulled off air during this morning",
+   "text": "Fans fear for Alison Hammond as she's pulled off air during This Morning"
+  },
+  {
+   "key": "ai:chad lowe's 13-year-old daughter died by suicide",
+   "text": "Chad Lowe’s 13-year-old daughter died by suicide"
+  },
+  {
+   "key": "ai:the u.s. added only 29,000 jobs in september as job market lacks spark",
+   "text": "The U.S. added only 29,000 jobs in September as job market lacks spark"
+  },
+  {
+   "key": "ai:seized shipping containers used as barricades ahead of imran khan protest march",
+   "text": "Seized shipping containers used as barricades ahead of Imran Khan protest march"
+  },
+  {
+   "key": "ai:'gandhi is soul, ambedkar backbone of india': cjp's dipke at shivaji park protest",
+   "text": "'Gandhi is soul, Ambedkar backbone of India': CJP's Dipke at Shivaji Park protest"
+  },
+  {
+   "key": "ai:where to watch every season of big brother",
+   "text": "Where to Watch Every Season of Big Brother"
+  },
+  {
+   "key": "ai:labor market faltered in september as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+   "text": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%"
+  },
+  {
+   "key": "ai:'perfect storm': el niño goes off the charts",
+   "text": "'Perfect storm': El Niño goes off the charts"
+  },
+  {
+   "key": "ai:dipke explains why cjp is holding mumbai protest despite jantar mantar outcome",
+   "text": "Dipke explains why CJP is holding Mumbai protest despite Jantar Mantar outcome"
+  },
+  {
+   "key": "ai:the new starbucks aerocano is built for style, not substance",
+   "text": "The new Starbucks Aerocano is built for style, not substance"
+  },
+  {
+   "key": "ai:cornell survey showed increase in reports by female undergrads of nonconsensual sexual contact",
+   "text": "Cornell survey showed increase in reports by female undergrads of nonconsensual sexual contact"
+  },
+  {
+   "key": "ai:man city confirm appeal after premier league charges verdict",
+   "text": "Man City confirm appeal after Premier League charges verdict"
+  },
+  {
+   "key": "ai:karnataka sir: more cases of form-7s filed to delete muslim voter names crop up",
+   "text": "Karnataka SIR: More cases of Form-7s filed to delete Muslim voter names crop up"
+  },
+  {
+   "key": "ai:uae calls flydubai incident 'terrorist act', praises indian pilot smit machchhar",
+   "text": "UAE Calls Flydubai Incident ‘Terrorist Act’, Praises Indian Pilot Smit Machchhar"
+  },
+  {
+   "key": "ai:'treat me as a son of andhra': anant ambani's emotional appeal to chandrababu naidu",
+   "text": "‘Treat Me As A Son Of Andhra’: Anant Ambani’s Emotional Appeal To Chandrababu Naidu"
+  },
+  {
+   "key": "ai:uk government says no cause for concern over energy supplies",
+   "text": "UK government says no cause for concern over energy supplies"
+  },
+  {
+   "key": "ai:visa in itself does not guarantee entry into india: what does the delhi hc say?",
+   "text": "Visa in itself does not guarantee entry into India: What does the Delhi HC say?"
+  },
+  {
+   "key": "ai:diversity push for lawyers scrapped after backlash",
+   "text": "Diversity push for lawyers scrapped after backlash"
+  },
+  {
+   "key": "ai:jobs staying steady before midterms, but so is inflation",
+   "text": "Jobs Staying Steady Before Midterms, But So Is Inflation"
+  },
+  {
+   "key": "ai:cornell frat brother apologized to jane doe after alleged rape, texts show",
+   "text": "Cornell frat brother apologized to Jane Doe after alleged rape, texts show"
+  },
+  {
+   "key": "ai:democrats push for a bigger majority that would alleviate headaches for hakeem jeffries",
+   "text": "Democrats push for a bigger majority that would alleviate headaches for Hakeem Jeffries"
+  },
+  {
+   "key": "ai:what to know about cornell's alleged frat house gang-rape case and the 'cornell 7'",
+   "text": "What to know about Cornell's alleged frat house gang-rape case and the 'Cornell 7'"
+  },
+  {
+   "key": "ai:trump vs europe as us presses for release of emergency diesel stocks",
+   "text": "Trump vs Europe as US presses for release of emergency diesel stocks"
+  },
+  {
+   "key": "ai:hundreds of schools closed as fiery french student protests spread",
+   "text": "Hundreds of schools closed as fiery French student protests spread"
+  },
+  {
+   "key": "ai:rbi rate hike likely next week: experts share equity-debt strategy to consider",
+   "text": "RBI rate hike likely next week: Experts share equity-debt strategy to consider"
+  },
+  {
+   "key": "ai:mumbai airport plans rs 2,000 crore revamp to handle 55 flights an hour",
+   "text": "Mumbai airport plans Rs 2,000 crore revamp to handle 55 flights an hour"
+  },
+  {
+   "key": "ai:what vienna lost when it lost its jews",
+   "text": "What Vienna Lost When It Lost Its Jews"
+  },
+  {
+   "key": "ai:5.inside the ai industry's grassroots rebellion",
+   "text": "5.Inside the AI industry's grassroots rebellion"
+  },
+  {
+   "key": "ai:hiring pulled back in september, as u.s. economy added 29,000 jobs",
+   "text": "Hiring pulled back in September, as U.S. economy added 29,000 jobs"
+  },
+  {
+   "key": "ai:man city and premier league statements in full as appeal lodged",
+   "text": "Man City and Premier League statements in full as appeal lodged"
+  },
+  {
+   "key": "ai:bee network bus seen on wrong side of motorway as it drives into oncoming traffic",
+   "text": "Bee Network bus seen on wrong side of motorway as it drives into oncoming traffic"
+  },
+  {
+   "key": "ai:government issues update on diesel shortage fears after confirming who could get first priority",
+   "text": "Government issues update on diesel shortage fears after confirming who could get first priority"
+  },
+  {
+   "key": "ai:emergency response to workplace incident in co down",
+   "text": "Emergency response to workplace incident in Co Down"
+  },
+  {
+   "key": "ai:exclusive the whispers linking dylan alcott and model rebecca jobson after her split from surfer taj burrow - as questions linger over what really happened with chantelle otten",
+   "text": "EXCLUSIVE The whispers linking Dylan Alcott and model Rebecca Jobson after her split from surfer Taj Burrow - as questions linger over what really happened with Chantelle Otten"
+  },
+  {
+   "key": "ai:us bonds rally after weaker-than-expected jobs report shows hiring slowdown",
+   "text": "US bonds rally after weaker-than-expected jobs report shows hiring slowdown"
+  },
+  {
+   "key": "ai:top democrats slam 'trump's failing economic agenda' after weaker-than-expected jobs growth – us politics live",
+   "text": "Top Democrats slam ‘Trump’s failing economic agenda’ after weaker-than-expected jobs growth – US politics live"
+  },
+  {
+   "key": "ai:fed-up aaron rodgers completely ignores steelers teammate in awkward sideline moment",
+   "text": "Fed-up Aaron Rodgers completely ignores Steelers teammate in awkward sideline moment"
+  },
+  {
+   "key": "ai:gypsy rose blanchard breaks silence on death of fiancé ken urker",
+   "text": "Gypsy Rose Blanchard breaks silence on death of fiancé Ken Urker"
+  },
+  {
+   "key": "ai:mangione's arrest videos were sealed from the public until now. how cnn got them",
+   "text": "Mangione’s arrest videos were sealed from the public until now. How CNN got them"
+  },
+  {
+   "key": "ai:russian biker 'spy' unmasked as 'mastermind' of foiled airport drone attack",
+   "text": "Russian biker ‘spy’ unmasked as ‘mastermind’ of foiled airport drone attack"
+  },
+  {
+   "key": "ai:moment dad and son threaten to kill neighbour's dogs in row over fly-tipping",
+   "text": "Moment dad and son threaten to kill neighbour's dogs in row over fly-tipping"
+  },
+  {
+   "key": "ai:ex-prem ace lands shock efl manager job & says 'i can't wait to get going'",
+   "text": "Ex-Prem ace lands shock EFL manager job & says 'I can't wait to get going'"
+  },
+  {
+   "key": "ai:top uk plus-sized brand forced to shut due to 'huge' rise in weight loss drugs",
+   "text": "Top UK plus-sized brand forced to shut due to ‘huge’ rise in weight loss drugs"
+  },
+  {
+   "key": "ai:woman who killed abusive partner has murder conviction overturned",
+   "text": "Woman who killed abusive partner has murder conviction overturned"
+  },
+  {
+   "key": "ai:exclusive i was an official witness at christa pike's botched execution. her tears, laughter, disturbing snores and the rock they placed on her chest will haunt me forever",
+   "text": "EXCLUSIVE I was an official witness at Christa Pike's botched execution. Her tears, laughter, disturbing snores and the rock they placed on her chest will haunt me forever"
+  },
+  {
+   "key": "ai:a selection of gizmos and gadgets that have caught our attention lately.",
+   "text": "A selection of gizmos and gadgets that have caught our attention lately."
+  },
+  {
+   "key": "ai:what's in your cart for bandcamp friday?",
+   "text": "What’s in your cart for Bandcamp Friday?"
+  },
+  {
+   "key": "ai:new york gov. hochul and special prosecutor address cornell gang rape claims",
+   "text": "New York Gov. Hochul and special prosecutor address Cornell gang rape claims"
+  },
+  {
+   "key": "ai:polanski calls for three-year cap on private rent rises as he says greens keep labour in check",
+   "text": "Polanski calls for three-year cap on private rent rises as he says Greens keep Labour in check"
+  },
+  {
+   "key": "ai:reform uk-run council boycotts reporter after row over potholes",
+   "text": "Reform UK-run council boycotts reporter after row over potholes"
+  },
+  {
+   "key": "ai:was long-awaited win a turning point for bellamy?",
+   "text": "Was long-awaited win a turning point for Bellamy?",
+   "article": "Has the impressive 2-1 victory over Norway changed the mood music for Wales and restored fans confidence in head coach Craig Bellamy? And perhaps the end of Craig Bellamy's summer of discontent. The significance of the victory over Norway was not lost on the Wales head coach. After all, goals from Neco Williams and Dan James – as well as shutting out Erling Haaland – delivered not only Wales' first win in seven games, but their first ever in Nations League A. Indeed, this was only the second time Wales have beaten a side ranked higher than them in a competitive fixture since reaching the semi-finals of Euro 2016. And even if it wasn't obvious at the final whistle as he calmly shook hands with Stale Solbakken and his staff, Bellamy knew it too. From March's disappointment over missing out on the World Cup, to June's dalliance with Burnley, it has been a testing time for a head coach still trying to make his mark with his country."
+  },
+  {
+   "key": "ai:survey shows 4 in 10 workers earning over $300,000 are living paycheck to paycheck",
+   "text": "Survey shows 4 in 10 workers earning over $300,000 are living paycheck to paycheck"
+  },
+  {
+   "key": "ai:gold's rs 1.5 lakh price drives buyers to silver who get 650g silver at same price",
+   "text": "Gold's Rs 1.5 lakh price drives buyers to silver who get 650g silver at same price"
+  },
+  {
+   "key": "ai:google wants to run ai from space, and its fridge-sized satellite just reached orbit",
+   "text": "Google wants to run AI from space, and its fridge-sized satellite just reached orbit"
+  },
+  {
+   "key": "ai:stock rise after soft jobs report",
+   "text": "Stock rise after soft jobs report"
+  },
+  {
+   "key": "ai:traders now see little chance of a fed rate hike in october after weak jobs report",
+   "text": "Traders now see little chance of a Fed rate hike in October after weak jobs report"
+  },
+  {
+   "key": "ai:jim cramer's top 10 things to watch in the stock market friday",
+   "text": "Jim Cramer’s top 10 things to watch in the stock market Friday"
+  },
+  {
+   "key": "ai:'improve or...': cjp alleges 'police brutality' at jantar mantar; 500 detained",
+   "text": "‘Improve or…’: CJP alleges ‘police brutality’ at Jantar Mantar; 500 detained"
+  },
+  {
+   "key": "ai:democrats expand battleground for house, reaching into bloodred districts",
+   "text": "Democrats expand battleground for House, reaching into bloodred districts"
+  },
+  {
+   "key": "ai:ap's morning news brief",
+   "text": "AP’s Morning News Brief"
+  },
+  {
+   "key": "ai:labor market slowed in september, final monthly jobs report before midterms shows",
+   "text": "Labor market slowed in September, final monthly jobs report before midterms shows"
+  },
+  {
+   "key": "ai:uk sidelined from crisis eu diesel talks after trump threatens to cut off supplies",
+   "text": "UK sidelined from crisis EU diesel talks after Trump threatens to cut off supplies"
+  },
+  {
+   "key": "ai:'i want to hug vijay': jantar mantar protester lies on road with unusual demand | video",
+   "text": "'I Want To Hug Vijay': Jantar Mantar Protester Lies On Road With Unusual Demand | Video"
+  },
+  {
+   "key": "ai:asian games: mohsin naqvi to not attend india vs pakistan men's cricket final",
+   "text": "Asian Games: Mohsin Naqvi to not attend India vs Pakistan men's cricket final"
+  },
+  {
+   "key": "ai:'us should join icc': zohran mamdani calls for enforcement of netanyahu arrest warrant",
+   "text": "‘US Should Join ICC’: Zohran Mamdani Calls For Enforcement Of Netanyahu Arrest Warrant"
+  },
+  {
+   "key": "ai:booth-less toll fee collection at tamil nadu's paranur: how does the multi-lane free flow system work?",
+   "text": "Booth-less toll fee collection at Tamil Nadu’s Paranur: how does the multi-lane free flow system work?",
+   "article": "Paranur toll plaza introduces booth-less MLFF tolling using FASTag, RFID, ANPR for seamless, cashless, high-speed traffic flow. Subscribed with another email? Logout and Login with that one. Account subscription benefits alongside Premium Stories, Editorials, Opinions and more. Unlock these with Subscription The View From India Looking at World Affairs from the Indian perspective. First Day First Show News and reviews from the world of cinema and streaming. Today's Cache Your download of the top 5 technology stories of the day. Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!"
+  },
+  {
+   "key": "ai:mystery as book 'signed by meghan markle to princess eugenie' appears for sale on ebay",
+   "text": "Mystery as book 'signed by Meghan Markle to Princess Eugenie' appears for sale on eBay"
+  },
+  {
+   "key": "ai:tesla sales slump in third quarter",
+   "text": "Tesla Sales Slump in Third Quarter"
+  },
+  {
+   "key": "ai:burnham's \"new economy\" vow",
+   "text": "Burnham’s “New Economy” Vow"
+  },
+  {
+   "key": "ai:former olympian david hearn speaks out after vandalism case is permanently dismissed",
+   "text": "Former Olympian David Hearn speaks out after vandalism case is permanently dismissed"
+  },
+  {
+   "key": "ai:who is gary sutton? inmate's execution paused after christa pike survives",
+   "text": "Who Is Gary Sutton? Inmate’s Execution Paused After Christa Pike Survives"
+  },
+  {
+   "key": "ai:g7 to hold emergency talks over possible diesel release",
+   "text": "G7 to hold emergency talks over possible diesel release"
+  },
+  {
+   "key": "ai:us sends third carrier group to gulf in biggest buildup since 2003",
+   "text": "US sends third carrier group to Gulf in biggest buildup since 2003"
+  },
+  {
+   "key": "ai:uae terms flydubai flight incident a 'terrorist act', praises indian pilot",
+   "text": "UAE terms FlyDubai flight incident a ‘terrorist act’, praises Indian pilot"
+  },
+  {
+   "key": "ai:reliance plans rs 1 lakh crore investment in andhra pradesh, says anant ambani",
+   "text": "Reliance plans Rs 1 lakh crore investment in Andhra Pradesh, says Anant Ambani"
+  },
+  {
+   "key": "ai:the best seller that's nearly impossible to finish reading",
+   "text": "The Best Seller That’s Nearly Impossible to Finish Reading"
+  },
+  {
+   "key": "ai:\"algorithms lack the spark\": pope leo xiv calls on church to ally with artists against ai",
+   "text": "\"Algorithms lack the spark\": Pope Leo XIV calls on church to ally with artists against AI"
+  },
+  {
+   "key": "ai:circus circus' hidden amusement park is fun as hell",
+   "text": "Circus Circus' hidden amusement park is fun as hell"
+  },
+  {
+   "key": "ai:alaskan voters are 'done with trump' as climbing gas prices cause cost of living worries",
+   "text": "Alaskan voters are ‘done with Trump’ as climbing gas prices cause cost of living worries"
+  },
+  {
+   "key": "ai:family of teen killed when car drove into river pay tribute to 'beautiful girl'",
+   "text": "Family of teen killed when car drove into river pay tribute to 'beautiful girl'"
+  },
+  {
+   "key": "ai:arsenal make decision over 'huge scale masterplan' to expand emirates",
+   "text": "Arsenal make decision over 'huge scale masterplan' to expand Emirates"
+  },
+  {
+   "key": "ai:the best new books to read in october",
+   "text": "The best new books to read in October",
+   "article": "Our pick of 14 brilliant new reads, from funny pageturners to gripping nonfiction The turn of a new month is a great moment for any bibliophile – after all, it means the arrival of a fresh batch of books – but when it comes to October, when publishers release their big autumn books each year, there is possibly no moment better. From the return of Lessons in Chemistry author Bonnie Garmus to new work from Women’s Prize winning Barbara Kingsolver and Judi Dench’s highly-anticipated memoir , here is our pick of the best… In 1980s New York, graduate Batter lands a dream job at the world’s most prestigious poetry quarterly, only to find warring twin editors and a spectacularly dysfunctional workplace. A joyful, quirky follow-up to Lessons in Chemistry . After her beloved older brother takes his own life, 11-year-old Livia finds solace at the piano. A college music scholarship later offers an escape from her Appalachian family farm – and opens up a seductive, complicated new world in this heart-rending story from the author of Demon Copperhead. Two musicians forge remarkable paths across continents: Dublin-born John Field becomes a celebrated composer, while orphaned Adelaide Percheron escapes French India for Europe and falls for pianoforte. Eventually, their lives – and ambitions – collide in this searing new story from the Pulitzer winner. When feared literary critic Selina tears Parker’s second novel to pieces, their confrontation becomes a viral sensation – and unexpectedly"
+  },
+  {
+   "key": "ai:not too complex: napoleon's centuries-old code cracked by ai in six hours",
+   "text": "Not too complex: Napoleon’s centuries-old code cracked by AI in six hours"
+  },
+  {
+   "key": "ai:crown princess ingrid alexandra steps up after mum queen mette-marit cancels major appearance",
+   "text": "Crown Princess Ingrid Alexandra steps up after mum Queen Mette-Marit cancels major appearance"
+  },
+  {
+   "key": "ai:accused cornell frat bros",
+   "text": "Accused Cornell Frat Bros"
+  },
+  {
+   "key": "ai:exclusive 'godfather of the swimming pool industry' charged with assaulting 'first love' as court rejects bid to keep case details secret",
+   "text": "EXCLUSIVE 'Godfather of the swimming pool industry' charged with assaulting 'first love' as court rejects bid to keep case details secret"
+  },
+  {
+   "key": "ai:us added just 29,000 jobs in september in sharp drop",
+   "text": "US added just 29,000 jobs in September in sharp drop"
+  },
+  {
+   "key": "ai:irish schools likely to close for 24-hr strike in days with alert for parents",
+   "text": "Irish schools likely to close for 24-hr strike in DAYS with alert for parents"
+  },
+  {
+   "key": "ai:us adds disappointing 29,000 jobs and unemployment ticks up in fresh hurdle for trump before midterms",
+   "text": "US adds disappointing 29,000 jobs and unemployment ticks up in fresh hurdle for Trump before midterms"
+  },
+  {
+   "key": "ai:boy, 4, shot dead after 'teens sprayed bullets into houses'",
+   "text": "Boy, 4, shot dead after 'teens sprayed bullets into houses'"
+  },
+  {
+   "key": "ai:ex-soldier who killed wife before he was found bloodied & snoring on floor jailed",
+   "text": "Ex-soldier who killed wife before he was found bloodied & snoring on floor jailed"
+  }
+ ]
+}
