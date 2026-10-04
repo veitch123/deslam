@@ -1,0 +1,87 @@
+{
+ "instructions": "haiku453sv44ncwv54j",
+ "model": "claude-sonnet-5",
+ "piece": "queue/20261004T001200Z-01.json",
+ "answers": [
+  {
+   "key": "ai:barney ronay bellingham excels for england but uefa sends wrong message on racism",
+   "category": "loaded language",
+   "headline": "Barney Ronay: Bellingham plays well for England but Uefa sends wrong message on racism"
+  },
+  {
+   "key": "ai:exclusive sir ranulph fiennes 'drew up secret will on everest trek after wife vetoed his divorce plan', friend says amid speculation about whereabouts of world's greatest living explorer",
+   "category": "claim laundering",
+   "headline": "Sir Ranulph Fiennes drew up secret will on Everest trek after wife vetoed his divorce plan, friend says"
+  },
+  {
+   "key": "ai:exclusive sir ranulph fiennes 'drew up secret will on everest trek after wife vetoed his plan to divorce her'",
+   "category": "claim laundering",
+   "headline": "Sir Ranulph Fiennes drew up secret will on Everest trek after wife vetoed his plan to divorce her, friend says"
+  },
+  {
+   "key": "ai:trump addresses voters in battleground ohio ahead of critical election",
+   "category": "loaded language",
+   "headline": "Trump addresses voters in battleground Ohio ahead of election"
+  },
+  {
+   "key": "ai:how landlord won tax relief on rs 14.96 lakh demonetisation cash deposit",
+   "category": "clickbait",
+   "headline": "Unclear"
+  },
+  {
+   "key": "ai:british indian pair fight extradition to us over alleged cancer drug fraud",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:john leguizamo says odyssey costar matt damon is the 'coolest, funniest, realest dude' ahead of filming next movie together (exclusive)",
+   "category": "fluff",
+   "headline": "John Leguizamo says Odyssey costar Matt Damon is 'coolest, funniest, realest dude' ahead of filming next movie together"
+  },
+  {
+   "key": "ai:cornell knew of drug arrest, overdose at chi phi frat before alleged gang rape: records",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:yemeni forces strike houthi-held sanaa as trump signals decision on iran",
+   "category": "none",
+   "headline": ""
+  },
+  {
+   "key": "ai:brazil's lula and flávio bolsonaro campaign in powerhouse state ahead of sunday's presidential vote",
+   "category": "none",
+   "headline": ""
+  }
+ ],
+ "runner": {
+  "version": 1,
+  "calls": 2,
+  "cost": 0.10489200000000001,
+  "ms": 43063,
+  "tokens": {
+   "input_tokens": 4,
+   "cache_creation_input_tokens": 13895,
+   "cache_read_input_tokens": 0,
+   "output_tokens": 4010
+  },
+  "errors": [],
+  "model": "claude-sonnet-5",
+  "models": {
+   "claude-haiku-4-5": {
+    "calls": 2,
+    "output": 25,
+    "cost": 0.0092
+   },
+   "claude-sonnet-5": {
+    "calls": 2,
+    "output": 4010,
+    "cost": 0.0957
+   }
+  },
+  "started": "2026-10-04T00:13:15.545Z",
+  "finished": "2026-10-04T00:13:58.610Z",
+  "rewrites": 6,
+  "askedTwice": 5
+ }
+}
